@@ -1846,3 +1846,5 @@ INCOLORO P-402
 
 ### Página 17
 
+> ℹ️ **PÁGINA EN BLANCO EN EL ORIGINAL** (sin texto ni imágenes). No es un fallo de extracción.
+

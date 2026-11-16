@@ -17,13 +17,16 @@
 ## Fase 1 — Extracción documental (30 %)
 - [x] Pipeline PyMuPDF + pdfplumber: ~100 FDS → Markdown (**101/101**)
 - [x] Extracción de imágenes con rutas relativas (923 imágenes)
-- [ ] OCR puntual con Tesseract (1 página escaneada detectada, pendiente instalación)
+- [x] OCR configurado (Tesseract 5.4 + spa): 0 páginas escaneadas; 1 página
+      en blanco verificada visualmente y documentada
 - [x] Verificador: tabla/bloque por ficha contra el PDF (validación cruzada
       pdfplumber↔PyMuPDF; 74/101 tablas verificadas, 27 marcadas para revisión)
 - [x] Detector de las 16 secciones GHS (ausente vs. fallo, sin inferencia)
 - [x] Log de extracción en CSV (documento, página, sección, estado, notas)
 - [x] Evidencia de verificación guardada → `docs/verificacion_extraccion.md`
-- [ ] Muestreo manual de 10 fichas (MD vs PDF) — tarea del grupo
+- [ ] Muestreo manual de 12 fichas (MD vs PDF) → `docs/muestreo_manual.md`
+- [ ] Completar 11 versiones N/D y 4 fabricantes dudosos →
+      `results/pendientes_revision.csv`
 
 ## Fase 2 — RAG funcional (25 %)
 - [ ] Chunking por secciones con solapamiento (documentar tamaño/solapamiento)

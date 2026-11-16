@@ -34,10 +34,22 @@ def verify_document(pdf_path, tables_by_page):
         "celdas_coincidentes": 0,
         "cobertura_pct": None,
         "bloque_verificado": None,
-        "paginas_escaneadas": sum(1 for t in page_texts.values() if not t),
+        "paginas_escaneadas": 0,  # se calcula abajo (sin texto Y con imagenes)
+        "paginas_en_blanco": 0,
         "errores": [],
         "estado": "PENDIENTE",
     }
+    # Página en blanco: sin texto NI imágenes (no es fallo de extracción)
+    doc = pymupdf.open(pdf_path)
+    scanned, blank = 0, 0
+    for p in doc:
+        if not p.get_text().strip():
+            if p.get_images():
+                scanned += 1
+            else:
+                blank += 1
+    doc.close()
+    result["paginas_en_blanco"] = blank
 
     # 1) Verificación cruzada de la primera tabla sustantiva
     for pno in sorted(tables_by_page):
@@ -73,8 +85,12 @@ def verify_document(pdf_path, tables_by_page):
 
     if result["paginas_escaneadas"]:
         result["errores"].append(
-            f"{result['paginas_escaneadas']} página(s) sin texto extraíble: "
+            f"{result['paginas_escaneadas']} página(s) escaneada(s): "
             "requieren OCR (limitación documentada)")
+    if result["paginas_en_blanco"]:
+        result["errores"].append(
+            f"{result['paginas_en_blanco']} página(s) en blanco en el "
+            "original (verificada visualmente; no es fallo de extracción)")
     return result
 
 

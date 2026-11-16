@@ -11,6 +11,8 @@
   - Contenido por página con encabezados de sección inline (anclas para chunking).
   - Tablas en formato Markdown (celdas multilínea con `<br>`).
   - Imágenes enlazadas con rutas relativas + caption con documento/página/sección.
+  - Páginas problemáticas marcadas en el propio documento:
+    "PÁGINA ESCANEADA: requiere OCR" o "PÁGINA EN BLANCO EN EL ORIGINAL".
 
 ## Verificación cruzada de tablas (metodología)
 
@@ -44,21 +46,39 @@ anclaje de etiquetas a inicio de línea, ventana corta de candidatos, rechazo de
 direcciones/teléfonos/web, y preferencia por razones sociales con tokens
 corporativos. **Si no hay confianza, se registra N/D en lugar de inferir.**
 
+## OCR y páginas problemáticas
+
+- **Tesseract 5.4** instalado con paquete de español (`tessdata/spa.traineddata`).
+- Revisión página a página del corpus completo:
+  - **0 páginas escaneadas** que requieran OCR.
+  - **1 página en blanco en el original** (FDS 97 - MADETEC, pág. 17):
+    verificada visualmente con el render del PDF y por OCR (0 caracteres).
+    Documentada como "PÁGINA EN BLANCO EN EL ORIGINAL", no como fallo de
+    extracción.
+- Limitación documentada: los **pictogramas GHS son imágenes no textuales**;
+  su interpretación se limita a lo que el propio documento declara en texto.
+  No se intenta inferir su significado.
+
 ## Limitaciones registradas
 
-1. **OCR**: 1 página escaneada detectada (FDS 97 - MADETEC, AKSONOBEL) marcada
-   como "REQUIERE OCR" en el Markdown; Tesseract no instalado aún en el entorno.
-   Los pictogramas GHS son imágenes no textuales: su interpretación se limita a
-   lo que el propio documento declara en texto.
-2. **Tablas con diferencias (27)**: layout no rectangular / celdas fusionadas;
+1. **Tablas con diferencias (27)**: layout no rectangular / celdas fusionadas;
    el contenido textual se conserva igualmente en el Markdown.
-3. **Versiones N/D (11)**: completar manualmente contra el PDF durante la
-   verificación del corpus (tarea del grupo, no automatizable sin riesgo).
-4. **923 imágenes extraídas**: incluye pictogramas, logos y diagramas; la
-   asociación imagen↔tabla solo se declara cuando la página lo evidencia.
+2. **Versiones N/D (11)**: completar manualmente contra el PDF
+   (`results/pendientes_revision.csv`).
+3. **4 fabricantes dudosos**: confirmar en el PDF y corregir el log.
+4. Las tablas "de layout" de algunos fabricantes (celdas fusionadas) se
+   extraen como tablas de una sola celda multilínea — contenido fiel, forma
+   imprecisa.
+
+## Muestreo manual pendiente (tarea del grupo)
+
+- Plantilla y fichas asignadas: **`docs/muestreo_manual.md`** (12 fichas:
+  1 por fabricante + las de tablas con diferencias).
+- Si se hallan errores sistemáticos → ajustar pipeline y regenerar
+  (`python -m src.extraction.run`, ~3 min).
 
 ## Próximos pasos (Fase 2)
 
-- Muestreo manual de 10 fichas comparando MD vs PDF (plantilla abajo).
-- Instalar Tesseract y procesar la página escaneada pendiente.
 - Chunking por secciones usando el mapa de secciones del Markdown.
+- Índice ChromaDB con metadatos de trazabilidad.
+- RAG con Ollama en EC2 (Learner Lab).

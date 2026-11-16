@@ -64,6 +64,10 @@ def build_markdown(pdf_path, extracted, tables, img_dir_rel):
                       "extraíble con la biblioteca vectorial; revisar imagen "
                       "asociada. Limitación registrada en el log.")
             md.append("")
+        elif not pinfo["text"].strip():
+            md.append("> ℹ️ **PÁGINA EN BLANCO EN EL ORIGINAL** (sin texto ni "
+                      "imágenes). No es un fallo de extracción.")
+            md.append("")
 
         current_section = None
         for line in pinfo["lines"]:
