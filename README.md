@@ -60,8 +60,11 @@ trazabilidad, reproducibilidad y eficiencia de recursos.
 ```bash
 pip install -r requirements.txt
 
-# 1. Extracción
-python -m src.extraction.run --input data/ --output corpus/
+# 1. Extracción: 101 FDS -> corpus/ (~3 minutos)
+python -m src.extraction.run
+
+#    ...o solo 5 fichas para probar cambios rápido:
+python -m src.extraction.run --limit 5
 
 # 2. Índice vectorial
 python -m src.rag.build_index
@@ -102,9 +105,8 @@ En esta fase se construyó y ejecutó el pipeline de extracción documental que 
 
 - **Verificación automática y validación cruzada:**
   - Doble verificación cruzada: contraste entre tablas extraídas con `pdfplumber` y texto de la página en `PyMuPDF`.
-  - **74/101 tablas verificadas** con cobertura completa ($\ge 80\%$) y **27 marcadas para revisión** debido a layouts complejos con celdas fusionadas (todas preservan su contenido textual íntegro en el Markdown).
-  - Coincidencia de paginación exacta: **1.134 de 1.134 páginas coincidentes (0 discrepancias)**.
-  - Cobertura de vocabulario: promedio de **99.91 %** (101/101 con $\ge 99\%$).
+  - **74/101 tablas verificadas** con cobertura ≥ 80 % y **27 marcadas para revisión** debido a layouts complejos con celdas fusionadas (todas preservan su contenido textual íntegro en el Markdown).
+  - La evidencia por ficha (celdas totales, celdas coincidentes, cobertura) queda registrada en `results/verification_log.csv`.
 
 - **Metadatos de procedencia y versión:**
   - Extracción desde la sección 1 aplicando reglas anti-falsos-positivos (anclaje de etiquetas, rechazo de direcciones/teléfonos y filtro de razones sociales).
@@ -123,3 +125,34 @@ En esta fase se construyó y ejecutó el pipeline de extracción documental que 
   - `results/pendientes_revision.csv`: 11 versiones y 4 fabricantes a confirmar.
   - `docs/verificacion_extraccion.md`: memoria técnica de metodología y limitaciones.
   - `docs/muestreo_manual.md`: asignación de 12 fichas para verificación humana del equipo.
+
+### Cómo funciona el pipeline de extracción
+
+Archivos (`src/extraction/`):
+
+| Archivo | Rol |
+|---|---|
+| `config.py` | Rutas, tabla de las 16 secciones GHS y sus palabras clave de detección |
+| `extractor.py` | Motor: texto por página, detección de secciones, metadatos (fabricante/producto/versión), imágenes |
+| `build_markdown.py` | Genera el `.md` por ficha: cabecera de trazabilidad, mapa de secciones, tablas e imágenes |
+| `verify.py` | Verificación cruzada pdfplumber ↔ PyMuPDF: cobertura de celdas, páginas escaneadas/en blanco |
+| `run.py` | Orquestador: recorre las 101 carpetas, llama a los anteriores y escribe los logs CSV |
+| `ocr_pending.py` | OCR puntual con Tesseract (solo si aparece una página escaneada) |
+
+Flujo en una frase:
+
+> `run.py` lee cada PDF → `extractor.py` separa texto/secciones/metadatos/imágenes → `build_markdown.py` arma el `.md` → `verify.py` valida las tablas contra el PDF original → todo queda en `corpus/` y en los CSV de `results/`.
+
+Detalles de diseño relevantes:
+
+- **Detección de secciones en dos niveles**: primero encabezados numerados
+  (`"1. IDENTIFICACION..."`, `"SECCIÓN 1:..."`); si falta una sección, búsqueda
+  de sus palabras clave en el cuerpo. Lo no encontrado se marca
+  `AUSENTE EN ORIGINAL (no inferir)`.
+- **Metadatos con reglas anti-falsos-positivos**: etiquetas ancladas a inicio de
+  línea, ventana corta de candidatos, rechazo de direcciones/teléfonos/web y
+  preferencia por razones sociales con tokens corporativos. Sin confianza → `N/D`.
+- **Errores por ficha aislados**: si un PDF falla, se registra como
+  `FALLO DE EXTRACCIÓN` y el pipeline continúa con las demás.
+- Si se cambia el pipeline, el corpus completo se regenera en ~3 minutos
+  (`python -m src.extraction.run`).
