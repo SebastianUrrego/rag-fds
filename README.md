@@ -76,5 +76,50 @@ python -m src.evaluation.run --topk 6
 
 ## Documentación
 
-- [Arquitectura y decisiones](docs/arquitectura.md)
-- [Roadmap y entregables](docs/roadmap.md)
+- [Arquitectura y decisiones de diseño](docs/arquitectura.md)
+- [Roadmap y checklist de entregables](docs/roadmap.md)
+- [Evidencia y metodología de verificación de extracción](docs/verificacion_extraccion.md)
+- [Plantilla de muestreo manual (verificación humana)](docs/muestreo_manual.md)
+
+---
+
+## Avance por fases
+
+### Fase 1 — Extracción y fidelidad documental (30 % — Completada)
+
+En esta fase se construyó y ejecutó el pipeline de extracción documental que convierte las **101 Fichas de Datos de Seguridad (FDS)** suministradas —de fabricantes como Pintuco, CORLANC, SIKA, Corona, Invesa, PPG, AKZONOBEL, TECNIDECOR, QUIMICA COSMOS, Pintubler y Axalta (años 2018–2025)— a documentos Markdown estructurados, preservando su fidelidad técnica y garantizando la trazabilidad de cada elemento.
+
+- **Pipeline de extracción (`src/extraction/`):**
+  - Implementado en Python con **PyMuPDF (`fitz`)** y **`pdfplumber`** (100 % open source).
+  - Genera un archivo `.md` por cada FDS en `corpus/<año>/<producto>.md` preservando cabeceras de metadatos, los títulos de las 16 secciones estándar GHS, listas, notas, unidades de medida y referencias normativas.
+  - Las tablas se extraen con `pdfplumber` y se renderizan en tablas Markdown estándar (soporte de celdas multilínea con `<br>`).
+  - Las imágenes técnicas (pictogramas GHS, diagramas, logos) se conservan como archivos independientes en `corpus/<año>/<producto>/img/` enlazadas con **rutas relativas** y trazabilidad de documento, página y sección (**923 imágenes extraídas, 0 enlaces rotos**).
+
+- **Trazabilidad de secciones:**
+  - Mapa de 16 secciones GHS generado en la cabecera de cada ficha indicando página y estado (`OK` vs `AUSENTE EN ORIGINAL`).
+  - Detección dual: encabezados numerados oficiales respaldados por palabras clave por sección.
+  - Regla estricta: cuando una sección no existe en la fuente, se etiqueta como **`AUSENTE EN ORIGINAL (no inferir)`**, sin inventar ni completar información.
+
+- **Verificación automática y validación cruzada:**
+  - Doble verificación cruzada: contraste entre tablas extraídas con `pdfplumber` y texto de la página en `PyMuPDF`.
+  - **74/101 tablas verificadas** con cobertura completa ($\ge 80\%$) y **27 marcadas para revisión** debido a layouts complejos con celdas fusionadas (todas preservan su contenido textual íntegro en el Markdown).
+  - Coincidencia de paginación exacta: **1.134 de 1.134 páginas coincidentes (0 discrepancias)**.
+  - Cobertura de vocabulario: promedio de **99.91 %** (101/101 con $\ge 99\%$).
+
+- **Metadatos de procedencia y versión:**
+  - Extracción desde la sección 1 aplicando reglas anti-falsos-positivos (anclaje de etiquetas, rechazo de direcciones/teléfonos y filtro de razones sociales).
+  - **97/101 fabricantes** y **90/101 versiones/fechas** identificados automáticamente; los casos dudosos quedan registrados en `results/pendientes_revision.csv` para verificación manual.
+
+- **OCR y elementos no textuales:**
+  - Tesseract 5.4 + paquete en español (`tessdata/spa.traineddata`) integrado.
+  - Se confirmó que el corpus es digital: **0 páginas escaneadas**.
+  - Se detectó y documentó **1 página en blanco en el original** (FDS 97, pág. 17), diferenciándola de un fallo de extracción.
+  - Limitación documentada: los pictogramas GHS no se interpretan por inferencia visual; solo se cita lo expresado en texto por la FDS.
+
+- **Artefactos y resultados generados:**
+  - `corpus/`: 101 archivos Markdown y 923 imágenes organizados por año.
+  - `results/extraction_log.csv`: log general de extracción por ficha.
+  - `results/verification_log.csv`: métricas de validación cruzada y cobertura de tablas.
+  - `results/pendientes_revision.csv`: 11 versiones y 4 fabricantes a confirmar.
+  - `docs/verificacion_extraccion.md`: memoria técnica de metodología y limitaciones.
+  - `docs/muestreo_manual.md`: asignación de 12 fichas para verificación humana del equipo.
