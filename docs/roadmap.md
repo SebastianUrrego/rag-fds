@@ -15,13 +15,15 @@
 - [ ] Script de registro de hardware y consumo (nvidia-smi/free + horas + costo)
 
 ## Fase 1 — Extracción documental (30 %)
-- [ ] Pipeline PyMuPDF + pdfplumber: ~100 FDS → Markdown
-- [ ] Extracción de imágenes con rutas relativas
-- [ ] OCR puntual con Tesseract (donde aplique)
-- [ ] Verificador: al menos 1 tabla/bloque por ficha comparada contra el PDF
-- [ ] Detector de las 16 secciones GHS (ausente vs. fallo de extracción)
-- [ ] Log de extracción en CSV (documento, página, sección, estado, notas)
-- [ ] Evidencia de verificación guardada (capturas/comparaciones)
+- [x] Pipeline PyMuPDF + pdfplumber: ~100 FDS → Markdown (**101/101**)
+- [x] Extracción de imágenes con rutas relativas (923 imágenes)
+- [ ] OCR puntual con Tesseract (1 página escaneada detectada, pendiente instalación)
+- [x] Verificador: tabla/bloque por ficha contra el PDF (validación cruzada
+      pdfplumber↔PyMuPDF; 74/101 tablas verificadas, 27 marcadas para revisión)
+- [x] Detector de las 16 secciones GHS (ausente vs. fallo, sin inferencia)
+- [x] Log de extracción en CSV (documento, página, sección, estado, notas)
+- [x] Evidencia de verificación guardada → `docs/verificacion_extraccion.md`
+- [ ] Muestreo manual de 10 fichas (MD vs PDF) — tarea del grupo
 
 ## Fase 2 — RAG funcional (25 %)
 - [ ] Chunking por secciones con solapamiento (documentar tamaño/solapamiento)
