@@ -98,9 +98,11 @@ Versión
 : 2
 1/16
 
-![imagen página 1](FDS 97 - MADETEC-POLIURETANO-LACA-SEMIMATE-INCOLORO-P-402- AKZONOBEL/img/page1_xref23.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 97 - MADETEC-POLIURETANO-LACA-SEMIMATE-INCOLORO-P-402- AKZONOBEL.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 97 - MADETEC-POLIURETANO-LACA-SEMIMATE-INCOLORO-P-402- AKZONOBEL/img/page1_xref23.jpeg>)
+
+*Imagen técnica — documento: FDS 97 - MADETEC-POLIURETANO-LACA-SEMIMATE-INCOLORO-P-402- AKZONOBEL.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -1840,9 +1842,11 @@ INCOLORO P-402
 | Peligro<br>Líquido y vapores inflamables. Puede ser nocivo en contacto<br>con la piel. Provoca irritación cutánea. Provoca irritación<br>ocular grave. Puede irritar las vías respiratorias. Puede<br>provocar defectos genéticos. Puede provocar cáncer.<br>Procurarse las instrucciones antes del uso. Usar guantes de<br>protección, ropa de protección e equipo de protección para la<br>cara o los ojos. Mantener alejado del calor, chispas, llamas al<br>descubierto, superficies calientes y otras fuentes de ignición.<br>No fumar. Evitar respirar vapor. En caso de exposición<br>demostrada o supuesta: Consultar a un médico. Almacenar<br>en un lugar bien ventilado. Mantener fresco. | Fabricante:<br>Autopista Medellín Bogotá Km 37<br>Vía Belén Rionegro Km 1<br>054040 Rionegro - Antioquia -<br>Colombia<br>01 8000 111 247<br>Medellín 604 325 2523<br>PSRA.southamerica@akzonobel.<br>com<br>Teléfono de emergencia:<br>018000111247|
 | Nombre químico Número de CAS Conc.<br>Xilenos, mez cla isómeros 1330-20-7 ≥25 - ≤40<br>Etilbenceno 100-41-4 <10<br>Acetato de n-butilo 123-86-4 ≤10<br>Acetato de isobutilo 110-19-0 ≤3<br>Acetato d e 1-metil-2-metoxietilo 108-65-6 ≤3<br>Tolueno 108-88-3 ≤0.3<br>sebacato de b is(1,2,2,6,6-pentametil-4-piperidilo) 41556-26-7 <0.25<br>Nafta VM y P 8032-32-4 ≤0.3<br>UN1263 MADETEC POLIURETANO LACA SEMIMATE<br>INCOLORO P-402 | |
 
-![imagen página 16](FDS 97 - MADETEC-POLIURETANO-LACA-SEMIMATE-INCOLORO-P-402- AKZONOBEL/img/page16_xref174.jpeg)
+#### Imagen técnica 1 (página 16, sección 16)
 
-*Imagen técnica — documento: FDS 97 - MADETEC-POLIURETANO-LACA-SEMIMATE-INCOLORO-P-402- AKZONOBEL.pdf.pdf, página 16, sección: indeterminada.*
+![imagen técnica página 16](<FDS 97 - MADETEC-POLIURETANO-LACA-SEMIMATE-INCOLORO-P-402- AKZONOBEL/img/page16_xref174.jpeg>)
+
+*Imagen técnica — documento: FDS 97 - MADETEC-POLIURETANO-LACA-SEMIMATE-INCOLORO-P-402- AKZONOBEL.pdf, página 16, sección: 16.*
 
 ### Página 17
 

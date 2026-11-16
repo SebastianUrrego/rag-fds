@@ -104,9 +104,11 @@ Categoría 2
 Peligro a largo plazo (crónico) :
 Categoría 3
 
-![imagen página 1](FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page1_xref6.png>)
+
+*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -172,21 +174,29 @@ inmediatamente a un CENTRO DE TOXICOLOGÍA o a un mé-
 dico.
 P314 Consultar a un médico si la persona se encuentra mal.
 
-![imagen página 2](FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page2_xref21.png)
+#### Imagen técnica 1 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+![imagen técnica página 2](<FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page2_xref21.png>)
 
-![imagen página 2](FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page2_xref23.png)
+*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf, página 2, sección: 2.*
 
-*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+#### Imagen técnica 2 (página 2, sección 2)
 
-![imagen página 2](FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page2_xref25.png)
+![imagen técnica página 2](<FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page2_xref23.png>)
 
-*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf, página 2, sección: 2.*
 
-![imagen página 2](FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page2_xref27.png)
+#### Imagen técnica 3 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+![imagen técnica página 2](<FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page2_xref25.png>)
+
+*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf, página 2, sección: 2.*
+
+#### Imagen técnica 4 (página 2, sección 2)
+
+![imagen técnica página 2](<FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page2_xref27.png>)
+
+*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf, página 2, sección: 2.*
 
 ### Página 3
 
@@ -970,13 +980,17 @@ RIESGO FÍSICO
 INFLAMABILIDAD
 SALUD
 
-![imagen página 11](FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page11_xref54.png)
+#### Imagen técnica 1 (página 11, sección 16)
 
-*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf.pdf, página 11, sección: 16.*
+![imagen técnica página 11](<FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page11_xref54.png>)
 
-![imagen página 11](FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page11_xref55.png)
+*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf, página 11, sección: 16.*
 
-*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf.pdf, página 11, sección: 16.*
+#### Imagen técnica 2 (página 11, sección 16)
+
+![imagen técnica página 11](<FDS 72 - Sikafloor-2430 CO Comp.B - SIKA/img/page11_xref55.png>)
+
+*Imagen técnica — documento: FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf, página 11, sección: 16.*
 
 ### Página 12
 

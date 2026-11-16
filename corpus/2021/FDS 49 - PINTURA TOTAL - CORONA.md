@@ -100,21 +100,29 @@ Página 1/10
 |  | SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>NFPA:<br>Salud: 2<br>Inflamabilidad: 0<br>Inestabilidad: 0<br>Especiales: No relevante<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente<br>Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.<br>Carc. 1B: Carcinogenicidad, Categoría 1B, H350<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>NFPA:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Carc. 1B: H350 - Puede provocar cáncer.<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P201: Procurarse las instrucciones antes del uso.<br>P202: No manipular antes de haber leído y comprendido todas las precauciones de seguridad.<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico.<br>P405: Guardar bajo llave.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.<br>Sustancias que contribuyen a la clasificación<br>Dioxido de titanio (diámetro aerodinámico ≤ 10 μm); Dioxido de silicio (1 % < RCS < 10 %)<br>2.3 Otros peligros que no conducen a una clasificación:<br>No relevante | |
 
-![imagen página 1](FDS 49 - PINTURA TOTAL - CORONA/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 49 - PINTURA TOTAL - CORONA/img/page1_xref6.png>)
 
-![imagen página 1](FDS 49 - PINTURA TOTAL - CORONA/img/page1_xref20.png)
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 49 - PINTURA TOTAL - CORONA/img/page1_xref22.png)
+![imagen técnica página 1](<FDS 49 - PINTURA TOTAL - CORONA/img/page1_xref20.png>)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 49 - PINTURA TOTAL - CORONA/img/page1_xref24.png)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 49 - PINTURA TOTAL - CORONA/img/page1_xref22.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 1, sección: 2.*
+
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 49 - PINTURA TOTAL - CORONA/img/page1_xref24.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -216,13 +224,17 @@ Página 2/10
 | CAS: 13463-67-7 | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm)<br>Carc. 2: H351 - Atención | 2.5 - <10 %|
 | CAS: 7631-86-9 | Dioxido de silicio (1 % < RCS < 10 %)<br>Carc. 1B: H350; STOT repe. 2: H373 - Peligro | <1 %|
 
-![imagen página 2](FDS 49 - PINTURA TOTAL - CORONA/img/page2_xref30.png)
+#### Imagen técnica 1 (página 2, sección 3)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 2, sección: 5.*
+![imagen técnica página 2](<FDS 49 - PINTURA TOTAL - CORONA/img/page2_xref30.png>)
 
-![imagen página 2](FDS 49 - PINTURA TOTAL - CORONA/img/page2_xref37.png)
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 2, sección: 3.*
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 2, sección: 5.*
+#### Imagen técnica 2 (página 2, sección 2)
+
+![imagen técnica página 2](<FDS 49 - PINTURA TOTAL - CORONA/img/page2_xref37.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 2, sección: 2.*
 
 ### Página 3
 
@@ -307,13 +319,17 @@ Página 3/10
 |  | SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO|
 | 7.1 Precauciones que se deben tomar para garantizar una manipulación segura:<br>A.- Precauciones generales<br>Cumplir con la legislación vigente en materia de prevención de riesgos laborales. Mantener los recipientes herméticamente<br>cerrados. Controlar los derrames y residuos, eliminándolos con métodos seguros (sección 6 de la FDS). Evitar el vertido libre<br>desde el recipiente. Mantener orden y limpieza donde se manipulen productos peligrosos.<br>B.- Recomendaciones técnicas para la prevención de incendios y explosiones.<br>Producto no inflamable bajo condiciones normales de almacenamiento, manipulación y uso. Se recomienda trasvasar a<br>velocidades lentas para evitar la generación de cargas electroestáticas que pudieran afectar a productos inflamables. Consultar la<br>sección 10 de la FDS sobre condiciones y materias que deben evitarse.<br>C.- Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos.<br>Para control de exposición consultar la sección 8 de la FDS. No comer, beber ni fumar en las zonas de trabajo<br>lavarse las manos después de cada utilización, y despojarse de prendas de vestir y equipos de protección contaminados antes de<br>entrar en las zonas para comer.<br>D.- Recomendaciones técnicas para prevenir riesgos medioambientales<br>Se recomienda disponer de material absorbente en las proximidades del producto (ver epígrafe 6.3 de la FDS para mayor<br>información)<br>7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:<br>A.- Medidas técnicas de almacenamiento<br>Temperatura mínima: 5 ºC<br>Temperatura máxima: 30 ºC<br>Tiempo máximo: 6 meses | |
 
-![imagen página 3](FDS 49 - PINTURA TOTAL - CORONA/img/page3_xref43.png)
+#### Imagen técnica 1 (página 3, sección 6)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 3, sección: 10.*
+![imagen técnica página 3](<FDS 49 - PINTURA TOTAL - CORONA/img/page3_xref43.png>)
 
-![imagen página 3](FDS 49 - PINTURA TOTAL - CORONA/img/page3_xref45.png)
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 3, sección: 6.*
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 3, sección: 10.*
+#### Imagen técnica 2 (página 3, sección 5)
+
+![imagen técnica página 3](<FDS 49 - PINTURA TOTAL - CORONA/img/page3_xref45.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 3, sección: 5.*
 
 ### Página 4
 
@@ -443,21 +459,29 @@ Página 4/10
 |---|---|---|
 |  | Guantes NO desechables de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso<br>(Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de<br>uso del producto. No emplear cremas protectoras después del contacto del producto<br>con la piel.|
 
-![imagen página 4](FDS 49 - PINTURA TOTAL - CORONA/img/page4_xref49.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 49 - PINTURA TOTAL - CORONA/img/page4_xref49.png>)
 
-![imagen página 4](FDS 49 - PINTURA TOTAL - CORONA/img/page4_xref51.png)
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 10)
 
-![imagen página 4](FDS 49 - PINTURA TOTAL - CORONA/img/page4_xref53.png)
+![imagen técnica página 4](<FDS 49 - PINTURA TOTAL - CORONA/img/page4_xref51.png>)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 4, sección: 10.*
 
-![imagen página 4](FDS 49 - PINTURA TOTAL - CORONA/img/page4_xref55.png)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 49 - PINTURA TOTAL - CORONA/img/page4_xref53.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 4 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 49 - PINTURA TOTAL - CORONA/img/page4_xref55.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -573,33 +597,47 @@ Página 5/10
 |---|---|---|---|
 | Ducha de emergencia | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 5](FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref59.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref59.png>)
 
-![imagen página 5](FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref61.png)
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref63.png)
+![imagen técnica página 5](<FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref61.png>)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref65.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref63.png>)
 
-![imagen página 5](FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref67.png)
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 4 (página 5, sección 8)
 
-![imagen página 5](FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref69.png)
+![imagen técnica página 5](<FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref65.png>)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref71.png)
+#### Imagen técnica 5 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref67.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 6 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref69.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 7 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 49 - PINTURA TOTAL - CORONA/img/page5_xref71.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -717,13 +755,17 @@ Página 6/10
 |---|---|---|---|---|
 | Evitar ácidos fuertes | No aplicable | No aplicable | No aplicable | Evitar álcalis o bases fuertes|
 
-![imagen página 6](FDS 49 - PINTURA TOTAL - CORONA/img/page6_xref75.png)
+#### Imagen técnica 1 (página 6, sección 9)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 6, sección: 10.*
+![imagen técnica página 6](<FDS 49 - PINTURA TOTAL - CORONA/img/page6_xref75.png>)
 
-![imagen página 6](FDS 49 - PINTURA TOTAL - CORONA/img/page6_xref77.png)
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 6, sección: 9.*
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 6, sección: 10.*
+#### Imagen técnica 2 (página 6, sección 9)
+
+![imagen técnica página 6](<FDS 49 - PINTURA TOTAL - CORONA/img/page6_xref77.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 6, sección: 9.*
 
 ### Página 7
 
@@ -797,9 +839,11 @@ Página 7/10
 |---|---|
 | 11.1 Información sobre las posibles vías de exposición:<br>No se dispone de datos experimentales del producto en sí mismo relativos a las propiedades toxicológicas<br>Efectos peligrosos para la salud:<br>En caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición<br>profesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición:<br>A- Ingestión (efecto agudo):<br>- Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por ingestión. Para más información ver sección 3 de la FDS.<br>- Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando<br>sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.<br>B- Inhalación (efecto agudo):<br>- Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por inhalación. Para más información ver sección 3 de la FDS.<br>- Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando<br>sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.<br>C- Contacto con la piel y los ojos (efecto agudo):<br>- Contacto con la piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por contacto con la piel. Para más información ver sección 3 de la FDS.<br>- Contacto con los ojos: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando<br>sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.<br>D- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción):<br>- Carcinogenicidad: La exposición a este producto puede causar cáncer. Para más información sobre posibles efectos específicos<br>sobre la salud ver sección 2 de la FDS.<br>IARC: White mineral oil, <=20.5mm2/s (40ºC) (3); Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) (2B); Dioxido de silicio<br>(1 % < RCS < 10 %) (3); Destilados (petróleo), fracción ligera tratada con hidrógeno (3)<br>- Mutagenicidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.<br>- Toxicidad para la reproducción: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando<br>sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS.<br>E- Efectos de sensibilización:<br>- Respiratoria: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas con efectos sensibilizantes. Para más información ver secciones 2, 3 y 15 de la FDS.<br>- Cutánea: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas<br>como peligrosas por este efecto. Para más información ver sección 3 de la FDS.<br>F- Toxicidad específica en determinados órganos (STOT)-exposición única:<br>A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como<br>peligrosas por este efecto. Para más información ver sección 3 de la FDS.<br>G- Toxicidad específica en determinados órganos (STOT)-exposición repetida:<br>- Toxicidad específica en determinados órganos (STOT)-exposición repetida: A la vista de los datos disponibles, no se cumplen<br>los criterios de clasificación, sin embargo, presenta sustancias clasificadas como peligrosas por inhalación. Para más información<br>ver sección 3 de la FDS.<br>- Piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas<br>como peligrosas por este efecto. Para más información ver sección 3 de la FDS.<br>H- Peligro por aspiración:<br>A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como<br>peligrosas por este efecto. Para más información ver sección 3 de la FDS.<br>Información adicional:<br>CAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay<br>suficientes evidencias para considerarlo carcinógeno en animales pero insuficientes para considerarlo como carcinógeno para seres<br>humanos.<br>La monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de<br>productos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC,<br>Vol. 93, 2010).<br>El lijado repetido de las superficies de película seca puede producir riesgo de sobreexposición al polvo dependiendo de la duración y<br>nivel de lijado, para evitarla deben tomarse las medidas de protección adecuadas. | |
 
-![imagen página 7](FDS 49 - PINTURA TOTAL - CORONA/img/page7_xref81.png)
+#### Imagen técnica 1 (página 7, sección 10)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 7, sección: 11.*
+![imagen técnica página 7](<FDS 49 - PINTURA TOTAL - CORONA/img/page7_xref81.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 7, sección: 10.*
 
 ### Página 8
 
@@ -933,13 +977,17 @@ Página 8/10
 |  | CE50 | 1100 mg/L (48 h) | Daphnia pulex | Crustáceo|
 |  | CE50 | No relevante |  | |
 
-![imagen página 8](FDS 49 - PINTURA TOTAL - CORONA/img/page8_xref85.png)
+#### Imagen técnica 1 (página 8, sección 12)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 8, sección: 14.*
+![imagen técnica página 8](<FDS 49 - PINTURA TOTAL - CORONA/img/page8_xref85.png>)
 
-![imagen página 8](FDS 49 - PINTURA TOTAL - CORONA/img/page8_xref87.png)
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 8, sección: 12.*
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 8, sección: 14.*
+#### Imagen técnica 2 (página 8, sección 11)
+
+![imagen técnica página 8](<FDS 49 - PINTURA TOTAL - CORONA/img/page8_xref87.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 8, sección: 11.*
 
 ### Página 9
 
@@ -1010,13 +1058,17 @@ Página 9/10
 |  | SECCIÓN 16: OTRAS INFORMACIONES|
 | Legislación aplicable a fichas de datos de seguridad:<br>Esta hoja de datos de seguridad de materiales se ha desarrollado de acuerdo a la norma técnica colombiana NTC 4435:2010<br>Textos de las frases legislativas contempladas en la sección 2:<br>H350: Puede provocar cáncer.<br>Textos de las frases legislativas contempladas en la sección 3:<br>Las frases indicadas no se refieren al producto en sí, son sólo a título informativo y hacen referencia a los componentes individuales<br>que aparecen en la sección 3<br>SGA:<br>Carc. 1B: H350 - Puede provocar cáncer.<br>Carc. 2: H351 - Susceptible de provocar cáncer (Inhalación).<br>STOT repe. 2: H373 - Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas (Inhalación).<br>Consejos relativos a la formación:<br>Se recomienda formación mínima en materia de prevención de riesgos laborales al personal que va a manipular este producto, con la<br>finalidad de facilitar la comprensión e interpretación de esta hoja de datos de seguridad de materiales, así como del etiquetado del<br>producto.<br>Principales fuentes bibliográficas:<br>Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC).<br>IARC: Agencia Internacional para la Investigación sobre Cáncer.<br>OSHA: Occupational Safety and Health Administration, U.S Department of Labor.<br>NTP: National Toxicology Program.<br>TOXNET: Toxicology data network.<br>Abreviaturas y acrónimos: | |
 
-![imagen página 9](FDS 49 - PINTURA TOTAL - CORONA/img/page9_xref91.png)
+#### Imagen técnica 1 (página 9, sección 15)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 9, sección: 16.*
+![imagen técnica página 9](<FDS 49 - PINTURA TOTAL - CORONA/img/page9_xref91.png>)
 
-![imagen página 9](FDS 49 - PINTURA TOTAL - CORONA/img/page9_xref93.png)
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 9, sección: 15.*
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 9, sección: 16.*
+#### Imagen técnica 2 (página 9, sección 14)
+
+![imagen técnica página 9](<FDS 49 - PINTURA TOTAL - CORONA/img/page9_xref93.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 9, sección: 14.*
 
 ### Página 10
 
@@ -1052,10 +1104,14 @@ Página 10/10
 | IMDG: Código Marítimo Internacional de Mercancías Peligrosas<br>IATA: Asociación Internacional de Transporte Aéreo<br>OACI: Organización de Aviación Civil Internacional<br>DQO: Demanda Química de Oxígeno<br>DBO5: Demanda Biológica de Oxígeno a los 5 días<br>BCF: Factor de bioconcentración<br>DL50: Dosis Letal 50<br>CL50: Concentración Letal 50<br>EC50: Concentración Efectiva 50<br>Log POW: Logaritmo Coeficiente Partición Octanol-Agua<br>Koc: Coeficiente de Partición del Carbono Orgánico | |
 | La información contenida en esta ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente a nivel europeo y estatal, no pudiendo garantizar la<br>exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en<br>materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del<br>usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta<br>ficha de datos de seguridad de materiales únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican. | |
 
-![imagen página 10](FDS 49 - PINTURA TOTAL - CORONA/img/page10_xref97.png)
+#### Imagen técnica 1 (página 10, sección 16)
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 10, sección: 16.*
+![imagen técnica página 10](<FDS 49 - PINTURA TOTAL - CORONA/img/page10_xref97.png>)
 
-![imagen página 10](FDS 49 - PINTURA TOTAL - CORONA/img/page10_xref99.png)
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 10, sección: 16.*
 
-*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf.pdf, página 10, sección: 16.*
+#### Imagen técnica 2 (página 10, sección 16)
+
+![imagen técnica página 10](<FDS 49 - PINTURA TOTAL - CORONA/img/page10_xref99.png>)
+
+*Imagen técnica — documento: FDS 49 - PINTURA TOTAL - CORONA .pdf, página 10, sección: 16.*

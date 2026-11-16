@@ -100,21 +100,29 @@ Página 1/10
 |  | SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>NFPA:<br>Salud: 2<br>Inflamabilidad: 0<br>Inestabilidad: 0<br>Especiales: No relevante<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente<br>Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.<br>Acuático agudo. 2: Peligrosidad aguda para el medio ambiente acuático, Categoría 2, H401<br>Carc. 2: Carcinogenicidad, Categoría 2, H351<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>NFPA:<br>SGA:<br>Atención<br>Indicaciones de peligro:<br>Acuático agudo. 2: H401 - Tóxico para los organismos acuáticos.<br>Carc. 2: H351 - Susceptible de provocar cáncer (Inhalación).<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P201: Procurarse las instrucciones antes del uso.<br>P202: No manipular antes de haber leído y comprendido todas las precauciones de seguridad.<br>P273: No dispersar en el medio ambiente.<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico.<br>P405: Guardar bajo llave.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.<br>Sustancias que contribuyen a la clasificación<br>Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | |
 
-![imagen página 1](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page1_xref6.png>)
 
-![imagen página 1](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page1_xref20.png)
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page1_xref22.png)
+![imagen técnica página 1](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page1_xref20.png>)
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page1_xref24.png)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page1_xref22.png>)
+
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page1_xref24.png>)
+
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -540,33 +548,47 @@ Página 5/10
 |---|---|---|---|
 | Ducha de emergencia | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 5](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref49.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref49.png>)
 
-![imagen página 5](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref51.png)
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref53.png)
+![imagen técnica página 5](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref51.png>)
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref55.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref53.png>)
 
-![imagen página 5](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref57.png)
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 4 (página 5, sección 8)
 
-![imagen página 5](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref59.png)
+![imagen técnica página 5](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref55.png>)
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref61.png)
+#### Imagen técnica 5 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref57.png>)
+
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 6 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref59.png>)
+
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 7 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page5_xref61.png>)
+
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -667,9 +689,11 @@ Página 6/10
 |  | SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD|
 | 10.1 Reactividad:<br>No se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver sección 7<br>de la FDS para mayor información.<br>10.2 Estabilidad química: | |
 
-![imagen página 6](FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page6_xref65.png)
+#### Imagen técnica 1 (página 6, sección 9)
 
-*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf.pdf, página 6, sección: 10.*
+![imagen técnica página 6](<FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA/img/page6_xref65.png>)
+
+*Imagen técnica — documento: FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf, página 6, sección: 9.*
 
 ### Página 7
 

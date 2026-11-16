@@ -113,17 +113,23 @@ Emisión: 19/03/2021            Revisión: 4/08/2021            Versión: 2 (sus
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema<br>Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de<br>seguridad química.<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Irrit. oc. 2: Irritación ocular, categoría 2, H319<br>Liq. Infl. 3: Líquidos inflamables, Categoría 3, H226<br>Tox. Agud. 4: Toxicidad aguda por inhalación, Categoría 4, H332<br>Tox. Agud. 4: Toxicidad aguda por contacto con la piel, Categoría 4, H312<br>Tox. Agud. 5: Toxicidad aguda por ingestión, Categoría 5, H303<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Atención<br>Indicaciones de peligro:<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea.<br>Irrit. oc. 2: H319 - Provoca irritación ocular grave.<br>Liq. Infl. 3: H226 - Líquido y vapores inflamables.<br>Tox. Agud. 4: H332 - Nocivo si se inhala.<br>Tox. Agud. 4: H312 - Nocivo en contacto con la piel.<br>Tox. Agud. 5: H303 - Puede ser nocivo en caso de ingestión.<br>Consejos de prudencia:<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar.<br>P264: Lavarse cuidadosamente después de la manipulación.<br>P271: Utilizar sólo al aire libre o en un lugar bien ventilado.<br>P280: Usar guantes de protección/equipo de protección para la cara/ropa de protección.<br>P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua.<br>P304+P340: EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la<br>respiración.<br>P305+P351+P338: EN CASO DE CONTACTO CON LOS OJOS: Enjuagar con agua cuidadosamente durante varios minutos.<br>Quitar las lentes de contacto cuando estén presentes y pueda hacerse con facilidad. Proseguir con el lavado.<br>P370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción.<br>P403+P235: Almacenar en un lugar bien ventilado. Mantener fresco.<br>P501: Eliminar el contenido/recipiente de acuerdo con la normativa sobre residuos peligrosos o envases y residuos de envases<br>respectivamente.<br>2.3 Otros peligros que no conducen a una clasificación: | |
 
-![imagen página 1](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page1_xref4.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page1_xref4.png>)
 
-![imagen página 1](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page1_xref7.png)
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page1_xref9.png)
+![imagen técnica página 1](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page1_xref7.png>)
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 3 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page1_xref9.png>)
+
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -608,33 +614,47 @@ Emisión: 19/03/2021            Revisión: 4/08/2021            Versión: 2 (sus
 |---|---|---|---|
 | Ducha de emergencia | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 5](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref15.jpeg)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref15.jpeg>)
 
-![imagen página 5](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref17.jpeg)
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref19.png)
+![imagen técnica página 5](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref17.jpeg>)
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref21.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref19.png>)
 
-![imagen página 5](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref23.jpeg)
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+#### Imagen técnica 4 (página 5, sección 8)
 
-![imagen página 5](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref25.jpeg)
+![imagen técnica página 5](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref21.png>)
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref27.jpeg)
+#### Imagen técnica 5 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref23.jpeg>)
+
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 6 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref25.jpeg>)
+
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 7 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page5_xref27.jpeg>)
+
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -1289,17 +1309,23 @@ Emisión: 19/03/2021            Revisión: 4/08/2021            Versión: 2 (sus
 |---|---|
 | 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:<br>NTP (National Toxicology Program): No relevante | |
 
-![imagen página 10](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page10_xref34.jpeg)
+#### Imagen técnica 1 (página 10, sección 14)
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 10, sección: 15.*
+![imagen técnica página 10](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page10_xref34.jpeg>)
 
-![imagen página 10](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page10_xref36.jpeg)
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 10, sección: 14.*
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 10, sección: 15.*
+#### Imagen técnica 2 (página 10, sección 14)
 
-![imagen página 10](FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page10_xref38.jpeg)
+![imagen técnica página 10](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page10_xref36.jpeg>)
 
-*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf.pdf, página 10, sección: 15.*
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 10, sección: 14.*
+
+#### Imagen técnica 3 (página 10, sección 14)
+
+![imagen técnica página 10](<FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA/img/page10_xref38.jpeg>)
+
+*Imagen técnica — documento: FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf, página 10, sección: 14.*
 
 ### Página 11
 

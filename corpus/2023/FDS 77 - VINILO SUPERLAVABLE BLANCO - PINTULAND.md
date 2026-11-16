@@ -138,9 +138,11 @@ Página 1/11
 | 107-21-1 | Etanodiol<br>STOT repe. 2: H373; Tox. Agud. 4: H302 - Atención | 0.2 - <2.5 %|
 | 330-54-1 | Diurón (ISO)<br>Acuático agudo. 1: H400; Acuático crónico. 1: H410; Carc. 2: H351; STOT repe. 2: H373; Tox. Agud. 4: H302 -<br>Atención | <0.2 %|
 
-![imagen página 1](FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND/img/page1_xref88.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND/img/page1_xref88.png>)
+
+*Imagen técnica — documento: FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf, página 1, sección: 1.*
 
 ### Página 2
 

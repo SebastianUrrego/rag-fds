@@ -132,13 +132,17 @@ Página 1/11
 | 6846-50-0 | Diisobutirato de 1-isopropil-2,2-dimetiltrimetileno<br>Acuático agudo. 3: H402; Acuático crónico. 3: H412; Repr. 2: H361; Tox. Agud. 5: H303 - Atención | 0,2 - <2,5 %|
 | 330-54-1 | Diurón (ISO)<br>Acuático agudo. 1: H400; Acuático crónico. 1: H410; Carc. 2: H351; STOT repe. 2: H373; Tox. Agud. 4: H302 -<br>Atención | <0,2 %|
 
-![imagen página 1](FDS 56 - ACRILAND BLANCO - PINTULAND/img/page1_xref91.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 56 - ACRILAND BLANCO - PINTULAND.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 56 - ACRILAND BLANCO - PINTULAND/img/page1_xref91.png>)
 
-![imagen página 1](FDS 56 - ACRILAND BLANCO - PINTULAND/img/page1_xref100.jpeg)
+*Imagen técnica — documento: FDS 56 - ACRILAND BLANCO - PINTULAND.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 56 - ACRILAND BLANCO - PINTULAND.pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 56 - ACRILAND BLANCO - PINTULAND/img/page1_xref100.jpeg>)
+
+*Imagen técnica — documento: FDS 56 - ACRILAND BLANCO - PINTULAND.pdf, página 1, sección: 1.*
 
 ### Página 2
 

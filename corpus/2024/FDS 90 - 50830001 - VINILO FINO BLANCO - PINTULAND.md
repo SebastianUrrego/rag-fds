@@ -138,9 +138,11 @@ Página 1/10
 | 330-54-1 | Diurón (ISO)<br>Acuático agudo. 1: H400; Acuático crónico. 1: H410; Carc. 2: H351; STOT repe. 2: H373; Tox. Agud. 4: H302 -<br>Atención | <0.2 %|
 | 52-51-7 | Bronopol (DCI)<br>Acuático agudo. 1: H400; Irrit. Cut. 2: H315; Les. Oc. 1: H318; STOT única 3: H335; Tox. Agud. 4: H302+H312<br>- Peligro | <0.2 %|
 
-![imagen página 1](FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND/img/page1_xref81.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND/img/page1_xref81.png>)
+
+*Imagen técnica — documento: FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf, página 1, sección: 1.*
 
 ### Página 2
 

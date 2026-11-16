@@ -100,21 +100,29 @@ Página 1/10
 |  | SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>Este producto contiene menos del 1% de sílice cristalina fracción respirable, por lo que no requiere clasificación<br>NFPA:<br>Salud: 1<br>Inflamabilidad: 0<br>Inestabilidad: 0<br>Especiales: No relevante<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente<br>Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.<br>Acuático agudo. 3: Peligrosidad aguda para el medio ambiente acuático, Categoría 3, H402<br>Acuático crónico. 3: Peligrosidad crónica para el medio ambiente acuático, Categoría 3, H412<br>Sens. Cut. 1A: Sensibilización cutánea, Categoría 1A, H317<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>NFPA:<br>SGA:<br>Atención<br>Indicaciones de peligro:<br>Acuático crónico. 3: H412 - Nocivo para los organismos acuáticos, con efectos nocivos duraderos.<br>Sens. Cut. 1A: H317 - Puede provocar una reacción cutánea alérgica.<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P261: Evitar respirar polvos/humos/gases/ nieblas/vapores/aerosoles.<br>P273: No dispersar en el medio ambiente.<br>P280: Usar guantes/ropa de protección/equipo de protección para los ojos/la cara.<br>P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua.<br>P333+P313: En caso de irritación cutánea o sarpullido: consultar a un médico.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio. | |
 
-![imagen página 1](FDS 44 - TEXTUCO - CORONA/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 44 - TEXTUCO - CORONA/img/page1_xref6.png>)
 
-![imagen página 1](FDS 44 - TEXTUCO - CORONA/img/page1_xref15.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 44 - TEXTUCO - CORONA/img/page1_xref17.png)
+![imagen técnica página 1](<FDS 44 - TEXTUCO - CORONA/img/page1_xref15.png>)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 44 - TEXTUCO - CORONA/img/page1_xref19.png)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 44 - TEXTUCO - CORONA/img/page1_xref17.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 1, sección: 2.*
+
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 44 - TEXTUCO - CORONA/img/page1_xref19.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -203,13 +211,17 @@ Página 2/10
 |---|---|---|
 | CAS: 8031-18-3 | Tierra de batan<br>Acuático agudo. 2: H401; Acuático crónico. 2: H411; Tox. Agud. 4: H302 - Atención | 1 - <2.5 %|
 
-![imagen página 2](FDS 44 - TEXTUCO - CORONA/img/page2_xref33.png)
+#### Imagen técnica 1 (página 2, sección 3)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 2, sección: 5.*
+![imagen técnica página 2](<FDS 44 - TEXTUCO - CORONA/img/page2_xref33.png>)
 
-![imagen página 2](FDS 44 - TEXTUCO - CORONA/img/page2_xref40.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 2, sección: 3.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 2, sección: 5.*
+#### Imagen técnica 2 (página 2, sección 2)
+
+![imagen técnica página 2](<FDS 44 - TEXTUCO - CORONA/img/page2_xref40.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 2, sección: 2.*
 
 ### Página 3
 
@@ -291,13 +303,17 @@ Página 3/10
 |  | SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO|
 | 7.1 Precauciones que se deben tomar para garantizar una manipulación segura:<br>A.- Precauciones generales<br>Cumplir con la legislación vigente en materia de prevención de riesgos laborales. Mantener los recipientes herméticamente<br>cerrados. Controlar los derrames y residuos, eliminándolos con métodos seguros (sección 6 de la FDS). Evitar el vertido libre<br>desde el recipiente. Mantener orden y limpieza donde se manipulen productos peligrosos.<br>B.- Recomendaciones técnicas para la prevención de incendios y explosiones.<br>Debido a sus características de inflamabilidad, el producto no presenta riesgo de incendio bajo condiciones normales de<br>almacenamiento, manipulación y uso.<br>C.- Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos.<br>Para control de exposición consultar la sección 8 de la FDS. No comer, beber ni fumar en las zonas de trabajo<br>lavarse las manos después de cada utilización, y despojarse de prendas de vestir y equipos de protección contaminados antes de<br>entrar en las zonas para comer.<br>D.- Recomendaciones técnicas para prevenir riesgos medioambientales<br>Barrer y recoger el producto con palas u otros medios e introducirlo en un recipiente para su reutilización (preferentemente) o su<br>eliminación. Ver secciones 8 y 13 de la FDS para mayor información.<br>7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:<br>A.- Medidas técnicas de almacenamiento<br>Temperatura mínima: 5 ºC | |
 
-![imagen página 3](FDS 44 - TEXTUCO - CORONA/img/page3_xref48.png)
+#### Imagen técnica 1 (página 3, sección 6)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 3, sección: 7.*
+![imagen técnica página 3](<FDS 44 - TEXTUCO - CORONA/img/page3_xref48.png>)
 
-![imagen página 3](FDS 44 - TEXTUCO - CORONA/img/page3_xref50.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 3, sección: 6.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 3, sección: 7.*
+#### Imagen técnica 2 (página 3, sección 5)
+
+![imagen técnica página 3](<FDS 44 - TEXTUCO - CORONA/img/page3_xref50.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 3, sección: 5.*
 
 ### Página 4
 
@@ -400,25 +416,35 @@ Página 4/10
 |---|---|---|
 | Protección obligat oria<br>de la cara | Gafas panorámicas contra salpicaduras y/o<br>proyecciones | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y<br>desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se<br>recomienda su uso en caso de riesgo de salpicaduras.|
 
-![imagen página 4](FDS 44 - TEXTUCO - CORONA/img/page4_xref54.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 44 - TEXTUCO - CORONA/img/page4_xref54.png>)
 
-![imagen página 4](FDS 44 - TEXTUCO - CORONA/img/page4_xref56.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 7)
 
-![imagen página 4](FDS 44 - TEXTUCO - CORONA/img/page4_xref58.png)
+![imagen técnica página 4](<FDS 44 - TEXTUCO - CORONA/img/page4_xref56.png>)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 4, sección: 7.*
 
-![imagen página 4](FDS 44 - TEXTUCO - CORONA/img/page4_xref60.png)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 44 - TEXTUCO - CORONA/img/page4_xref58.png>)
 
-![imagen página 4](FDS 44 - TEXTUCO - CORONA/img/page4_xref62.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 4 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 44 - TEXTUCO - CORONA/img/page4_xref60.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 5 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 44 - TEXTUCO - CORONA/img/page4_xref62.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -527,29 +553,41 @@ Página 5/10
 |---|---|---|---|
 |  | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 |  | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 5](FDS 44 - TEXTUCO - CORONA/img/page5_xref66.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 44 - TEXTUCO - CORONA/img/page5_xref66.png>)
 
-![imagen página 5](FDS 44 - TEXTUCO - CORONA/img/page5_xref68.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 44 - TEXTUCO - CORONA/img/page5_xref70.png)
+![imagen técnica página 5](<FDS 44 - TEXTUCO - CORONA/img/page5_xref68.png>)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 44 - TEXTUCO - CORONA/img/page5_xref72.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 44 - TEXTUCO - CORONA/img/page5_xref70.png>)
 
-![imagen página 5](FDS 44 - TEXTUCO - CORONA/img/page5_xref74.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 4 (página 5, sección 8)
 
-![imagen página 5](FDS 44 - TEXTUCO - CORONA/img/page5_xref76.png)
+![imagen técnica página 5](<FDS 44 - TEXTUCO - CORONA/img/page5_xref72.png>)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 5 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 44 - TEXTUCO - CORONA/img/page5_xref74.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 6 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 44 - TEXTUCO - CORONA/img/page5_xref76.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -662,13 +700,17 @@ Página 6/10
 |---|---|---|---|---|
 | Evitar ácidos fuertes | No aplicable | No aplicable | No aplicable | Evitar álcalis o bases fuertes|
 
-![imagen página 6](FDS 44 - TEXTUCO - CORONA/img/page6_xref80.png)
+#### Imagen técnica 1 (página 6, sección 9)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 6, sección: 11.*
+![imagen técnica página 6](<FDS 44 - TEXTUCO - CORONA/img/page6_xref80.png>)
 
-![imagen página 6](FDS 44 - TEXTUCO - CORONA/img/page6_xref82.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 6, sección: 9.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 6, sección: 11.*
+#### Imagen técnica 2 (página 6, sección 9)
+
+![imagen técnica página 6](<FDS 44 - TEXTUCO - CORONA/img/page6_xref82.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 6, sección: 9.*
 
 ### Página 7
 
@@ -757,13 +799,17 @@ Página 7/10
 |  | DL50 cutánea | No relevante | |
 |  | CL50 inhalación | No relevante | |
 
-![imagen página 7](FDS 44 - TEXTUCO - CORONA/img/page7_xref86.png)
+#### Imagen técnica 1 (página 7, sección 11)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 7, sección: 12.*
+![imagen técnica página 7](<FDS 44 - TEXTUCO - CORONA/img/page7_xref86.png>)
 
-![imagen página 7](FDS 44 - TEXTUCO - CORONA/img/page7_xref88.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 7, sección: 11.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 7, sección: 12.*
+#### Imagen técnica 2 (página 7, sección 11)
+
+![imagen técnica página 7](<FDS 44 - TEXTUCO - CORONA/img/page7_xref88.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 7, sección: 11.*
 
 ### Página 8
 
@@ -843,13 +889,17 @@ Página 8/10
 |  | CE50 | >1 - 10 mg/L (48 h) |  | Crustáceo|
 |  | CE50 | >1 - 10 mg/L (72 h) |  | Alga|
 
-![imagen página 8](FDS 44 - TEXTUCO - CORONA/img/page8_xref92.png)
+#### Imagen técnica 1 (página 8, sección 13)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 8, sección: 15.*
+![imagen técnica página 8](<FDS 44 - TEXTUCO - CORONA/img/page8_xref92.png>)
 
-![imagen página 8](FDS 44 - TEXTUCO - CORONA/img/page8_xref94.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 8, sección: 13.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 8, sección: 15.*
+#### Imagen técnica 2 (página 8, sección 12)
+
+![imagen técnica página 8](<FDS 44 - TEXTUCO - CORONA/img/page8_xref94.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 8, sección: 12.*
 
 ### Página 9
 
@@ -926,13 +976,17 @@ Página 9/10
 |  | SECCIÓN 16: OTRAS INFORMACIONES|
 | Legislación aplicable a fichas de datos de seguridad:<br>Esta hoja de datos de seguridad de materiales se ha desarrollado de acuerdo a la norma técnica colombiana NTC 4435:2010<br>Textos de las frases legislativas contempladas en la sección 2:<br>H402: Nocivo para los organismos acuáticos.<br>H412: Nocivo para los organismos acuáticos, con efectos nocivos duraderos.<br>H317: Puede provocar una reacción cutánea alérgica.<br>Textos de las frases legislativas contempladas en la sección 3:<br>Las frases indicadas no se refieren al producto en sí, son sólo a título informativo y hacen referencia a los componentes individuales<br>que aparecen en la sección 3<br>SGA:<br>Acuático agudo. 2: H401 - Tóxico para los organismos acuáticos.<br>Acuático crónico. 2: H411 - Tóxico para los organismos acuáticos, con efectos nocivos duraderos.<br>Tox. Agud. 4: H302 - Nocivo en caso de ingestión.<br>Consejos relativos a la formación:<br>Se recomienda formación mínima en materia de prevención de riesgos laborales al personal que va a manipular este producto, con la<br>finalidad de facilitar la comprensión e interpretación de esta hoja de datos de seguridad de materiales, así como del etiquetado del<br>producto.<br>Principales fuentes bibliográficas:<br>Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC).<br>IARC: Agencia Internacional para la Investigación sobre Cáncer.<br>OSHA: Occupational Safety and Health Administration, U.S Department of Labor.<br>NTP: National Toxicology Program.<br>TOXNET: Toxicology data network.<br>Abreviaturas y acrónimos:<br>IMDG: Código Marítimo Internacional de Mercancías Peligrosas<br>IATA: Asociación Internacional de Transporte Aéreo<br>OACI: Organización de Aviación Civil Internacional<br>DQO: Demanda Química de Oxígeno<br>DBO5: Demanda Biológica de Oxígeno a los 5 días<br>BCF: Factor de bioconcentración<br>DL50: Dosis Letal 50<br>CL50: Concentración Letal 50<br>EC50: Concentración Efectiva 50<br>Log POW: Logaritmo Coeficiente Partición Octanol-Agua<br>Koc: Coeficiente de Partición del Carbono Orgánico | |
 
-![imagen página 9](FDS 44 - TEXTUCO - CORONA/img/page9_xref98.png)
+#### Imagen técnica 1 (página 9, sección 16)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 9, sección: 16.*
+![imagen técnica página 9](<FDS 44 - TEXTUCO - CORONA/img/page9_xref98.png>)
 
-![imagen página 9](FDS 44 - TEXTUCO - CORONA/img/page9_xref100.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 9, sección: 16.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 9, sección: 16.*
+#### Imagen técnica 2 (página 9, sección 15)
+
+![imagen técnica página 9](<FDS 44 - TEXTUCO - CORONA/img/page9_xref100.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 9, sección: 15.*
 
 ### Página 10
 
@@ -948,10 +1002,14 @@ FIN DE LA FICHA DE DATOS DE SEGURIDAD
 Emisión: 10/07/2019            Revisión: 16/06/2021            Versión: 2 (sustituye a 1)
 Página 10/10
 
-![imagen página 10](FDS 44 - TEXTUCO - CORONA/img/page10_xref104.png)
+#### Imagen técnica 1 (página 10, sección 16)
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 10, sección: indeterminada.*
+![imagen técnica página 10](<FDS 44 - TEXTUCO - CORONA/img/page10_xref104.png>)
 
-![imagen página 10](FDS 44 - TEXTUCO - CORONA/img/page10_xref106.png)
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 10, sección: 16.*
 
-*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf.pdf, página 10, sección: indeterminada.*
+#### Imagen técnica 2 (página 10, sección 16)
+
+![imagen técnica página 10](<FDS 44 - TEXTUCO - CORONA/img/page10_xref106.png>)
+
+*Imagen técnica — documento: FDS 44 - TEXTUCO - CORONA .pdf, página 10, sección: 16.*

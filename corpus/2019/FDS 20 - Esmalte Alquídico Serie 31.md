@@ -88,9 +88,11 @@ Categoría 2 (órganos auditivos)
 Peligro de aspiración:
 Categoría 1
 
-![imagen página 1](FDS 20 - Esmalte Alquídico Serie 31/img/page1_xref20.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 20 - Esmalte Alquídico Serie 31.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 20 - Esmalte Alquídico Serie 31/img/page1_xref20.jpeg>)
+
+*Imagen técnica — documento: FDS 20 - Esmalte Alquídico Serie 31.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -149,9 +151,11 @@ P337 + P313 – Si persiste la irritación ocular: Consultar a un médico.
 P362 Retirar la ropa contaminada y lavarla antes de usarla nuevamente.
 P370 + P378 – En caso de incendio: Utilizar … para apagarlo.
 
-![imagen página 2](FDS 20 - Esmalte Alquídico Serie 31/img/page2_xref48.jpeg)
+#### Imagen técnica 1 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 20 - Esmalte Alquídico Serie 31.pdf.pdf, página 2, sección: indeterminada.*
+![imagen técnica página 2](<FDS 20 - Esmalte Alquídico Serie 31/img/page2_xref48.jpeg>)
+
+*Imagen técnica — documento: FDS 20 - Esmalte Alquídico Serie 31.pdf, página 2, sección: 2.*
 
 ### Página 3
 
@@ -634,17 +638,23 @@ CLP = Reglamento sobre Clasificación, Etiquetado y Envasado [Reglamento (CE)
 | 14.6 Información adicional | Provisiones especiales<br>640 (E)<br>Código para túneles<br>(D/E) | Emergency schedules (EmS)<br>F-E, S-E | -|
 | Código de clasificación | F1 |  | |
 
-![imagen página 9](FDS 20 - Esmalte Alquídico Serie 31/img/page9_xref78.jpeg)
+#### Imagen técnica 1 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 20 - Esmalte Alquídico Serie 31.pdf.pdf, página 9, sección: 16.*
+![imagen técnica página 9](<FDS 20 - Esmalte Alquídico Serie 31/img/page9_xref78.jpeg>)
 
-![imagen página 9](FDS 20 - Esmalte Alquídico Serie 31/img/page9_xref79.jpeg)
+*Imagen técnica — documento: FDS 20 - Esmalte Alquídico Serie 31.pdf, página 9, sección: 14.*
 
-*Imagen técnica — documento: FDS 20 - Esmalte Alquídico Serie 31.pdf.pdf, página 9, sección: 16.*
+#### Imagen técnica 2 (página 9, sección 14)
 
-![imagen página 9](FDS 20 - Esmalte Alquídico Serie 31/img/page9_xref80.jpeg)
+![imagen técnica página 9](<FDS 20 - Esmalte Alquídico Serie 31/img/page9_xref79.jpeg>)
 
-*Imagen técnica — documento: FDS 20 - Esmalte Alquídico Serie 31.pdf.pdf, página 9, sección: 16.*
+*Imagen técnica — documento: FDS 20 - Esmalte Alquídico Serie 31.pdf, página 9, sección: 14.*
+
+#### Imagen técnica 3 (página 9, sección 14)
+
+![imagen técnica página 9](<FDS 20 - Esmalte Alquídico Serie 31/img/page9_xref80.jpeg>)
+
+*Imagen técnica — documento: FDS 20 - Esmalte Alquídico Serie 31.pdf, página 9, sección: 14.*
 
 ### Página 10
 

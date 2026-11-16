@@ -128,13 +128,17 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 2 (su
 | CAS: 1333-86-4 | Negro de carbon | 1 - <2.5 %|
 | CAS: 6846-50-0 | Diisobutirato de 1-isopropil-2,2-dimetiltrimetileno | 1 - <2.5 %|
 
-![imagen página 1](FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page1_xref5.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page1_xref5.png>)
 
-![imagen página 1](FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page1_xref9.jpeg)
+*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page1_xref9.jpeg>)
+
+*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -451,25 +455,35 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 2 (su
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Característico<br>Color: Característico<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 104 ºC<br>Presión de vapor a 20 ºC: 2325 Pa<br>Presión de vapor a 50 ºC: 12249,52 Pa (12,25 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 4](FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page4_xref28.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf.pdf, página 4, sección: 9.*
+![imagen técnica página 4](<FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page4_xref28.png>)
 
-![imagen página 4](FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page4_xref30.png)
+*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf.pdf, página 4, sección: 9.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page4_xref32.png)
+![imagen técnica página 4](<FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page4_xref30.png>)
 
-*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf.pdf, página 4, sección: 9.*
+*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page4_xref34.png)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf.pdf, página 4, sección: 9.*
+![imagen técnica página 4](<FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page4_xref32.png>)
 
-![imagen página 4](FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page4_xref36.png)
+*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf.pdf, página 4, sección: 9.*
+#### Imagen técnica 4 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page4_xref34.png>)
+
+*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf, página 4, sección: 8.*
+
+#### Imagen técnica 5 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL Versión 2/img/page4_xref36.png>)
+
+*Imagen técnica — documento: FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf, página 4, sección: 8.*
 
 ### Página 5
 

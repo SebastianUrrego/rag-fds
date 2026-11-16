@@ -140,9 +140,11 @@ Emisión: 29/10/2020            Versión: 1
 |---|---|
 | 4.1 Descripción de los primeros auxilios necesarios:<br>Los síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso<br>de duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de<br>este producto. | |
 
-![imagen página 1](FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page1_xref4.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page1_xref4.png>)
+
+*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -471,33 +473,47 @@ Emisión: 29/10/2020            Versión: 1
 |---|---|---|---|
 | Ducha de emergencia | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 4](FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref10.jpeg)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref10.jpeg>)
 
-![imagen página 4](FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref12.jpeg)
+*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref14.png)
+![imagen técnica página 4](<FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref12.jpeg>)
 
-*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref16.jpeg)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref14.png>)
 
-![imagen página 4](FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref18.png)
+*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 4 (página 4, sección 8)
 
-![imagen página 4](FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref20.jpeg)
+![imagen técnica página 4](<FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref16.jpeg>)
 
-*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref22.jpeg)
+#### Imagen técnica 5 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref18.png>)
+
+*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf, página 4, sección: 8.*
+
+#### Imagen técnica 6 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref20.jpeg>)
+
+*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf, página 4, sección: 8.*
+
+#### Imagen técnica 7 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 40 - HS-P-P-007 - Vinicryl - INVESA/img/page4_xref22.jpeg>)
+
+*Imagen técnica — documento: FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf, página 4, sección: 8.*
 
 ### Página 5
 

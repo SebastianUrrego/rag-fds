@@ -72,13 +72,17 @@ funcionamiento)
 ## 1. IDENTIFICACION
 
 
-![imagen página 1](FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page1_xref18.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 1, sección: 1.*
+![imagen técnica página 1](<FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page1_xref18.png>)
 
-![imagen página 1](FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page1_xref26.png)
+*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 1, sección: 1.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page1_xref26.png>)
+
+*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -153,21 +157,29 @@ INFORMACION TOXICOLOGICA o a un médico.
 
 TOPCOAT 400 1772 NEGRO
 
-![imagen página 2](FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page2_xref32.png)
+#### Imagen técnica 1 (página 2, sección 1)
 
-*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 2, sección: 2.*
+![imagen técnica página 2](<FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page2_xref32.png>)
 
-![imagen página 2](FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page2_xref34.png)
+*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf, página 2, sección: 1.*
 
-*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 2, sección: 2.*
+#### Imagen técnica 2 (página 2, sección 1)
 
-![imagen página 2](FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page2_xref36.png)
+![imagen técnica página 2](<FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page2_xref34.png>)
 
-*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 2, sección: 2.*
+*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf, página 2, sección: 1.*
 
-![imagen página 2](FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page2_xref38.png)
+#### Imagen técnica 3 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 2, sección: 2.*
+![imagen técnica página 2](<FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page2_xref36.png>)
+
+*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf, página 2, sección: 2.*
+
+#### Imagen técnica 4 (página 2, sección 2)
+
+![imagen técnica página 2](<FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page2_xref38.png>)
+
+*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf, página 2, sección: 2.*
 
 ### Página 3
 
@@ -258,13 +270,17 @@ TOPCOAT 400 1772 NEGRO
 |---|---|---|
 | disolvente de Stoddard<br>ácidos grasos, aceite de resina<br>anhídrido ftalico<br>ligroína<br>bis(2-etilhexanoato) de cobalto | 8052-41-3<br>61790-12-3<br>85-44-9<br>8032-32-4<br>136-52-7 | ≥10 - <25<br>≥10 - ≤25<br><10<br>≤3<br><1|
 
-![imagen página 3](FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page3_xref47.png)
+#### Imagen técnica 1 (página 3, sección 2)
 
-*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 3, sección: 3.*
+![imagen técnica página 3](<FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page3_xref47.png>)
 
-![imagen página 3](FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page3_xref49.png)
+*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf, página 3, sección: 2.*
 
-*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 3, sección: 3.*
+#### Imagen técnica 2 (página 3, sección 2)
+
+![imagen técnica página 3](<FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page3_xref49.png>)
+
+*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf, página 3, sección: 2.*
 
 ### Página 4
 
@@ -693,9 +709,11 @@ seguridad
 |  | mm Hg | kPa | Método|
 | ligroína<br>nafta disolvente (petróleo),<br>fracción alifática intermedia<br>nafta disolvente (petróleo),<br>fracción alifática intermedia | 2 a 20<br>1.5 a 4.5<br>1.5 a 4.5 | 0.27 a 2.7<br>0.2 a 0.6<br>0.2 a 0.6 | |
 
-![imagen página 8](FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page8_xref68.png)
+#### Imagen técnica 1 (página 8, sección 8)
 
-*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 8, sección: 9.*
+![imagen técnica página 8](<FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page8_xref68.png>)
+
+*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf, página 8, sección: 8.*
 
 ### Página 9
 
@@ -1300,9 +1318,11 @@ Programas de emergencia F-E, _S-E_
 | Grupo de embalaje | III | III | III|
 | Peligros para el<br>medio ambiente | No. | No. | No.|
 
-![imagen página 13](FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page13_xref85.png)
+#### Imagen técnica 1 (página 13, sección 14)
 
-*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 13, sección: 13.*
+![imagen técnica página 13](<FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL/img/page13_xref85.png>)
+
+*Imagen técnica — documento: FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf, página 13, sección: 14.*
 
 ### Página 14
 

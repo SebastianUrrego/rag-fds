@@ -111,21 +111,29 @@ Emisión: 26/01/2021            Revisión: 4/08/2021            Versión: 2 (sus
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema<br>Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de<br>seguridad química.<br>Aerosol 1: Recipiente a presión: Puede reventar si se calienta., H229<br>Aerosol 1: Aerosoles inflamables, Categoría 1, H222<br>Carc. 2: Carcinogenicidad, Categoría 2, H351<br>Irrit. Cut. 3: Irritación cutánea, categoría 3, H316<br>Irrit. oc. 2: Irritación ocular, categoría 2, H319<br>STOT única 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Aerosol 1: H229 - Contiene gas a presión: Puede reventar si se calienta.<br>Aerosol 1: H222 - Aerosol extremadamente inflamable.<br>Carc. 2: H351 - Susceptible de provocar cáncer (Inhalación).<br>Irrit. Cut. 3: H316 - Provoca una leve irritación cutánea.<br>Irrit. oc. 2: H319 - Provoca irritación ocular grave.<br>STOT única 3: H336 - Puede provocar somnolencia o vértigo.<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar.<br>P211: No vaporizar sobre una llama al descubierto o cualquier otra fuente de ignición.<br>P251: No perforar ni quemar, incluso después de su uso.<br>P264: Lavarse cuidadosamente después de la manipulación.<br>P280: Usar guantes de protección/equipo de protección para la cara/ropa de protección.<br>P305+P351+P338: EN CASO DE CONTACTO CON LOS OJOS: Enjuagar con agua cuidadosamente durante varios minutos.<br>Quitar las lentes de contacto cuando estén presentes y pueda hacerse con facilidad. Proseguir con el lavado.<br>P410+P412: Proteger de la luz solar. No exponer a una temperatura superior a 50 °C/122 °F.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.<br>Sustancias que contribuyen a la clasificación<br>Acetato de n-butilo; Acetato de etilo; Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | |
 
-![imagen página 1](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page1_xref3.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page1_xref3.png>)
 
-![imagen página 1](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page1_xref6.png)
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page1_xref9.png)
+![imagen técnica página 1](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page1_xref6.png>)
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page1_xref11.png)
+#### Imagen técnica 3 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page1_xref9.png>)
+
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 4 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page1_xref11.png>)
+
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -638,33 +646,47 @@ Emisión: 26/01/2021            Revisión: 4/08/2021            Versión: 2 (sus
 |---|---|---|---|
 | Ducha de emergencia | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 5](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref17.jpeg)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref17.jpeg>)
 
-![imagen página 5](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref19.jpeg)
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref21.png)
+![imagen técnica página 5](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref19.jpeg>)
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref23.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref21.png>)
 
-![imagen página 5](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref25.jpeg)
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+#### Imagen técnica 4 (página 5, sección 8)
 
-![imagen página 5](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref27.jpeg)
+![imagen técnica página 5](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref23.png>)
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref29.jpeg)
+#### Imagen técnica 5 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref25.jpeg>)
+
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 6 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref27.jpeg>)
+
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 7 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page5_xref29.jpeg>)
+
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -1472,9 +1494,11 @@ Emisión: 26/01/2021            Revisión: 4/08/2021            Versión: 2 (sus
 |---|---|
 | Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1 Número ONU: UN1950<br>14.2 Designación oficial de AEROSOLES inflamables<br>transporte de las Naciones<br>Unidas:<br>14.3 Clase(s) relativas al 2<br>transporte:<br>Etiquetas: 2.1<br>14.4 Grupo de embalaje/envasado N/A<br>si se aplica:<br>14.5 Riesgos ambientales: No<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: Ver sección 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 39-18: | |
 
-![imagen página 11](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page11_xref37.jpeg)
+#### Imagen técnica 1 (página 11, sección 14)
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 11, sección: 14.*
+![imagen técnica página 11](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page11_xref37.jpeg>)
+
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 11, sección: 14.*
 
 ### Página 12
 
@@ -1579,13 +1603,17 @@ Emisión: 26/01/2021            Revisión: 4/08/2021            Versión: 2 (sus
 |---|---|
 | 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:<br>NTP (National Toxicology Program): No relevante<br>Disposiciones particulares en materia de protección de las personas o el medio ambiente:<br>Se recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en<br>una evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de<br>riesgos para el manejo, utilización, almacenamiento y eliminación de este producto.<br>Otras legislaciones: | |
 
-![imagen página 12](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page12_xref40.jpeg)
+#### Imagen técnica 1 (página 12, sección 14)
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 12, sección: 15.*
+![imagen técnica página 12](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page12_xref40.jpeg>)
 
-![imagen página 12](FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page12_xref42.jpeg)
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 12, sección: 14.*
 
-*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf.pdf, página 12, sección: 15.*
+#### Imagen técnica 2 (página 12, sección 14)
+
+![imagen técnica página 12](<FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA/img/page12_xref42.jpeg>)
+
+*Imagen técnica — documento: FDS 53 -HS-P-P-032-Pintura-en-Aerosol-Sapolin - INVESA.pdf, página 12, sección: 14.*
 
 ### Página 13
 

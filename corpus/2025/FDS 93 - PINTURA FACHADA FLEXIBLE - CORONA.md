@@ -116,13 +116,17 @@ Página 1/12
 |---|---|
 | 3.1 Sustancias:<br>No relevante | |
 
-![imagen página 1](FDS 93 - PINTURA FACHADA FLEXIBLE - CORONA/img/page1_xref3.jpeg)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 93 - PINTURA FACHADA FLEXIBLE - CORONA.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 93 - PINTURA FACHADA FLEXIBLE - CORONA/img/page1_xref3.jpeg>)
 
-![imagen página 1](FDS 93 - PINTURA FACHADA FLEXIBLE - CORONA/img/page1_xref5.jpeg)
+*Imagen técnica — documento: FDS 93 - PINTURA FACHADA FLEXIBLE - CORONA.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 93 - PINTURA FACHADA FLEXIBLE - CORONA.pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 93 - PINTURA FACHADA FLEXIBLE - CORONA/img/page1_xref5.jpeg>)
+
+*Imagen técnica — documento: FDS 93 - PINTURA FACHADA FLEXIBLE - CORONA.pdf, página 1, sección: 1.*
 
 ### Página 2
 

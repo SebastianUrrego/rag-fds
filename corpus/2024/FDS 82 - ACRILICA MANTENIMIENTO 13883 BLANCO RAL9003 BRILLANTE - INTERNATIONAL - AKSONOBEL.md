@@ -89,13 +89,17 @@ Versión
 : 1
 1/17
 
-![imagen página 1](FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE - INTERNATIONAL - AKSONOBEL/img/page1_xref26.jpeg)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE  - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE - INTERNATIONAL - AKSONOBEL/img/page1_xref26.jpeg>)
 
-![imagen página 1](FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE - INTERNATIONAL - AKSONOBEL/img/page1_xref27.jpeg)
+*Imagen técnica — documento: FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE  - INTERNATIONAL - AKSONOBEL.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE  - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE - INTERNATIONAL - AKSONOBEL/img/page1_xref27.jpeg>)
+
+*Imagen técnica — documento: FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE  - INTERNATIONAL - AKSONOBEL.pdf, página 1, sección: 1.*
 
 ### Página 2
 

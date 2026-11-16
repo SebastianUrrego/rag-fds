@@ -123,49 +123,71 @@ INALHACIÓN: Retire a la víctima al aire fresco, aléjela de la zona de peligro
 | PROTECCIÓN PERSONAL |  |  |  |  |  | |
 | . |  |  |  |  |  | |
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref14.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref14.png>)
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref20.png)
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 2 (página 1, sección 3)
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref21.png)
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref20.png>)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref22.png)
+#### Imagen técnica 3 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref21.png>)
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref23.png)
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 4 (página 1, sección 3)
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref25.png)
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref22.png>)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref27.png)
+#### Imagen técnica 5 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref23.png>)
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref29.png)
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 6 (página 1, sección 3)
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref30.jpeg)
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref25.png>)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref31.png)
+#### Imagen técnica 7 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref27.png>)
 
-![imagen página 1](FDS 3 - ESMALTE-POLIURETANO/img/page1_xref32.png)
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 8 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref29.png>)
+
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 9 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref30.jpeg>)
+
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 10 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref31.png>)
+
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 11 (página 1, sección 3)
+
+![imagen técnica página 1](<FDS 3 - ESMALTE-POLIURETANO/img/page1_xref32.png>)
+
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 1, sección: 3.*
 
 ### Página 2
 
@@ -223,17 +245,23 @@ proveer un cable de interconexión para disipar las chispas estáticas.
 RECOMENDACIONES SOBRE MANIPULACIÓN SEGURA Y ESPECÍFICA: Los recipientes vacíos pueden retener residuos
 peligrosos (vapor o líquido)
 
-![imagen página 2](FDS 3 - ESMALTE-POLIURETANO/img/page2_xref40.png)
+#### Imagen técnica 1 (página 2, sección 4)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 2, sección: 7.*
+![imagen técnica página 2](<FDS 3 - ESMALTE-POLIURETANO/img/page2_xref40.png>)
 
-![imagen página 2](FDS 3 - ESMALTE-POLIURETANO/img/page2_xref41.png)
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 2, sección: 4.*
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 2, sección: 7.*
+#### Imagen técnica 2 (página 2, sección 5)
 
-![imagen página 2](FDS 3 - ESMALTE-POLIURETANO/img/page2_xref42.png)
+![imagen técnica página 2](<FDS 3 - ESMALTE-POLIURETANO/img/page2_xref41.png>)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 2, sección: 7.*
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 2, sección: 5.*
+
+#### Imagen técnica 3 (página 2, sección 6)
+
+![imagen técnica página 2](<FDS 3 - ESMALTE-POLIURETANO/img/page2_xref42.png>)
+
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 2, sección: 6.*
 
 ### Página 3
 
@@ -323,21 +351,29 @@ Irritación en ojos
 Sensibilización respiratoria o cutánea:
 No se produce
 
-![imagen página 3](FDS 3 - ESMALTE-POLIURETANO/img/page3_xref50.png)
+#### Imagen técnica 1 (página 3, sección 7)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 3, sección: 11.*
+![imagen técnica página 3](<FDS 3 - ESMALTE-POLIURETANO/img/page3_xref50.png>)
 
-![imagen página 3](FDS 3 - ESMALTE-POLIURETANO/img/page3_xref51.jpeg)
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 3, sección: 7.*
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 3, sección: 11.*
+#### Imagen técnica 2 (página 3, sección 8)
 
-![imagen página 3](FDS 3 - ESMALTE-POLIURETANO/img/page3_xref52.png)
+![imagen técnica página 3](<FDS 3 - ESMALTE-POLIURETANO/img/page3_xref51.jpeg>)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 3, sección: 11.*
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 3, sección: 8.*
 
-![imagen página 3](FDS 3 - ESMALTE-POLIURETANO/img/page3_xref53.png)
+#### Imagen técnica 3 (página 3, sección 9)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 3, sección: 11.*
+![imagen técnica página 3](<FDS 3 - ESMALTE-POLIURETANO/img/page3_xref52.png>)
+
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 3, sección: 9.*
+
+#### Imagen técnica 4 (página 3, sección 10)
+
+![imagen técnica página 3](<FDS 3 - ESMALTE-POLIURETANO/img/page3_xref53.png>)
+
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 3, sección: 10.*
 
 ### Página 4
 
@@ -403,22 +439,32 @@ conveniencia del uso de este producto para un fin específico. TECNIDECOR S.A.S 
 causado a propiedades o a personas por el uso inadecuado de nuestros productos, ya que no conocemos la manipulación ni
 las precauciones que cada cliente tiene en el almacenamiento.
 
-![imagen página 4](FDS 3 - ESMALTE-POLIURETANO/img/page4_xref56.png)
+#### Imagen técnica 1 (página 4, sección 11)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 4, sección: 16.*
+![imagen técnica página 4](<FDS 3 - ESMALTE-POLIURETANO/img/page4_xref56.png>)
 
-![imagen página 4](FDS 3 - ESMALTE-POLIURETANO/img/page4_xref57.png)
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 4, sección: 11.*
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 4, sección: 16.*
+#### Imagen técnica 2 (página 4, sección 12)
 
-![imagen página 4](FDS 3 - ESMALTE-POLIURETANO/img/page4_xref58.jpeg)
+![imagen técnica página 4](<FDS 3 - ESMALTE-POLIURETANO/img/page4_xref57.png>)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 4, sección: 16.*
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 4, sección: 12.*
 
-![imagen página 4](FDS 3 - ESMALTE-POLIURETANO/img/page4_xref59.png)
+#### Imagen técnica 3 (página 4, sección 13)
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 4, sección: 16.*
+![imagen técnica página 4](<FDS 3 - ESMALTE-POLIURETANO/img/page4_xref58.jpeg>)
 
-![imagen página 4](FDS 3 - ESMALTE-POLIURETANO/img/page4_xref60.png)
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 4, sección: 13.*
 
-*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf.pdf, página 4, sección: 16.*
+#### Imagen técnica 4 (página 4, sección 14)
+
+![imagen técnica página 4](<FDS 3 - ESMALTE-POLIURETANO/img/page4_xref59.png>)
+
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 4, sección: 14.*
+
+#### Imagen técnica 5 (página 4, sección 15)
+
+![imagen técnica página 4](<FDS 3 - ESMALTE-POLIURETANO/img/page4_xref60.png>)
+
+*Imagen técnica — documento: FDS 3 - ESMALTE-POLIURETANO.pdf, página 4, sección: 15.*

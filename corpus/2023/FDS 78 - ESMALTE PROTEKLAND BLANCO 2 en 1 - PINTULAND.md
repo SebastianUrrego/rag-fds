@@ -111,9 +111,11 @@ Página 1/14
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones<br>en materia de seguridad química.<br>Acuático agudo. 3: Peligrosidad aguda para el medio ambiente acuático, Categoría 3, H402<br>Acuático crónico. 3: Peligrosidad crónica para el medio ambiente acuático, Categoría 3, H412<br>Carc. 1B: Carcinogenicidad, Categoría 1B, H350<br>Liq. Infl. 3: Líquidos inflamables, Categoría 3, H226<br>Muta. 1B: Mutageneidad en células germinales, Categoría 1B, H340<br>Sens. Cut. 1A: Sensibilización cutánea, Categoría 1A, H317<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Acuático crónico. 3: H412 - Nocivo para los organismos acuáticos, con efectos nocivos duraderos.<br>Carc. 1B: H350 - Puede provocar cáncer.<br>Liq. Infl. 3: H226 - Líquido y vapores inflamables.<br>Muta. 1B: H340 - Puede provocar defectos genéticos.<br>Sens. Cut. 1A: H317 - Puede provocar una reacción cutánea alérgica.<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar.<br>P280: Usar guantes de protección/equipo de protección para la cara/ropa de protección/protección respiratoria/calzado de<br>protección.<br>P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua.<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico.<br>P370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.<br>Sustancias que contribuyen a la clasificación<br>Nafta de petróleo, solvente refinado.; Oxima de 2-butanona; Bis(2-etilhexanoato) de cobalto<br>2.3 Otros peligros que no conducen a una clasificación:<br>No relevante | |
 
-![imagen página 1](FDS 78 - ESMALTE PROTEKLAND BLANCO 2 en 1 - PINTULAND/img/page1_xref3.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 78 - ESMALTE PROTEKLAND BLANCO 2 en 1 - PINTULAND/img/page1_xref3.png>)
+
+*Imagen técnica — documento: FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf, página 1, sección: 1.*
 
 ### Página 2
 

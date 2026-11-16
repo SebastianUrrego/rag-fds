@@ -83,13 +83,17 @@ Indicaciones de peligro:
 repetidas si se inhala.
 H412 Nocivo para los organismos acuáticos, con efectos nocivos duraderos.
 
-![imagen página 1](FDS 28- 401 Pintura Texturizada1/img/page1_xref20.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 28- 401 Pintura Texturizada1.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 28- 401 Pintura Texturizada1/img/page1_xref20.jpeg>)
 
-![imagen página 1](FDS 28- 401 Pintura Texturizada1/img/page1_xref29.jpeg)
+*Imagen técnica — documento: FDS 28- 401 Pintura Texturizada1.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 28- 401 Pintura Texturizada1.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 28- 401 Pintura Texturizada1/img/page1_xref29.jpeg>)
+
+*Imagen técnica — documento: FDS 28- 401 Pintura Texturizada1.pdf, página 1, sección: 2.*
 
 ### Página 2
 

@@ -112,13 +112,17 @@ Página 1/14
 |---|---|
 | O<br>R<br>2.1 Clasificación de la sustancia o de la mezcla:<br>SGA: T<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de ClasificNación y Etiquetado de Productos Químicos y se dictan otras<br>disposiciones en materia de seguridad química.<br>Acuático agudo. 3: Peligrosidad aguda para el medio ambiente acuático, Categoría 3, H402<br>Acuático crónico. 3: Peligrosidad crónica para el mOedio ambiente acuático, Categoría 3, H412<br>Carc. 1B: Carcinogenicidad, Categoría 1B, H350<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>C<br>Les. Oc. 1: Lesiones oculares graves, Categoría 1, H318<br>Liq. Infl. 3: Líquidos inflamables, Categoría 3, H226<br>Muta. 1B: Mutagenicidad en células germ inales, Categoría 1B, H340<br>Repr. 1B: Tóxico para la reproduccióAn, Categoría 1B, H360<br>Sens. Cut. 1A: Sensibilización cutánea, Categoría 1A, H317<br>Sens. Resp.1: Sensibilización respiratoria, Categoría 1, H334<br>I<br>STOT única 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336<br>Tox. Asp. 2: Peligro por aspiPración, Categoría 2, H305<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>O<br>SGA:<br>Peligro<br>C<br>Indicaciones de peligro:<br>Acuático crónico. 3: H412 - Nocivo para los organismos acuáticos, con efectos nocivos duraderos.<br>Carc. 1B: H350 - Puede provocar cáncer.<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea.<br>Les. Oc. 1: H318 - Provoca lesiones oculares graves.<br>Liq. Infl. 3: H226 - Líquido y vapores inflamables.<br>Muta. 1B: H340 - Puede provocar defectos genéticos.<br>Repr. 1B: H360 - Puede perjudicar la fertilidad o dañar al feto.<br>Sens. Cut. 1A: H317 - Puede provocar una reacción cutánea alérgica.<br>Sens. Resp.1: H334 - Puede provocar síntomas de alergia o asma o dificultades respiratorias si se inhala.<br>STOT única 3: H336 - Puede provocar somnolencia o vértigo.<br>Tox. Asp. 2: H305 - Puede ser nocivo en caso de ingestión y de penetración en las vías respiratorias.<br>Consejos de prudencia: | |
 
-![imagen página 1](FDS 101 - BARNIZ SOLAR - PINTURAS BLER/img/page1_xref3.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 101 - BARNIZ SOLAR - PINTURAS BLER/img/page1_xref3.png>)
 
-![imagen página 1](FDS 101 - BARNIZ SOLAR - PINTURAS BLER/img/page1_xref7.jpeg)
+*Imagen técnica — documento: FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 101 - BARNIZ SOLAR - PINTURAS BLER/img/page1_xref7.jpeg>)
+
+*Imagen técnica — documento: FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf, página 1, sección: 1.*
 
 ### Página 2
 

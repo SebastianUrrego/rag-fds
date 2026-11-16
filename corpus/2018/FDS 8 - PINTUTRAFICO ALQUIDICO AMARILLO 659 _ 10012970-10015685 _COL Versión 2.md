@@ -112,13 +112,17 @@ Emisión: 9/08/2018            Revisión: 15/08/2018            Versión: 2 (sus
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente<br>Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.<br>Acuatico agudo. 3: Peligrosidad aguda para el medio ambiente acuático, Categoría 3, H402<br>Acuatico cronico. 3: Peligrosidad cronica para el medio ambiente acuático, Categoría 3, H412<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Liq. Infl. 3: Líquidos inflamables, Categoría 3, H226<br>Repr. 1A: Tóxico para la reproducción, Categoría 1A, H360<br>Sens. Cut. 1A: Sensibilización cutánea, Categoría 1A, H317<br>STOT unica 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Acuatico cronico. 3: H412 - Nocivo para los organismos acuáticos, con efectos nocivos duraderos<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea<br>Liq. Infl. 3: H226 - Líquido y vapores inflamables<br>Repr. 1A: H360 - Puede perjudicar la fertilidad o dañar al feto<br>Sens. Cut. 1A: H317 - Puede provocar una reacción cutánea alérgica<br>STOT unica 3: H336 - Puede provocar somnolencia o vértigo<br>Consejos de prudencia:<br>P201: Procurarse las instrucciones antes del uso<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar<br>P280: Usar guantes/ropa de protección/equipo de protección para los ojos/la cara<br>P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua<br>P304+P340: EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la<br>respiración<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico<br>P370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción<br>P501: Eliminar el contenido/recipiente de acuerdo con la normativa sobre residuos peligrosos o envases y residuos de envases<br>respectivamente<br>2.3 Otros peligros que no conducen a una clasificación:<br>No relevante | |
 
-![imagen página 1](FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page1_xref6.png>)
 
-![imagen página 1](FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page1_xref10.jpeg)
+*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page1_xref10.jpeg>)
+
+*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -432,13 +436,17 @@ Emisión: 9/08/2018            Revisión: 15/08/2018            Versión: 2 (sus
 |---|---|---|
 | Proteccion<br>obligatoria de la<br>manos | Guantes de protección química | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior<br>al del tiempo de uso del producto. No emplear cremas protectoras despues del<br>contacto del producto con la piel.|
 
-![imagen página 4](FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page4_xref35.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page4_xref35.png>)
 
-![imagen página 4](FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page4_xref37.png)
+*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page4_xref37.png>)
+
+*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -562,17 +570,23 @@ Emisión: 9/08/2018            Revisión: 15/08/2018            Versión: 2 (sus
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Viscoso<br>Color: Amarillo<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 108 ºC<br>Presión de vapor a 20 ºC: 3393 Pa<br>Presión de vapor a 50 ºC: 13817,81 Pa (13,82 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 132,4 - 158,8 kg/m³<br>Densidad relativa a 20 ºC: 1,443 - 1,469<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>Viscosidad cinemática a 40 ºC: >20,5 cSt<br>Concentración: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 | - CONTINÚA EN LA SIGUIENTE PÁGINA - | |
 
-![imagen página 5](FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page5_xref41.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page5_xref41.png>)
 
-![imagen página 5](FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page5_xref43.png)
+*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page5_xref45.png)
+![imagen técnica página 5](<FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page5_xref43.png>)
 
-*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf, página 5, sección: 8.*
+
+#### Imagen técnica 3 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page5_xref45.png>)
+
+*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -1165,17 +1179,23 @@ Emisión: 9/08/2018            Revisión: 15/08/2018            Versión: 2 (sus
 |---|---|
 | Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1 Número ONU: UN1263<br>14.2 Designación oficial de PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3 Clase(s) relativas al transporte: 3<br>Etiquetas: 3<br>14.4 Grupo de embalaje/envasado si II<br>se aplica:<br>14.5 Riesgos ambientales: Sí<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: ver epígrafe 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 38-16:<br>14.1 Número ONU: UN1263<br>14.2 Designación oficial de PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3 Clase(s) relativas al transporte: 3<br>Etiquetas: 3<br>14.4 Grupo de embalaje/envasado si II<br>se aplica:<br>14.5 Riesgos ambientales: Sí<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: ver epígrafe 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte aéreo de mercancías peligrosas:<br>En aplicación al IATA/OACI 2019:<br>14.1 Número ONU: UN1263<br>14.2 Designación oficial de PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3 Clase(s) relativas al transporte: 3<br>Etiquetas: 3<br>14.4 Grupo de embalaje/envasado si II<br>se aplica:<br>14.5 Riesgos ambientales: Sí<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: ver epígrafe 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC: | |
 
-![imagen página 9](FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page9_xref59.png)
+#### Imagen técnica 1 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf.pdf, página 9, sección: 14.*
+![imagen técnica página 9](<FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page9_xref59.png>)
 
-![imagen página 9](FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page9_xref61.png)
+*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf, página 9, sección: 14.*
 
-*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf.pdf, página 9, sección: 14.*
+#### Imagen técnica 2 (página 9, sección 14)
 
-![imagen página 9](FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page9_xref63.png)
+![imagen técnica página 9](<FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page9_xref61.png>)
 
-*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf.pdf, página 9, sección: 14.*
+*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf, página 9, sección: 14.*
+
+#### Imagen técnica 3 (página 9, sección 14)
+
+![imagen técnica página 9](<FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL Versión 2/img/page9_xref63.png>)
+
+*Imagen técnica — documento: FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf, página 9, sección: 14.*
 
 ### Página 10
 

@@ -109,13 +109,17 @@ Página 1/12
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones<br>en materia de seguridad química.<br>Acuático agudo. 1: Peligrosidad aguda para el medio ambiente acuático, Categoría 1, H400<br>Acuático crónico. 2: Peligrosidad crónica para el medio ambiente acuático, Categoría 2, H411<br>Carc. 1B: Carcinogenicidad, Categoría 1B, H350<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Acuático agudo. 1: H400 - Muy tóxico para los organismos acuáticos.<br>Acuático crónico. 2: H411 - Tóxico para los organismos acuáticos, con efectos nocivos duraderos.<br>Carc. 1B: H350 - Puede provocar cáncer.<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P201: Procurarse las instrucciones antes del uso.<br>P202: No manipular antes de haber leído y comprendido todas las precauciones de seguridad.<br>P273: No dispersar en el medio ambiente.<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico.<br>P391: Recoger los vertidos.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.<br>Sustancias que contribuyen a la clasificación<br>Dioxido de titanio (diámetro aerodinámico ≤ 10 μm); Benzofenona<br>2.3 Otros peligros que no conducen a una clasificación:<br>No relevante | |
 
-![imagen página 1](FDS 92 - PINTURA COOLGUARD - CORONA/img/page1_xref3.jpeg)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 92 - PINTURA COOLGUARD - CORONA.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 92 - PINTURA COOLGUARD - CORONA/img/page1_xref3.jpeg>)
 
-![imagen página 1](FDS 92 - PINTURA COOLGUARD - CORONA/img/page1_xref5.jpeg)
+*Imagen técnica — documento: FDS 92 - PINTURA COOLGUARD - CORONA.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 92 - PINTURA COOLGUARD - CORONA.pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 92 - PINTURA COOLGUARD - CORONA/img/page1_xref5.jpeg>)
+
+*Imagen técnica — documento: FDS 92 - PINTURA COOLGUARD - CORONA.pdf, página 1, sección: 1.*
 
 ### Página 2
 

@@ -139,13 +139,17 @@ Emisión: 16/05/2018            Revisión: 30/04/2021            Versión: 4 (su
 | 4.1 Descripción de los primeros auxilios necesarios:<br>Los síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de<br>duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este<br>producto. | |
 | - CONTINÚA EN LA SIGUIENTE PÁGINA - | |
 
-![imagen página 1](FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page1_xref6.png>)
 
-![imagen página 1](FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page1_xref11.jpeg)
+*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page1_xref11.jpeg>)
+
+*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -484,25 +488,35 @@ Emisión: 16/05/2018            Revisión: 30/04/2021            Versión: 4 (su
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Característico<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 4](FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page4_xref28.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf.pdf, página 4, sección: 9.*
+![imagen técnica página 4](<FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page4_xref28.png>)
 
-![imagen página 4](FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page4_xref30.png)
+*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf.pdf, página 4, sección: 9.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page4_xref32.png)
+![imagen técnica página 4](<FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page4_xref30.png>)
 
-*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf.pdf, página 4, sección: 9.*
+*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page4_xref34.png)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf.pdf, página 4, sección: 9.*
+![imagen técnica página 4](<FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page4_xref32.png>)
 
-![imagen página 4](FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page4_xref36.png)
+*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf.pdf, página 4, sección: 9.*
+#### Imagen técnica 4 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page4_xref34.png>)
+
+*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 5 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO/img/page4_xref36.png>)
+
+*Imagen técnica — documento: FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf, página 4, sección: 8.*
 
 ### Página 5
 

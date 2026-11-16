@@ -106,53 +106,77 @@ Quítese inmediatamente la ropa contaminada.
 |  | PELIGRO FÍSICO |  | 0 |  |  | |
 | PROTECCIOÓN PERSONAL |  |  |  |  |  | |
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref14.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref14.png>)
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref18.png)
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 2 (página 1, sección 3)
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref20.png)
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref18.png>)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref21.png)
+#### Imagen técnica 3 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref20.png>)
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref22.png)
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 4 (página 1, sección 3)
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref24.png)
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref21.png>)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref26.png)
+#### Imagen técnica 5 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref22.png>)
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref28.png)
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 6 (página 1, sección 3)
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref30.png)
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref24.png>)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref31.jpeg)
+#### Imagen técnica 7 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref26.png>)
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref32.png)
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 8 (página 1, sección 3)
 
-![imagen página 1](FDS 4 -catalizador-duraglass/img/page1_xref33.png)
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref28.png>)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 3.*
+
+#### Imagen técnica 9 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref30.png>)
+
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 10 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref31.jpeg>)
+
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 11 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref32.png>)
+
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 12 (página 1, sección 3)
+
+![imagen técnica página 1](<FDS 4 -catalizador-duraglass/img/page1_xref33.png>)
+
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 1, sección: 3.*
 
 ### Página 2
 
@@ -220,17 +244,23 @@ Almacenamiento: Lugares ventilados, frescos y secos. Lejos de fuentes de calor e
 incompatibles y oxidantes.
 Rotular los recipientes adecuadamente y mantenerlos bien cerrados. Lejos de ácidos fuertes.
 
-![imagen página 2](FDS 4 -catalizador-duraglass/img/page2_xref36.png)
+#### Imagen técnica 1 (página 2, sección 4)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 2, sección: 7.*
+![imagen técnica página 2](<FDS 4 -catalizador-duraglass/img/page2_xref36.png>)
 
-![imagen página 2](FDS 4 -catalizador-duraglass/img/page2_xref37.png)
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 2, sección: 4.*
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 2, sección: 7.*
+#### Imagen técnica 2 (página 2, sección 5)
 
-![imagen página 2](FDS 4 -catalizador-duraglass/img/page2_xref38.png)
+![imagen técnica página 2](<FDS 4 -catalizador-duraglass/img/page2_xref37.png>)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 2, sección: 7.*
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 2, sección: 5.*
+
+#### Imagen técnica 3 (página 2, sección 6)
+
+![imagen técnica página 2](<FDS 4 -catalizador-duraglass/img/page2_xref38.png>)
+
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 2, sección: 6.*
 
 ### Página 3
 
@@ -325,13 +355,17 @@ Conductibilidad:
 No disponible
 Propiedades características de  los grupos de sustancias: No disponible.
 
-![imagen página 3](FDS 4 -catalizador-duraglass/img/page3_xref41.png)
+#### Imagen técnica 1 (página 3, sección 7)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 3, sección: 9.*
+![imagen técnica página 3](<FDS 4 -catalizador-duraglass/img/page3_xref41.png>)
 
-![imagen página 3](FDS 4 -catalizador-duraglass/img/page3_xref42.jpeg)
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 3, sección: 7.*
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 3, sección: 9.*
+#### Imagen técnica 2 (página 3, sección 8)
+
+![imagen técnica página 3](<FDS 4 -catalizador-duraglass/img/page3_xref42.jpeg>)
+
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 3, sección: 8.*
 
 ### Página 4
 
@@ -396,25 +430,35 @@ No transporte con sustancias explosivas, venenosas, sólidos de combustión espo
 orgánicos, materiales radiactivos, sustancias incompatibles ni sustancias con riesgo de incendio.
 Clase IMO: 3,
 
-![imagen página 4](FDS 4 -catalizador-duraglass/img/page4_xref52.png)
+#### Imagen técnica 1 (página 4, sección 9)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 4, sección: 14.*
+![imagen técnica página 4](<FDS 4 -catalizador-duraglass/img/page4_xref52.png>)
 
-![imagen página 4](FDS 4 -catalizador-duraglass/img/page4_xref53.png)
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 4, sección: 9.*
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 4, sección: 14.*
+#### Imagen técnica 2 (página 4, sección 10)
 
-![imagen página 4](FDS 4 -catalizador-duraglass/img/page4_xref54.png)
+![imagen técnica página 4](<FDS 4 -catalizador-duraglass/img/page4_xref53.png>)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 4, sección: 14.*
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 4, sección: 10.*
 
-![imagen página 4](FDS 4 -catalizador-duraglass/img/page4_xref55.png)
+#### Imagen técnica 3 (página 4, sección 11)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 4, sección: 14.*
+![imagen técnica página 4](<FDS 4 -catalizador-duraglass/img/page4_xref54.png>)
 
-![imagen página 4](FDS 4 -catalizador-duraglass/img/page4_xref56.jpeg)
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 4, sección: 11.*
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 4, sección: 14.*
+#### Imagen técnica 4 (página 4, sección 12)
+
+![imagen técnica página 4](<FDS 4 -catalizador-duraglass/img/page4_xref55.png>)
+
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 4, sección: 12.*
+
+#### Imagen técnica 5 (página 4, sección 13)
+
+![imagen técnica página 4](<FDS 4 -catalizador-duraglass/img/page4_xref56.jpeg>)
+
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 4, sección: 13.*
 
 ### Página 5
 
@@ -443,10 +487,14 @@ conveniencia del uso de este producto para un fin específico. TECNIDECOR S.A.S 
 causado a propiedades o a personas por el uso inadecuado de nuestros productos, ya que no conocemos la manipulación ni
 las precauciones que cada cliente tiene en el almacenamiento.
 
-![imagen página 5](FDS 4 -catalizador-duraglass/img/page5_xref59.png)
+#### Imagen técnica 1 (página 5, sección 14)
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 5, sección: 16.*
+![imagen técnica página 5](<FDS 4 -catalizador-duraglass/img/page5_xref59.png>)
 
-![imagen página 5](FDS 4 -catalizador-duraglass/img/page5_xref60.png)
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 5, sección: 14.*
 
-*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf.pdf, página 5, sección: 16.*
+#### Imagen técnica 2 (página 5, sección 15)
+
+![imagen técnica página 5](<FDS 4 -catalizador-duraglass/img/page5_xref60.png>)
+
+*Imagen técnica — documento: FDS 4 -catalizador-duraglass.pdf, página 5, sección: 15.*

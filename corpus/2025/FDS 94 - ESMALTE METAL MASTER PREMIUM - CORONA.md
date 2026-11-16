@@ -107,25 +107,35 @@ Página 1/14
 |  | SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en<br>materia de seguridad química.<br>Acuático agudo. 3: Peligrosidad aguda para el medio ambiente acuático, Categoría 3, H402<br>Acuático crónico. 3: Peligrosidad crónica para el medio ambiente acuático, Categoría 3, H412<br>Carc. 1B: Carcinogenicidad, Categoría 1B, H350<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Liq. Infl. 3: Líquidos inflamables, Categoría 3, H226<br>Muta. 1B: Mutagenicidad en células germinales, Categoría 1B, H340<br>Sens. Cut. 1A: Sensibilización cutánea, Categoría 1A, H317<br>Tox. Asp. 1: Peligro por aspiración, Categoría 1, H304<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Acuático agudo. 3: H402 - Nocivo para los organismos acuáticos.<br>Acuático crónico. 3: H412 - Nocivo para los organismos acuáticos, con efectos nocivos duraderos.<br>Carc. 1B: H350 - Puede provocar cáncer.<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea.<br>Liq. Infl. 3: H226 - Líquido y vapores inflamables.<br>Muta. 1B: H340 - Puede provocar defectos genéticos.<br>Sens. Cut. 1A: H317 - Puede provocar una reacción cutánea alérgica.<br>Tox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias.<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar.<br>P264: Lavarse cuidadosamente después de la manipulación.<br>P280: Usar guantes de protección/equipo de protección para la cara/ropa de protección/protección respiratoria/calzado de<br>protección.<br>P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua.<br>P370+P378: En caso de incendio: UtilizarExtintor de espuma (AB), Extintor de Polvo Químico Seco (ABC), Extintor de dióxido de<br>carbono (BC) para la extinción.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio. | |
 
-![imagen página 1](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page1_xref9.png)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page1_xref9.png>)
 
-![imagen página 1](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page1_xref15.png)
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page1_xref17.png)
+![imagen técnica página 1](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page1_xref15.png>)
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page1_xref19.png)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page1_xref17.png>)
 
-![imagen página 1](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page1_xref21.png)
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page1_xref19.png>)
+
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 5 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page1_xref21.png>)
+
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -536,17 +546,23 @@ Página 5/14
 |---|---|---|
 | Protección obligat oria<br>de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y<br>desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se<br>recomienda su uso en caso de riesgo de salpicaduras.|
 
-![imagen página 5](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page5_xref55.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page5_xref55.png>)
 
-![imagen página 5](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page5_xref57.png)
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 5, sección: 8.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page5_xref59.png)
+![imagen técnica página 5](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page5_xref57.png>)
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 5, sección: 8.*
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 3 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page5_xref59.png>)
+
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -658,21 +674,29 @@ Página 6/14
 |---|---|---|---|
 | Ducha de emergencia | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 6](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page6_xref63.png)
+#### Imagen técnica 1 (página 6, sección 8)
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 6, sección: 9.*
+![imagen técnica página 6](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page6_xref63.png>)
 
-![imagen página 6](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page6_xref65.png)
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 6, sección: 8.*
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 6, sección: 9.*
+#### Imagen técnica 2 (página 6, sección 8)
 
-![imagen página 6](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page6_xref67.png)
+![imagen técnica página 6](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page6_xref65.png>)
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 6, sección: 9.*
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 6, sección: 8.*
 
-![imagen página 6](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page6_xref68.png)
+#### Imagen técnica 3 (página 6, sección 8)
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 6, sección: 9.*
+![imagen técnica página 6](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page6_xref67.png>)
+
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 6, sección: 8.*
+
+#### Imagen técnica 4 (página 6, sección 8)
+
+![imagen técnica página 6](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page6_xref68.png>)
+
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 6, sección: 8.*
 
 ### Página 7
 
@@ -1389,9 +1413,11 @@ Página 11/14
 |  | Conclusión | Alto | Suelo seco | No relevante|
 |  | Tensión superficial | No relevante | Suelo húmedo | No relevante|
 
-![imagen página 11](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page11_xref79.png)
+#### Imagen técnica 1 (página 11, sección 14)
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 11, sección: 14.*
+![imagen técnica página 11](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page11_xref79.png>)
+
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 11, sección: 14.*
 
 ### Página 12
 
@@ -1486,9 +1512,11 @@ Página 12/14
 |  | SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN|
 | 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:<br>- NTP (National Toxicology Program): Bis(2-etilhexanoato) de cobalto (136-52-7) ; Nafta (petróleo), fracción pesada tratada con<br>hidrógeno (64742-48-9)<br>Disposiciones particulares en materia de protección de las personas o el medio ambiente:<br>Se recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una<br>evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para<br>el manejo, utilización, almacenamiento y eliminación de este producto.<br>Otras legislaciones:<br>Resolución 0312 de 2019 – Nuevos estándares mínimos del SG-SST<br>CONPES 3868 - Política de gestión del riesgo asociado al uso de sustancias químicas.<br>Decreto 1079 de 2015 - Decreto único reglamentario del sector transporte<br>NTC 1692 -Transporte de mercancías peligrosas. Definiciones, clasificación, marcado, etiquetado y rotulado<br>NTC 4532- Transporte de mercancías peligrosas. Tarjetas de emergencia para transporte de materiales. Elaboración<br>Decreto número 4741 de 2005 | |
 
-![imagen página 12](FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page12_xref85.png)
+#### Imagen técnica 1 (página 12, sección 14)
 
-*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf.pdf, página 12, sección: 15.*
+![imagen técnica página 12](<FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA/img/page12_xref85.png>)
+
+*Imagen técnica — documento: FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf, página 12, sección: 14.*
 
 ### Página 13
 

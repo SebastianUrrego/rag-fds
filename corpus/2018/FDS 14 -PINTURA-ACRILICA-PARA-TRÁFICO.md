@@ -124,49 +124,71 @@ perdido la conciencia. Llamar inmediatamente al médico.
 | PROTECCIÓN PERSONAL |  |  |  |  |  | |
 | . |  |  |  |  |  | |
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref14.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref14.png>)
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref25.png)
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 2 (página 1, sección 3)
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref26.png)
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref25.png>)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref27.png)
+#### Imagen técnica 3 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref26.png>)
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref28.png)
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 4 (página 1, sección 3)
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref30.png)
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref27.png>)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref32.png)
+#### Imagen técnica 5 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref28.png>)
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref34.png)
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 6 (página 1, sección 3)
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref35.jpeg)
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref30.png>)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref36.png)
+#### Imagen técnica 7 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref32.png>)
 
-![imagen página 1](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref37.png)
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 8 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref34.png>)
+
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 9 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref35.jpeg>)
+
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 10 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref36.png>)
+
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 11 (página 1, sección 3)
+
+![imagen técnica página 1](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page1_xref37.png>)
+
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 1, sección: 3.*
 
 ### Página 2
 
@@ -237,25 +259,35 @@ Varios colores
 Olor:
 Irritante
 
-![imagen página 2](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page2_xref45.png)
+#### Imagen técnica 1 (página 2, sección 4)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 2, sección: 9.*
+![imagen técnica página 2](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page2_xref45.png>)
 
-![imagen página 2](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page2_xref46.png)
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 2, sección: 4.*
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 2, sección: 9.*
+#### Imagen técnica 2 (página 2, sección 5)
 
-![imagen página 2](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page2_xref47.png)
+![imagen técnica página 2](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page2_xref46.png>)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 2, sección: 9.*
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 2, sección: 5.*
 
-![imagen página 2](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page2_xref48.png)
+#### Imagen técnica 3 (página 2, sección 6)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 2, sección: 9.*
+![imagen técnica página 2](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page2_xref47.png>)
 
-![imagen página 2](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page2_xref49.jpeg)
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 2, sección: 6.*
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 2, sección: 9.*
+#### Imagen técnica 4 (página 2, sección 7)
+
+![imagen técnica página 2](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page2_xref48.png>)
+
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 2, sección: 7.*
+
+#### Imagen técnica 5 (página 2, sección 8)
+
+![imagen técnica página 2](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page2_xref49.jpeg>)
+
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 2, sección: 8.*
 
 ### Página 3
 
@@ -319,33 +351,47 @@ existencia de disposiciones complementarias. Consultar las regulaciones nacional
 ## 16. OTRA INFORMACIÓN.
 
 
-![imagen página 3](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref52.png)
+#### Imagen técnica 1 (página 3, sección 9)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 3, sección: 16.*
+![imagen técnica página 3](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref52.png>)
 
-![imagen página 3](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref53.png)
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 3, sección: 9.*
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 3, sección: 16.*
+#### Imagen técnica 2 (página 3, sección 10)
 
-![imagen página 3](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref54.png)
+![imagen técnica página 3](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref53.png>)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 3, sección: 16.*
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 3, sección: 10.*
 
-![imagen página 3](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref55.png)
+#### Imagen técnica 3 (página 3, sección 11)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 3, sección: 16.*
+![imagen técnica página 3](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref54.png>)
 
-![imagen página 3](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref56.jpeg)
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 3, sección: 11.*
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 3, sección: 16.*
+#### Imagen técnica 4 (página 3, sección 12)
 
-![imagen página 3](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref57.png)
+![imagen técnica página 3](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref55.png>)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 3, sección: 16.*
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 3, sección: 12.*
 
-![imagen página 3](FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref58.png)
+#### Imagen técnica 5 (página 3, sección 13)
 
-*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf.pdf, página 3, sección: 16.*
+![imagen técnica página 3](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref56.jpeg>)
+
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 3, sección: 13.*
+
+#### Imagen técnica 6 (página 3, sección 14)
+
+![imagen técnica página 3](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref57.png>)
+
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 3, sección: 14.*
+
+#### Imagen técnica 7 (página 3, sección 15)
+
+![imagen técnica página 3](<FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO/img/page3_xref58.png>)
+
+*Imagen técnica — documento: FDS 14 -PINTURA-ACRILICA-PARA-TRÁFICO.pdf, página 3, sección: 15.*
 
 ### Página 4
 

@@ -101,9 +101,11 @@ Colombia
 |---|---|
 | No aplicable. | |
 
-![imagen página 1](FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG/img/page1_xref17.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG/img/page1_xref17.jpeg>)
+
+*Imagen técnica — documento: FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf, página 1, sección: 1.*
 
 ### Página 2
 

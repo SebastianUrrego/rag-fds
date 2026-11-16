@@ -99,17 +99,23 @@ Palabra de advertencia
 :
 Atención
 
-![imagen página 1](FDS 73 - Sikafloor-161 Part A Level Comercial - SIKA/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 73 - Sikafloor-161 Part A Level Comercial - SIKA/img/page1_xref6.png>)
 
-![imagen página 1](FDS 73 - Sikafloor-161 Part A Level Comercial - SIKA/img/page1_xref19.png)
+*Imagen técnica — documento: FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 2)
 
-![imagen página 1](FDS 73 - Sikafloor-161 Part A Level Comercial - SIKA/img/page1_xref21.png)
+![imagen técnica página 1](<FDS 73 - Sikafloor-161 Part A Level Comercial - SIKA/img/page1_xref19.png>)
 
-*Imagen técnica — documento: FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 3 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 73 - Sikafloor-161 Part A Level Comercial - SIKA/img/page1_xref21.png>)
+
+*Imagen técnica — documento: FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -807,13 +813,17 @@ RIESGO FÍSICO
 INFLAMABILIDAD
 SALUD
 
-![imagen página 10](FDS 73 - Sikafloor-161 Part A Level Comercial - SIKA/img/page10_xref53.png)
+#### Imagen técnica 1 (página 10, sección 16)
 
-*Imagen técnica — documento: FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf.pdf, página 10, sección: 16.*
+![imagen técnica página 10](<FDS 73 - Sikafloor-161 Part A Level Comercial - SIKA/img/page10_xref53.png>)
 
-![imagen página 10](FDS 73 - Sikafloor-161 Part A Level Comercial - SIKA/img/page10_xref54.png)
+*Imagen técnica — documento: FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf, página 10, sección: 16.*
 
-*Imagen técnica — documento: FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf.pdf, página 10, sección: 16.*
+#### Imagen técnica 2 (página 10, sección 16)
+
+![imagen técnica página 10](<FDS 73 - Sikafloor-161 Part A Level Comercial - SIKA/img/page10_xref54.png>)
+
+*Imagen técnica — documento: FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf, página 10, sección: 16.*
 
 ### Página 11
 

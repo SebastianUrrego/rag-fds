@@ -88,13 +88,17 @@ Versión
 : 2
 1/14
 
-![imagen página 1](FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL/img/page1_xref26.jpeg)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL/img/page1_xref26.jpeg>)
 
-![imagen página 1](FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL/img/page1_xref27.jpeg)
+*Imagen técnica — documento: FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL/img/page1_xref27.jpeg>)
+
+*Imagen técnica — documento: FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -280,9 +284,11 @@ Versión
 : 2
 3/14
 
-![imagen página 3](FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL/img/page3_xref32.jpeg)
+#### Imagen técnica 1 (página 3, sección 4)
 
-*Imagen técnica — documento: FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 3, sección: 4.*
+![imagen técnica página 3](<FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL/img/page3_xref32.jpeg>)
+
+*Imagen técnica — documento: FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL.pdf, página 3, sección: 4.*
 
 ### Página 4
 

@@ -105,9 +105,11 @@ para el medio ambiente acuá-
 :
 Categoría 3
 
-![imagen página 1](FDS 69 - Esmalte Uretano Part A - SIKA/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 69 - Esmalte Uretano Part A - SIKA/img/page1_xref6.png>)
+
+*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -173,17 +175,23 @@ TOXICOLOGÍA/médico/ si la persona se encuentra mal.
 P308 + P313 EN CASO DE exposición demostrada o supues-
 ta: consultar a un médico.
 
-![imagen página 2](FDS 69 - Esmalte Uretano Part A - SIKA/img/page2_xref19.png)
+#### Imagen técnica 1 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+![imagen técnica página 2](<FDS 69 - Esmalte Uretano Part A - SIKA/img/page2_xref19.png>)
 
-![imagen página 2](FDS 69 - Esmalte Uretano Part A - SIKA/img/page2_xref21.png)
+*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf, página 2, sección: 2.*
 
-*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+#### Imagen técnica 2 (página 2, sección 2)
 
-![imagen página 2](FDS 69 - Esmalte Uretano Part A - SIKA/img/page2_xref23.png)
+![imagen técnica página 2](<FDS 69 - Esmalte Uretano Part A - SIKA/img/page2_xref21.png>)
 
-*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf, página 2, sección: 2.*
+
+#### Imagen técnica 3 (página 2, sección 2)
+
+![imagen técnica página 2](<FDS 69 - Esmalte Uretano Part A - SIKA/img/page2_xref23.png>)
+
+*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf, página 2, sección: 2.*
 
 ### Página 3
 
@@ -1129,10 +1137,14 @@ RIESGO FÍSICO
 INFLAMABILIDAD
 SALUD
 
-![imagen página 13](FDS 69 - Esmalte Uretano Part A - SIKA/img/page13_xref52.png)
+#### Imagen técnica 1 (página 13, sección 16)
 
-*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf.pdf, página 13, sección: indeterminada.*
+![imagen técnica página 13](<FDS 69 - Esmalte Uretano Part A - SIKA/img/page13_xref52.png>)
 
-![imagen página 13](FDS 69 - Esmalte Uretano Part A - SIKA/img/page13_xref53.png)
+*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf, página 13, sección: 16.*
 
-*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf.pdf, página 13, sección: indeterminada.*
+#### Imagen técnica 2 (página 13, sección 16)
+
+![imagen técnica página 13](<FDS 69 - Esmalte Uretano Part A - SIKA/img/page13_xref53.png>)
+
+*Imagen técnica — documento: FDS 69 - Esmalte Uretano Part A - SIKA.pdf, página 13, sección: 16.*

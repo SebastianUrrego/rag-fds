@@ -109,9 +109,11 @@ Página 1/10
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>Este producto contiene sílice cristalina pero debido a su estado líquido no requiere clasificación (STOT RE)<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones<br>en materia de seguridad química.<br>Acuático agudo. 3: Peligrosidad aguda para el medio ambiente acuático, Categoría 3, H402<br>Acuático crónico. 3: Peligrosidad crónica para el medio ambiente acuático, Categoría 3, H412<br>Carc. 1B: Carcinogenicidad, Categoría 1B, H350<br>STOT repe. 2: Toxicidad específica en determinados órganos — Exposiciones repetidas, categoría 2 (Inhalación), H373<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Acuático crónico. 3: H412 - Nocivo para los organismos acuáticos, con efectos nocivos duraderos.<br>Carc. 1B: H350 - Puede provocar cáncer.<br>STOT repe. 2: H373 - Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas (Inhalación).<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P201: Procurarse las instrucciones antes del uso.<br>P260: No respirar polvos/humos/gases/ nieblas/vapores/aerosoles.<br>P273: No dispersar en el medio ambiente.<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico.<br>P314: Consultar a un médico si la persona se encuentra mal.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.<br>Sustancias que contribuyen a la clasificación<br>Cuarzo (RCS > 10 %)<br>2.3 Otros peligros que no conducen a una clasificación:<br>No relevante | |
 
-![imagen página 1](FDS 59 - PINTURA PARA CANCHAS BLANCO - PINTULAND/img/page1_xref88.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 59 - PINTURA PARA CANCHAS, BLANCO - PINTULAND.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 59 - PINTURA PARA CANCHAS BLANCO - PINTULAND/img/page1_xref88.png>)
+
+*Imagen técnica — documento: FDS 59 - PINTURA PARA CANCHAS, BLANCO - PINTULAND.pdf, página 1, sección: 1.*
 
 ### Página 2
 

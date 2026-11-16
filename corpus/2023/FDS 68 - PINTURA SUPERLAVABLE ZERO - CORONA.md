@@ -102,17 +102,23 @@ Página 1/11
 |  | SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>Este producto contiene sílice cristalina pero debido a su estado líquido no requiere clasificación (STOT RE)<br>NFPA:<br>Salud: 2<br>Inflamabilidad: 0<br>Inestabilidad: 0<br>Especiales: No relevante<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en<br>materia de seguridad química.<br>Acuático agudo. 1: Peligrosidad aguda para el medio ambiente acuático, Categoría 1, H400<br>Acuático crónico. 3: Peligrosidad crónica para el medio ambiente acuático, Categoría 3, H412<br>Carc. 1B: Carcinogenicidad, Categoría 1B, H350<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>NFPA:<br>SGA :<br>Peligro<br>Indicaciones de peligro:<br>Acuático crónico. 1: H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos.<br>Carc. 1B: H350 - Puede provocar cáncer.<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P201: Procurarse las instrucciones antes del uso.<br>P202: No manipular antes de haber leído y comprendido todas las precauciones de seguridad.<br>P273: No dispersar en el medio ambiente.<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico.<br>P391: Recoger los vertidos.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.<br>Sustancias que contribuyen a la clasificación | |
 
-![imagen página 1](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page1_xref9.png)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page1_xref9.png>)
 
-![imagen página 1](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page1_xref15.png)
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page1_xref17.png)
+![imagen técnica página 1](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page1_xref15.png>)
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 3 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page1_xref17.png>)
+
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -406,9 +412,11 @@ Página 4/11
 |---|---|---|
 |  | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar<br>cuando se detecte olor o sabor del contaminante en el interior de la máscara o<br>adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se<br>recomienda el uso de equipos aislantes.|
 
-![imagen página 4](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page4_xref49.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page4_xref49.png>)
+
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -530,21 +538,29 @@ Página 5/11
 |---|---|---|---|
 | Ducha de emergencia | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 5](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page5_xref53.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page5_xref53.png>)
 
-![imagen página 5](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page5_xref55.png)
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page5_xref57.png)
+![imagen técnica página 5](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page5_xref55.png>)
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page5_xref59.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page5_xref57.png>)
+
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 4 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page5_xref59.png>)
+
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -966,17 +982,23 @@ Página 9/11
 |  | SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE|
 | Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1 Número ONU: UN3082<br>14.2 Designación oficial de SUSTANCIA LÍQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P.<br>transporte de las Naciones (1,2-bencisotiazol-3(2H)-ona; Piritionato cincico)<br>Unidas:<br>14.3 Clase(s) relativas al 9<br>transporte:<br>Etiquetas: 9<br>14.4 Grupo de embalaje/envasado III<br>si se aplica:<br>14.5 Riesgos ambientales: Sí<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: Ver sección 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de<br>MARPOL 73/78 y al Código<br>IBC:<br>Transporte marí t imo d e mercancías peligrosas:<br>En aplicación al IMDG 40-20:<br>14.1 Número ONU: UN3082<br>14.2 Designación oficial de SUSTANCIA LÍQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P.<br>transporte de las Naciones (1,2-bencisotiazol-3(2H)-ona; Piritionato cincico)<br>Unidas:<br>14.3 Clase(s) relativas al 9<br>transporte:<br>Etiquetas: 9<br>14.4 Grupo de embalaje/envasado III<br>si se aplica:<br>14.5 Contaminante marino: Sí<br>14.6 Precauciones especiales para el usuario<br>Disposiciones especiales: 335, 969, 274<br>Códigos FEm: F-A, S-F<br>Propiedades físico-químicas: Ver sección 9<br>Cantidades limitadas: 5 L<br>Grupo de segregación: No relevante<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de<br>MARPOL 73/78 y al Código<br>IBC:<br>Transporte aéreo de mercancías peligrosas:<br>En aplicación al IATA/OACI 2023: | |
 
-![imagen página 9](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page9_xref71.png)
+#### Imagen técnica 1 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 9, sección: 14.*
+![imagen técnica página 9](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page9_xref71.png>)
 
-![imagen página 9](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page9_xref73.png)
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 9, sección: 14.*
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 9, sección: 14.*
+#### Imagen técnica 2 (página 9, sección 14)
 
-![imagen página 9](FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page9_xref75.png)
+![imagen técnica página 9](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page9_xref73.png>)
 
-*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf.pdf, página 9, sección: 14.*
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 9, sección: 14.*
+
+#### Imagen técnica 3 (página 9, sección 14)
+
+![imagen técnica página 9](<FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA/img/page9_xref75.png>)
+
+*Imagen técnica — documento: FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf, página 9, sección: 14.*
 
 ### Página 10
 

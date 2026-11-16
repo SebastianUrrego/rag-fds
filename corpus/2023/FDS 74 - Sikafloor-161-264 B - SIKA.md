@@ -102,9 +102,11 @@ tico
 :
 Categoría 2
 
-![imagen página 1](FDS 74 - Sikafloor-161-264 B - SIKA/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 74 - Sikafloor-161-264 B - SIKA/img/page1_xref6.png>)
+
+*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -171,21 +173,29 @@ P308 + P313 EN CASO DE exposición demostrada o supues-
 ta: consultar a un médico.
 P333 + P313 En caso de irritación cutánea o sarpullido: consul-
 
-![imagen página 2](FDS 74 - Sikafloor-161-264 B - SIKA/img/page2_xref21.png)
+#### Imagen técnica 1 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+![imagen técnica página 2](<FDS 74 - Sikafloor-161-264 B - SIKA/img/page2_xref21.png>)
 
-![imagen página 2](FDS 74 - Sikafloor-161-264 B - SIKA/img/page2_xref23.png)
+*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf, página 2, sección: 2.*
 
-*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+#### Imagen técnica 2 (página 2, sección 2)
 
-![imagen página 2](FDS 74 - Sikafloor-161-264 B - SIKA/img/page2_xref25.png)
+![imagen técnica página 2](<FDS 74 - Sikafloor-161-264 B - SIKA/img/page2_xref23.png>)
 
-*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf, página 2, sección: 2.*
 
-![imagen página 2](FDS 74 - Sikafloor-161-264 B - SIKA/img/page2_xref27.png)
+#### Imagen técnica 3 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+![imagen técnica página 2](<FDS 74 - Sikafloor-161-264 B - SIKA/img/page2_xref25.png>)
+
+*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf, página 2, sección: 2.*
+
+#### Imagen técnica 4 (página 2, sección 2)
+
+![imagen técnica página 2](<FDS 74 - Sikafloor-161-264 B - SIKA/img/page2_xref27.png>)
+
+*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf, página 2, sección: 2.*
 
 ### Página 3
 
@@ -1022,10 +1032,14 @@ RIESGO FÍSICO
 INFLAMABILIDAD
 SALUD
 
-![imagen página 12](FDS 74 - Sikafloor-161-264 B - SIKA/img/page12_xref61.png)
+#### Imagen técnica 1 (página 12, sección 16)
 
-*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf.pdf, página 12, sección: indeterminada.*
+![imagen técnica página 12](<FDS 74 - Sikafloor-161-264 B - SIKA/img/page12_xref61.png>)
 
-![imagen página 12](FDS 74 - Sikafloor-161-264 B - SIKA/img/page12_xref62.png)
+*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf, página 12, sección: 16.*
 
-*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf.pdf, página 12, sección: indeterminada.*
+#### Imagen técnica 2 (página 12, sección 16)
+
+![imagen técnica página 12](<FDS 74 - Sikafloor-161-264 B - SIKA/img/page12_xref62.png>)
+
+*Imagen técnica — documento: FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf, página 12, sección: 16.*

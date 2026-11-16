@@ -114,13 +114,17 @@ Emisión: 20/09/2021            Versión: 1
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en<br>materia de seguridad química.<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Irrit. oc. 2: Irritación ocular, categoría 2, H319<br>Liq. Infl. 3: Líquidos inflamables, Categoría 3, H226<br>Sens. Cut. 1: Sensibilización cutánea, Categoría 1, H317<br>Tox. Agud. 4: Toxicidad aguda por inhalación, Categoría 4, H332<br>Tox. Agud. 5: Toxicidad aguda por ingestión, Categoría 5, H303<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Atención<br>Indicaciones de peligro:<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea.<br>Irrit. oc. 2: H319 - Provoca irritación ocular grave.<br>Liq. Infl. 3: H226 - Líquido y vapores inflamables.<br>Sens. Cut. 1: H317 - Puede provocar una reacción cutánea alérgica.<br>Tox. Agud. 4: H332 - Nocivo si se inhala.<br>Tox. Agud. 5: H303 - Puede ser nocivo en caso de ingestión.<br>Consejos de prudencia:<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar.<br>P280: Usar guantes de protección/equipo de protección para la cara/ropa de protección/protección respiratoria/calzado de<br>protección.<br>P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua.<br>P304+P340: EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la<br>respiración.<br>P305+P351+P338: EN CASO DE CONTACTO CON LOS OJOS: Enjuagar con agua cuidadosamente durante varios minutos. Quitar<br>las lentes de contacto cuando estén presentes y pueda hacerse con facilidad. Proseguir con el lavado.<br>P370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción.<br>P403+P235: Almacenar en un lugar bien ventilado. Mantener fresco.<br>P501: Eliminar el contenido/recipiente de acuerdo con la normativa sobre residuos peligrosos o envases y residuos de envases<br>respectivamente.<br>2.3 Otros peligros que no conducen a una clasificación:<br>No relevante | |
 
-![imagen página 1](FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page1_xref6.png>)
 
-![imagen página 1](FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page1_xref11.jpeg)
+*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page1_xref11.jpeg>)
+
+*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -612,21 +616,29 @@ Emisión: 20/09/2021            Versión: 1
 |---|---|---|
 | Protección<br>obligatoria del<br>cuerpo | Prenda de protección frente a riesgos químicos,<br>antiestática e ignífuga | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el<br>trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante.|
 
-![imagen página 5](FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page5_xref36.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page5_xref36.png>)
 
-![imagen página 5](FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page5_xref38.png)
+*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf.pdf, página 5, sección: 8.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page5_xref40.png)
+![imagen técnica página 5](<FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page5_xref38.png>)
 
-*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf.pdf, página 5, sección: 8.*
+*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page5_xref42.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page5_xref40.png>)
+
+*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 4 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page5_xref42.png>)
+
+*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -744,9 +756,11 @@ Emisión: 20/09/2021            Versión: 1
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Viscoso<br>Color: Blanco<br>Olor: Aromático<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 65 - 171 ºC<br>Presión de vapor a 20 ºC: 1234 Pa<br>Presión de vapor a 50 ºC: 6323,22 Pa (6,32 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 1464,6 kg/m³<br>Densidad relativa a 20 ºC: 1,487 - 1,514<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>Viscosidad cinemática a 40 ºC: >20,5 mm²/s<br>Concentración: No relevante *<br>pH: No relevante *<br>Densidad de vapor a 20 ºC: No relevante *<br>Coeficiente de reparto n-octanol/agua a 20 ºC: No relevante *<br>Solubilidad en agua a 20 ºC: No relevante *<br>Propiedad de solubilidad: No relevante *<br>Temperatura de descomposición: No relevante *<br>Punto de fusión/punto de congelación: No relevante *<br>Inflamabilidad:<br>Punto de inflamación: 23 ºC<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 6](FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page6_xref46.png)
+#### Imagen técnica 1 (página 6, sección 8)
 
-*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf.pdf, página 6, sección: 9.*
+![imagen técnica página 6](<FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page6_xref46.png>)
+
+*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf, página 6, sección: 8.*
 
 ### Página 7
 
@@ -1486,9 +1500,11 @@ Emisión: 20/09/2021            Versión: 1
 |---|---|
 | Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1 Número ONU: UN1263<br>14.2 Designación oficial de PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3 Clase(s) relativas al transporte: 3<br>Etiquetas: 3<br>14.4 Grupo de embalaje/envasado si III<br>se aplica:<br>14.5 Riesgos ambientales: No<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: Ver sección 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 39-18: | |
 
-![imagen página 11](FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page11_xref62.jpeg)
+#### Imagen técnica 1 (página 11, sección 14)
 
-*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf.pdf, página 11, sección: 14.*
+![imagen técnica página 11](<FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO/img/page11_xref62.jpeg>)
+
+*Imagen técnica — documento: FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf, página 11, sección: 14.*
 
 ### Página 12
 

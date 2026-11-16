@@ -119,13 +119,17 @@ Emisión: 28/01/2019            Revisión: 13/07/2020            Versión: 2 (su
 |---|---|
 | 3.1 Sustancias: | |
 
-![imagen página 1](FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page1_xref5.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page1_xref5.png>)
 
-![imagen página 1](FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page1_xref9.jpeg)
+*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page1_xref9.jpeg>)
+
+*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -437,17 +441,23 @@ Emisión: 28/01/2019            Revisión: 13/07/2020            Versión: 2 (su
 |---|---|---|
 | Protección<br>obligatoria de la cara | Gafas de seguridad | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del<br>fabricante. Se recomienda su uso en caso de riesgo de salpicaduras.|
 
-![imagen página 4](FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page4_xref35.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page4_xref35.png>)
 
-![imagen página 4](FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page4_xref37.png)
+*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page4_xref39.png)
+![imagen técnica página 4](<FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page4_xref37.png>)
 
-*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 3 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page4_xref39.png>)
+
+*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -565,13 +575,17 @@ Emisión: 28/01/2019            Revisión: 13/07/2020            Versión: 2 (su
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: No determinado<br>Color: No determinado<br>Olor: No determinado<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 65 - 2467 ºC<br>Presión de vapor a 20 ºC: 25 Pa<br>Presión de vapor a 50 ºC: 158,22 Pa (0,16 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 931 kg/m³<br>Densidad relativa a 20 ºC: 0,931<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>Viscosidad cinemática a 40 ºC: <20,5 cSt<br>Concentración: No relevante *<br>pH: No relevante *<br>Densidad de vapor a 20 ºC: No relevante *<br>Coeficiente de reparto n-octanol/agua a 20 ºC: No relevante *<br>Solubilidad en agua a 20 ºC: No relevante *<br>Propiedad de solubilidad: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 5](FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page5_xref43.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page5_xref43.png>)
 
-![imagen página 5](FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page5_xref45.png)
+*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page5_xref45.png>)
+
+*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -1140,17 +1154,23 @@ Emisión: 28/01/2019            Revisión: 13/07/2020            Versión: 2 (su
 |---|---|
 | Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1 Número ONU: UN1263<br>14.2 Designación oficial de PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3 Clase(s) relativas al transporte: 3<br>Etiquetas: 3<br>14.4 Grupo de embalaje/envasado si III<br>se aplica:<br>14.5 Riesgos ambientales: Sí<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: Ver epígrafe 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 39-18:<br>14.1 Número ONU: UN1263<br>14.2 Designación oficial de PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3 Clase(s) relativas al transporte: 3<br>Etiquetas: 3<br>14.4 Grupo de embalaje/envasado si III<br>se aplica:<br>14.5 Riesgos ambientales: Sí<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: Ver epígrafe 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte aéreo de mercancías peligrosas:<br>En aplicación al IATA/OACI 2020: | |
 
-![imagen página 9](FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page9_xref59.png)
+#### Imagen técnica 1 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf.pdf, página 9, sección: 14.*
+![imagen técnica página 9](<FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page9_xref59.png>)
 
-![imagen página 9](FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page9_xref61.png)
+*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf, página 9, sección: 14.*
 
-*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf.pdf, página 9, sección: 14.*
+#### Imagen técnica 2 (página 9, sección 14)
 
-![imagen página 9](FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page9_xref63.png)
+![imagen técnica página 9](<FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page9_xref61.png>)
 
-*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf.pdf, página 9, sección: 14.*
+*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf, página 9, sección: 14.*
+
+#### Imagen técnica 3 (página 9, sección 14)
+
+![imagen técnica página 9](<FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO/img/page9_xref63.png>)
+
+*Imagen técnica — documento: FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf, página 9, sección: 14.*
 
 ### Página 10
 

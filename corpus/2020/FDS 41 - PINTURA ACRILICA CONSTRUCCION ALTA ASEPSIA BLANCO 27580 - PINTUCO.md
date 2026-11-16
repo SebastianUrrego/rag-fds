@@ -135,13 +135,17 @@ Emisión: 16/05/2018            Revisión: 23/07/2020            Versión: 3 (su
 |---|---|
 | 4.1 Descripción de los primeros auxilios necesarios:<br>Los síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de<br>duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este<br>producto.<br>Por inhalación:<br>Se trata de un producto que no contiene sustancias clasificadas como peligrosas por inhalación, sin embargo, en caso de síntomas<br>de intoxicación sacar al afectado de la zona de exposición y proporcionarle aire fresco. Solicitar atención médica si los síntomas se<br>agravan o persisten.<br>Por contacto con la piel: | |
 
-![imagen página 1](FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page1_xref6.png>)
 
-![imagen página 1](FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page1_xref10.jpeg)
+*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page1_xref10.jpeg>)
+
+*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -354,13 +358,17 @@ Emisión: 16/05/2018            Revisión: 23/07/2020            Versión: 3 (su
 |---|---|---|
 | Protección<br>obligatoria de las<br>manos | Guantes de protección química | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior<br>al del tiempo de uso del producto. No emplear cremas protectoras después del<br>contacto del producto con la piel.|
 
-![imagen página 3](FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page3_xref25.png)
+#### Imagen técnica 1 (página 3, sección 8)
 
-*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf.pdf, página 3, sección: 8.*
+![imagen técnica página 3](<FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page3_xref25.png>)
 
-![imagen página 3](FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page3_xref27.png)
+*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf, página 3, sección: 8.*
 
-*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf.pdf, página 3, sección: 8.*
+#### Imagen técnica 2 (página 3, sección 8)
+
+![imagen técnica página 3](<FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page3_xref27.png>)
+
+*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf, página 3, sección: 8.*
 
 ### Página 4
 
@@ -478,17 +486,23 @@ Emisión: 16/05/2018            Revisión: 23/07/2020            Versión: 3 (su
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Característico<br>Color: Característico<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 100 - 2230 ºC<br>Presión de vapor a 20 ºC: 2318 Pa<br>Presión de vapor a 50 ºC: 12211,76 Pa (12,21 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 1186,3 kg/m³<br>Densidad relativa a 20 ºC: 1,194 - 1,22<br>Viscosidad dinámica a 20 ºC: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 4](FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page4_xref31.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf.pdf, página 4, sección: 9.*
+![imagen técnica página 4](<FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page4_xref31.png>)
 
-![imagen página 4](FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page4_xref33.png)
+*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf.pdf, página 4, sección: 9.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page4_xref35.png)
+![imagen técnica página 4](<FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page4_xref33.png>)
 
-*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf.pdf, página 4, sección: 9.*
+*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 3 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO/img/page4_xref35.png>)
+
+*Imagen técnica — documento: FDS 41 - PINTURA ACRILICA CONSTRUCCION ALTA ASEPSIA BLANCO 27580 - PINTUCO .pdf, página 4, sección: 8.*
 
 ### Página 5
 

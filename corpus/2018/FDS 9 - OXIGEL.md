@@ -112,49 +112,71 @@ personas que se encuentre inconscientes.
 |  | PELIGRO FÍSICO |  | 0 |  | |
 | PROTECCIOÓN PERSONAL |  |  |  |  | |
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref14.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref14.png>)
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref18.png)
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 2 (página 1, sección 3)
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref19.png)
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref18.png>)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref20.png)
+#### Imagen técnica 3 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref19.png>)
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref22.png)
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 4 (página 1, sección 3)
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref24.png)
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref20.png>)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref26.png)
+#### Imagen técnica 5 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref22.png>)
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref28.png)
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 6 (página 1, sección 3)
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref29.jpeg)
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref24.png>)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref30.png)
+#### Imagen técnica 7 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref26.png>)
 
-![imagen página 1](FDS 9 - OXIGEL/img/page1_xref31.png)
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 8 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref28.png>)
+
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 9 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref29.jpeg>)
+
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 10 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref30.png>)
+
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 11 (página 1, sección 3)
+
+![imagen técnica página 1](<FDS 9 - OXIGEL/img/page1_xref31.png>)
+
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 1, sección: 3.*
 
 ### Página 2
 
@@ -227,25 +249,35 @@ N.D./N.A.
 Límite inferior de explosión:
 N.D./N.A.
 
-![imagen página 2](FDS 9 - OXIGEL/img/page2_xref34.png)
+#### Imagen técnica 1 (página 2, sección 4)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 2, sección: 9.*
+![imagen técnica página 2](<FDS 9 - OXIGEL/img/page2_xref34.png>)
 
-![imagen página 2](FDS 9 - OXIGEL/img/page2_xref35.png)
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 2, sección: 4.*
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 2, sección: 9.*
+#### Imagen técnica 2 (página 2, sección 5)
 
-![imagen página 2](FDS 9 - OXIGEL/img/page2_xref36.png)
+![imagen técnica página 2](<FDS 9 - OXIGEL/img/page2_xref35.png>)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 2, sección: 9.*
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 2, sección: 5.*
 
-![imagen página 2](FDS 9 - OXIGEL/img/page2_xref37.png)
+#### Imagen técnica 3 (página 2, sección 6)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 2, sección: 9.*
+![imagen técnica página 2](<FDS 9 - OXIGEL/img/page2_xref36.png>)
 
-![imagen página 2](FDS 9 - OXIGEL/img/page2_xref38.jpeg)
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 2, sección: 6.*
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 2, sección: 9.*
+#### Imagen técnica 4 (página 2, sección 7)
+
+![imagen técnica página 2](<FDS 9 - OXIGEL/img/page2_xref37.png>)
+
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 2, sección: 7.*
+
+#### Imagen técnica 5 (página 2, sección 8)
+
+![imagen técnica página 2](<FDS 9 - OXIGEL/img/page2_xref38.jpeg>)
+
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 2, sección: 8.*
 
 ### Página 3
 
@@ -322,25 +354,35 @@ No es peligroso en el transporte
 Número UN: N/A
 Grupo de embalaje: N/A
 
-![imagen página 3](FDS 9 - OXIGEL/img/page3_xref41.png)
+#### Imagen técnica 1 (página 3, sección 9)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 3, sección: 14.*
+![imagen técnica página 3](<FDS 9 - OXIGEL/img/page3_xref41.png>)
 
-![imagen página 3](FDS 9 - OXIGEL/img/page3_xref42.png)
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 3, sección: 9.*
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 3, sección: 14.*
+#### Imagen técnica 2 (página 3, sección 10)
 
-![imagen página 3](FDS 9 - OXIGEL/img/page3_xref43.png)
+![imagen técnica página 3](<FDS 9 - OXIGEL/img/page3_xref42.png>)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 3, sección: 14.*
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 3, sección: 10.*
 
-![imagen página 3](FDS 9 - OXIGEL/img/page3_xref44.png)
+#### Imagen técnica 3 (página 3, sección 11)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 3, sección: 14.*
+![imagen técnica página 3](<FDS 9 - OXIGEL/img/page3_xref43.png>)
 
-![imagen página 3](FDS 9 - OXIGEL/img/page3_xref45.jpeg)
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 3, sección: 11.*
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 3, sección: 14.*
+#### Imagen técnica 4 (página 3, sección 12)
+
+![imagen técnica página 3](<FDS 9 - OXIGEL/img/page3_xref44.png>)
+
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 3, sección: 12.*
+
+#### Imagen técnica 5 (página 3, sección 13)
+
+![imagen técnica página 3](<FDS 9 - OXIGEL/img/page3_xref45.jpeg>)
+
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 3, sección: 13.*
 
 ### Página 4
 
@@ -364,10 +406,14 @@ conveniencia del uso de este producto para un fin específico. TECNIDECOR S.A.S 
 causado a propiedades o a personas por el uso inadecuado de nuestros productos, ya que no conocemos la manipulación ni
 las precauciones que cada cliente tiene en el almacenamiento.
 
-![imagen página 4](FDS 9 - OXIGEL/img/page4_xref48.png)
+#### Imagen técnica 1 (página 4, sección 14)
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 4, sección: 16.*
+![imagen técnica página 4](<FDS 9 - OXIGEL/img/page4_xref48.png>)
 
-![imagen página 4](FDS 9 - OXIGEL/img/page4_xref49.png)
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 4, sección: 14.*
 
-*Imagen técnica — documento: FDS 9 - OXIGEL.pdf.pdf, página 4, sección: 16.*
+#### Imagen técnica 2 (página 4, sección 15)
+
+![imagen técnica página 4](<FDS 9 - OXIGEL/img/page4_xref49.png>)
+
+*Imagen técnica — documento: FDS 9 - OXIGEL.pdf, página 4, sección: 15.*

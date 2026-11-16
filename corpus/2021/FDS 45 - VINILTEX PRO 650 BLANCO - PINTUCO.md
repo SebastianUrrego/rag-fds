@@ -117,13 +117,17 @@ Emisión: 16/05/2018            Revisión: 31/05/2021            Versión: 4 (su
 |---|---|
 | 3.1 Sustancias:<br>No aplicable<br>3.2 Mezclas:<br>Descripción química: Mezcla a base de productos químicos<br>Componentes: | |
 
-![imagen página 1](FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page1_xref6.png>)
 
-![imagen página 1](FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page1_xref10.jpeg)
+*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page1_xref10.jpeg>)
+
+*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -482,13 +486,17 @@ Emisión: 16/05/2018            Revisión: 31/05/2021            Versión: 4 (su
 |---|---|
 | Guantes de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso<br>(Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de<br>uso del producto. No emplear cremas protectoras después del contacto del producto<br>con la piel.|
 
-![imagen página 4](FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page4_xref31.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page4_xref31.png>)
 
-![imagen página 4](FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page4_xref33.png)
+*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page4_xref33.png>)
+
+*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -612,17 +620,23 @@ Emisión: 16/05/2018            Revisión: 31/05/2021            Versión: 4 (su
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Viscoso<br>Color: Blanco<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 20 - 2590 ºC<br>Presión de vapor a 20 ºC: 2477 Pa<br>Presión de vapor a 50 ºC: 12729,62 Pa (12,73 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 1419,3 kg/m³<br>Densidad relativa a 20 ºC: 1,453 - 1,479<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>Viscosidad cinemática a 40 ºC: >20,5 cSt<br>Concentración: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 | - CONTINÚA EN LA SIGUIENTE PÁGINA - | |
 
-![imagen página 5](FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page5_xref37.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page5_xref37.png>)
 
-![imagen página 5](FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page5_xref39.png)
+*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page5_xref41.png)
+![imagen técnica página 5](<FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page5_xref39.png>)
 
-*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 3 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO/img/page5_xref41.png>)
+
+*Imagen técnica — documento: FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf, página 5, sección: 8.*
 
 ### Página 6
 

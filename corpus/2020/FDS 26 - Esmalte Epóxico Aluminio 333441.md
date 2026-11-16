@@ -83,17 +83,23 @@ Indicaciones de peligro:
 H225 Líquido y vapores muy inflamables.
 H315 Provoca irritación cutánea.
 
-![imagen página 1](FDS 26 - Esmalte Epóxico Aluminio 333441/img/page1_xref20.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 26 - Esmalte Epóxico Aluminio 333441/img/page1_xref20.jpeg>)
 
-![imagen página 1](FDS 26 - Esmalte Epóxico Aluminio 333441/img/page1_xref45.jpeg)
+*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 2)
 
-![imagen página 1](FDS 26 - Esmalte Epóxico Aluminio 333441/img/page1_xref46.jpeg)
+![imagen técnica página 1](<FDS 26 - Esmalte Epóxico Aluminio 333441/img/page1_xref45.jpeg>)
 
-*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 3 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 26 - Esmalte Epóxico Aluminio 333441/img/page1_xref46.jpeg>)
+
+*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -624,17 +630,23 @@ F1
 | 14.6 Información adicional | Provisiones especiales<br>640 (E)<br>Código para túneles<br>(D/E) | Emergency schedules (EmS)<br>F-E, S-E | |
 | Código de clasificación | F1 |  | |
 
-![imagen página 8](FDS 26 - Esmalte Epóxico Aluminio 333441/img/page8_xref76.jpeg)
+#### Imagen técnica 1 (página 8, sección 14)
 
-*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf.pdf, página 8, sección: 14.*
+![imagen técnica página 8](<FDS 26 - Esmalte Epóxico Aluminio 333441/img/page8_xref76.jpeg>)
 
-![imagen página 8](FDS 26 - Esmalte Epóxico Aluminio 333441/img/page8_xref77.jpeg)
+*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf, página 8, sección: 14.*
 
-*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf.pdf, página 8, sección: 14.*
+#### Imagen técnica 2 (página 8, sección 14)
 
-![imagen página 8](FDS 26 - Esmalte Epóxico Aluminio 333441/img/page8_xref78.jpeg)
+![imagen técnica página 8](<FDS 26 - Esmalte Epóxico Aluminio 333441/img/page8_xref77.jpeg>)
 
-*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf.pdf, página 8, sección: 14.*
+*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf, página 8, sección: 14.*
+
+#### Imagen técnica 3 (página 8, sección 14)
+
+![imagen técnica página 8](<FDS 26 - Esmalte Epóxico Aluminio 333441/img/page8_xref78.jpeg>)
+
+*Imagen técnica — documento: FDS 26 - Esmalte Epóxico Aluminio 333441.pdf, página 8, sección: 14.*
 
 ### Página 9
 

@@ -134,13 +134,17 @@ Emisión: 16/05/2018            Versión: 1
 |---|---|
 | 4.1 Descripción de los primeros auxilios necesarios:<br>Los síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de<br>duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este<br>producto.<br>Por inhalación:<br>Se trata de un producto que no contiene sustancias clasificadas como peligrosas por inhalación, sin embargo, en caso de síntomas<br>de intoxicación sacar al afectado de la zona de exposición y proporcionarle aire fresco. Solicitar atención médica si los síntomas se<br>agravan o persisten.<br>Por contacto con la piel: | |
 
-![imagen página 1](FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page1_xref6.png>)
 
-![imagen página 1](FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page1_xref10.jpeg)
+*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page1_xref10.jpeg>)
+
+*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -340,9 +344,11 @@ Emisión: 16/05/2018            Versión: 1
 |---|---|---|
 | Proteccion<br>obligatoria de la<br>manos | Guantes de protección | recomendable la utilización de guantes de protección quimica|
 
-![imagen página 3](FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page3_xref25.png)
+#### Imagen técnica 1 (página 3, sección 8)
 
-*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf.pdf, página 3, sección: 8.*
+![imagen técnica página 3](<FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page3_xref25.png>)
+
+*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf, página 3, sección: 8.*
 
 ### Página 4
 
@@ -461,21 +467,29 @@ Emisión: 16/05/2018            Versión: 1
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Característico<br>Color: Característico<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 105 ºC<br>Presión de vapor a 20 ºC: 2314 Pa<br>Presión de vapor a 50 ºC: 91,44 (12,19 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 1405,5 kg/m³<br>Densidad relativa a 20 ºC: 1,31 - 1,337<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>Viscosidad cinemática a 40 ºC: No relevante *<br>Concentración: No relevante *<br>pH: 8,5 - 9,5<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 4](FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page4_xref29.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf.pdf, página 4, sección: 9.*
+![imagen técnica página 4](<FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page4_xref29.png>)
 
-![imagen página 4](FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page4_xref31.png)
+*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf.pdf, página 4, sección: 9.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page4_xref33.png)
+![imagen técnica página 4](<FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page4_xref31.png>)
 
-*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf.pdf, página 4, sección: 9.*
+*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page4_xref35.png)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf.pdf, página 4, sección: 9.*
+![imagen técnica página 4](<FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page4_xref33.png>)
+
+*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf, página 4, sección: 8.*
+
+#### Imagen técnica 4 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL Versión 1/img/page4_xref35.png>)
+
+*Imagen técnica — documento: FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf, página 4, sección: 8.*
 
 ### Página 5
 

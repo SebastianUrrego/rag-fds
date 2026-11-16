@@ -91,17 +91,23 @@ Etiqueta SGA (GHS)
 Pictogramas de peligro
 :
 
-![imagen página 1](FDS 86 - Sikafloor-510 Part A - SIKA/img/page1_xref7.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 86 - Sikafloor®-510  Part A - SIKA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 86 - Sikafloor-510 Part A - SIKA/img/page1_xref7.png>)
 
-![imagen página 1](FDS 86 - Sikafloor-510 Part A - SIKA/img/page1_xref25.png)
+*Imagen técnica — documento: FDS 86 - Sikafloor®-510  Part A - SIKA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 86 - Sikafloor®-510  Part A - SIKA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 2)
 
-![imagen página 1](FDS 86 - Sikafloor-510 Part A - SIKA/img/page1_xref27.png)
+![imagen técnica página 1](<FDS 86 - Sikafloor-510 Part A - SIKA/img/page1_xref25.png>)
 
-*Imagen técnica — documento: FDS 86 - Sikafloor®-510  Part A - SIKA.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 86 - Sikafloor®-510  Part A - SIKA.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 3 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 86 - Sikafloor-510 Part A - SIKA/img/page1_xref27.png>)
+
+*Imagen técnica — documento: FDS 86 - Sikafloor®-510  Part A - SIKA.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -712,13 +718,17 @@ RIESGO FÍSICO
 INFLAMABILIDAD
 SALUD
 
-![imagen página 9](FDS 86 - Sikafloor-510 Part A - SIKA/img/page9_xref54.png)
+#### Imagen técnica 1 (página 9, sección 16)
 
-*Imagen técnica — documento: FDS 86 - Sikafloor®-510  Part A - SIKA.pdf.pdf, página 9, sección: 16.*
+![imagen técnica página 9](<FDS 86 - Sikafloor-510 Part A - SIKA/img/page9_xref54.png>)
 
-![imagen página 9](FDS 86 - Sikafloor-510 Part A - SIKA/img/page9_xref55.png)
+*Imagen técnica — documento: FDS 86 - Sikafloor®-510  Part A - SIKA.pdf, página 9, sección: 16.*
 
-*Imagen técnica — documento: FDS 86 - Sikafloor®-510  Part A - SIKA.pdf.pdf, página 9, sección: 16.*
+#### Imagen técnica 2 (página 9, sección 16)
+
+![imagen técnica página 9](<FDS 86 - Sikafloor-510 Part A - SIKA/img/page9_xref55.png>)
+
+*Imagen técnica — documento: FDS 86 - Sikafloor®-510  Part A - SIKA.pdf, página 9, sección: 16.*
 
 ### Página 10
 

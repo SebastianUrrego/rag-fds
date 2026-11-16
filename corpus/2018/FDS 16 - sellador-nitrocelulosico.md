@@ -111,61 +111,89 @@ explosión o BLEVE como consecuencia de elevadas temperaturas.
 |  | PELIGRO FÍSICO |  | 0 |  |  |  | |
 | PROTECCIOÓN PERSONAL |  |  |  |  |  |  | |
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref14.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref14.png>)
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref18.png)
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+#### Imagen técnica 2 (página 1, sección 3)
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref19.png)
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref18.png>)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref20.png)
+#### Imagen técnica 3 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref19.png>)
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref21.png)
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+#### Imagen técnica 4 (página 1, sección 3)
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref22.png)
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref20.png>)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref24.png)
+#### Imagen técnica 5 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref21.png>)
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref26.png)
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+#### Imagen técnica 6 (página 1, sección 3)
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref28.png)
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref22.png>)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref30.png)
+#### Imagen técnica 7 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref24.png>)
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref31.jpeg)
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+#### Imagen técnica 8 (página 1, sección 3)
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref32.png)
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref26.png>)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref33.png)
+#### Imagen técnica 9 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref28.png>)
 
-![imagen página 1](FDS 16 - sellador-nitrocelulosico/img/page1_xref34.png)
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 1, sección: 5.*
+#### Imagen técnica 10 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref30.png>)
+
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 11 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref31.jpeg>)
+
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 12 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref32.png>)
+
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 13 (página 1, sección 3)
+
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref33.png>)
+
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 3.*
+
+#### Imagen técnica 14 (página 1, sección 4)
+
+![imagen técnica página 1](<FDS 16 - sellador-nitrocelulosico/img/page1_xref34.png>)
+
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 1, sección: 4.*
 
 ### Página 2
 
@@ -232,17 +260,23 @@ Protección de la vista : Lentes que permitan completa protección a la vista
 Otros equipos de protección : Delantal de caucho y botas impermeable al producto
 Ventilación : Trabajar en zonas que permitan la libre circulación del producto y en caso contrario utilizar ventilación forzada
 
-![imagen página 2](FDS 16 - sellador-nitrocelulosico/img/page2_xref37.png)
+#### Imagen técnica 1 (página 2, sección 5)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 2, sección: 8.*
+![imagen técnica página 2](<FDS 16 - sellador-nitrocelulosico/img/page2_xref37.png>)
 
-![imagen página 2](FDS 16 - sellador-nitrocelulosico/img/page2_xref38.png)
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 2, sección: 5.*
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 2, sección: 8.*
+#### Imagen técnica 2 (página 2, sección 6)
 
-![imagen página 2](FDS 16 - sellador-nitrocelulosico/img/page2_xref39.png)
+![imagen técnica página 2](<FDS 16 - sellador-nitrocelulosico/img/page2_xref38.png>)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 2, sección: 8.*
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 2, sección: 6.*
+
+#### Imagen técnica 3 (página 2, sección 7)
+
+![imagen técnica página 2](<FDS 16 - sellador-nitrocelulosico/img/page2_xref39.png>)
+
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 2, sección: 7.*
 
 ### Página 3
 
@@ -302,33 +336,47 @@ Grupo de embalaje II
 Algunos de sus componentes estan regulados para el transporte, se debe dar cumplimiento al Decreto 1609 de 2002.
 Ministerio de Transporte.
 
-![imagen página 3](FDS 16 - sellador-nitrocelulosico/img/page3_xref47.jpeg)
+#### Imagen técnica 1 (página 3, sección 8)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 3, sección: 15.*
+![imagen técnica página 3](<FDS 16 - sellador-nitrocelulosico/img/page3_xref47.jpeg>)
 
-![imagen página 3](FDS 16 - sellador-nitrocelulosico/img/page3_xref48.png)
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 3, sección: 8.*
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 3, sección: 15.*
+#### Imagen técnica 2 (página 3, sección 9)
 
-![imagen página 3](FDS 16 - sellador-nitrocelulosico/img/page3_xref49.png)
+![imagen técnica página 3](<FDS 16 - sellador-nitrocelulosico/img/page3_xref48.png>)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 3, sección: 15.*
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 3, sección: 9.*
 
-![imagen página 3](FDS 16 - sellador-nitrocelulosico/img/page3_xref50.png)
+#### Imagen técnica 3 (página 3, sección 10)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 3, sección: 15.*
+![imagen técnica página 3](<FDS 16 - sellador-nitrocelulosico/img/page3_xref49.png>)
 
-![imagen página 3](FDS 16 - sellador-nitrocelulosico/img/page3_xref51.png)
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 3, sección: 10.*
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 3, sección: 15.*
+#### Imagen técnica 4 (página 3, sección 11)
 
-![imagen página 3](FDS 16 - sellador-nitrocelulosico/img/page3_xref52.jpeg)
+![imagen técnica página 3](<FDS 16 - sellador-nitrocelulosico/img/page3_xref50.png>)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 3, sección: 15.*
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 3, sección: 11.*
 
-![imagen página 3](FDS 16 - sellador-nitrocelulosico/img/page3_xref53.png)
+#### Imagen técnica 5 (página 3, sección 12)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 3, sección: 15.*
+![imagen técnica página 3](<FDS 16 - sellador-nitrocelulosico/img/page3_xref51.png>)
+
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 3, sección: 12.*
+
+#### Imagen técnica 6 (página 3, sección 13)
+
+![imagen técnica página 3](<FDS 16 - sellador-nitrocelulosico/img/page3_xref52.jpeg>)
+
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 3, sección: 13.*
+
+#### Imagen técnica 7 (página 3, sección 14)
+
+![imagen técnica página 3](<FDS 16 - sellador-nitrocelulosico/img/page3_xref53.png>)
+
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 3, sección: 14.*
 
 ### Página 4
 
@@ -350,6 +398,8 @@ conveniencia del uso de este producto para un fin específico. TECNIDECOR S.A.S 
 causado a propiedades o a personas por el uso inadecuado de nuestros productos, ya que no conocemos la manipulación ni
 las precauciones que cada cliente tiene en el almacenamiento.
 
-![imagen página 4](FDS 16 - sellador-nitrocelulosico/img/page4_xref56.png)
+#### Imagen técnica 1 (página 4, sección 15)
 
-*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf.pdf, página 4, sección: 16.*
+![imagen técnica página 4](<FDS 16 - sellador-nitrocelulosico/img/page4_xref56.png>)
+
+*Imagen técnica — documento: FDS 16 - sellador-nitrocelulosico.pdf, página 4, sección: 15.*

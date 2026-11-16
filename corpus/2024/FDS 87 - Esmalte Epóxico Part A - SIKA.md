@@ -99,21 +99,29 @@ Etiqueta SGA (GHS)
 Pictogramas de peligro
 :
 
-![imagen página 1](FDS 87 - Esmalte Epóxico Part A - SIKA/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 87 - Esmalte Epóxico Part A - SIKA/img/page1_xref6.png>)
 
-![imagen página 1](FDS 87 - Esmalte Epóxico Part A - SIKA/img/page1_xref17.png)
+*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 2)
 
-![imagen página 1](FDS 87 - Esmalte Epóxico Part A - SIKA/img/page1_xref19.png)
+![imagen técnica página 1](<FDS 87 - Esmalte Epóxico Part A - SIKA/img/page1_xref17.png>)
 
-*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf, página 1, sección: 2.*
 
-![imagen página 1](FDS 87 - Esmalte Epóxico Part A - SIKA/img/page1_xref21.png)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 87 - Esmalte Epóxico Part A - SIKA/img/page1_xref19.png>)
+
+*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 87 - Esmalte Epóxico Part A - SIKA/img/page1_xref21.png>)
+
+*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -1067,13 +1075,17 @@ RIESGO FÍSICO
 INFLAMABILIDAD
 SALUD
 
-![imagen página 12](FDS 87 - Esmalte Epóxico Part A - SIKA/img/page12_xref50.png)
+#### Imagen técnica 1 (página 12, sección 16)
 
-*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf.pdf, página 12, sección: indeterminada.*
+![imagen técnica página 12](<FDS 87 - Esmalte Epóxico Part A - SIKA/img/page12_xref50.png>)
 
-![imagen página 12](FDS 87 - Esmalte Epóxico Part A - SIKA/img/page12_xref51.png)
+*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf, página 12, sección: 16.*
 
-*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf.pdf, página 12, sección: indeterminada.*
+#### Imagen técnica 2 (página 12, sección 16)
+
+![imagen técnica página 12](<FDS 87 - Esmalte Epóxico Part A - SIKA/img/page12_xref51.png>)
+
+*Imagen técnica — documento: FDS 87 - Esmalte Epóxico Part A - SIKA.pdf, página 12, sección: 16.*
 
 ### Página 13
 

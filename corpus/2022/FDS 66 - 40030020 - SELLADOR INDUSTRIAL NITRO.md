@@ -111,13 +111,17 @@ Página 1/18
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones<br>en materia de seguridad química.<br>Acuático agudo. 3: Peligrosidad aguda para el medio ambiente acuático, Categoría 3, H402<br>Carc. 2: Carcinogenicidad, Categoría 2, H351<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Les. Oc. 1: Lesiones oculares graves, Categoría 1, H318<br>Liq. Infl. 2: Líquidos inflamables, Categoría 2, H225<br>Repr. 1B: Tóxico para la reproducción, Categoría 1B, H360<br>STOT repe. 2: Toxicidad específica en determinados órganos (exposiciones repetidas), Categoría 2, H373<br>STOT única 2: Toxicidad específica en determinados órganos (exposición única), categoria 2, H371<br>STOT única 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336<br>Tox. Agud. 4: Toxicidad aguda por contacto con la piel, Categoría 4, H312<br>Tox. Agud. 4: Toxicidad aguda por ingestión, Categoría 4, H302<br>Tox. Agud. 4: Toxicidad aguda por inhalación, Categoría 4, H332<br>Tox. Asp. 1: Peligro por aspiración, Categoría 1, H304<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Acuático agudo. 3: H402 - Nocivo para los organismos acuáticos.<br>Carc. 2: H351 - Susceptible de provocar cáncer.<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea.<br>Les. Oc. 1: H318 - Provoca lesiones oculares graves.<br>Liq. Infl. 2: H225 - Líquido y vapores muy inflamables.<br>Repr. 1B: H360 - Puede perjudicar la fertilidad o dañar al feto.<br>STOT repe. 2: H373 - Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas.<br>STOT única 2: H371 - Puede provocar daños en los órganos.<br>STOT única 3: H336 - Puede provocar somnolencia o vértigo.<br>Tox. Agud. 4: H312 - Nocivo en contacto con la piel.<br>Tox. Agud. 4: H302 - Nocivo en caso de ingestión.<br>Tox. Agud. 4: H332 - Nocivo si se inhala.<br>Tox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias. | |
 
-![imagen página 1](FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO/img/page1_xref115.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO/img/page1_xref115.png>)
 
-![imagen página 1](FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO/img/page1_xref124.jpeg)
+*Imagen técnica — documento: FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO/img/page1_xref124.jpeg>)
+
+*Imagen técnica — documento: FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf, página 1, sección: 1.*
 
 ### Página 2
 

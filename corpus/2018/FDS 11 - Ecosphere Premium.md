@@ -131,25 +131,35 @@ Eye Dam. 1: H318; Skin Irrit. 2: H315; STOT SE 3: H335 – Peligro
 |  |  | Eye Dam. 1: H318; Skin Irrit. 2: H315; STOT SE 3: H335 – Peligro | |
 |  | Reglamento 1272/2008 |  | |
 
-![imagen página 1](FDS 11 - Ecosphere Premium/img/page1_xref11.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 11 - Ecosphere Premium/img/page1_xref11.jpeg>)
 
-![imagen página 1](FDS 11 - Ecosphere Premium/img/page1_xref12.png)
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 11 - Ecosphere Premium/img/page1_xref15.png)
+![imagen técnica página 1](<FDS 11 - Ecosphere Premium/img/page1_xref12.png>)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 1, sección: 3.*
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 11 - Ecosphere Premium/img/page1_xref25.png)
+#### Imagen técnica 3 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 11 - Ecosphere Premium/img/page1_xref15.png>)
 
-![imagen página 1](FDS 11 - Ecosphere Premium/img/page1_xref27.png)
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 11 - Ecosphere Premium/img/page1_xref25.png>)
+
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 5 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 11 - Ecosphere Premium/img/page1_xref27.png>)
+
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -240,9 +250,11 @@ zona y mantener a las personas sin protección alejadas.
 |---|---|---|
 | 6.1 Precauciones personales, equipo de protección y procedimientos de emergencia:<br>Aislar las fugas siempre y cuando no suponga un riesgo adicional para las personas que desempeñen esta función. Ante la exposición<br>potencial con el producto derramado se hace obligatorio el uso de elementos de protección personal (ver sección 8). Evacuar la<br>zona y mantener a las personas sin protección alejadas. |  | |
 
-![imagen página 2](FDS 11 - Ecosphere Premium/img/page2_xref31.jpeg)
+#### Imagen técnica 1 (página 2, sección 3)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 2, sección: 6.*
+![imagen técnica página 2](<FDS 11 - Ecosphere Premium/img/page2_xref31.jpeg>)
+
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 2, sección: 3.*
 
 ### Página 3
 
@@ -569,33 +581,47 @@ F.- Medidas complementarias de emergencia
 | Protección obligatoria<br>del cuerpo | Prenda de protección frente<br>a riesgos químicos |  | EN 13034:2005+ A1:2009<br>EN 168:2001 EN I SO<br>13982-1:2004/ A1:2010<br>EN I SO 6529:2001<br>EN I SO 6530:2005 EN<br>464:1994 | Uso exclusivo en el trabajo. Limpiar pe-<br>riódicamente de acuerdo a las instruc-<br>ciones del fabricante.|
 | Protección obligatoria<br>de los pies | Calzado de seguridad con-<br>tra riesgo químico |  | EN ISO 20345:2011<br>EN 13832-1:2006 | Reemplazar las botas ante cualquier indicio<br>de deterioro.|
 
-![imagen página 4](FDS 11 - Ecosphere Premium/img/page4_xref36.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 4, sección: indeterminada.*
+![imagen técnica página 4](<FDS 11 - Ecosphere Premium/img/page4_xref36.png>)
 
-![imagen página 4](FDS 11 - Ecosphere Premium/img/page4_xref37.jpeg)
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 4, sección: indeterminada.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 11 - Ecosphere Premium/img/page4_xref38.png)
+![imagen técnica página 4](<FDS 11 - Ecosphere Premium/img/page4_xref37.jpeg>)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 4, sección: indeterminada.*
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 11 - Ecosphere Premium/img/page4_xref39.png)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 4, sección: indeterminada.*
+![imagen técnica página 4](<FDS 11 - Ecosphere Premium/img/page4_xref38.png>)
 
-![imagen página 4](FDS 11 - Ecosphere Premium/img/page4_xref40.jpeg)
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 4, sección: indeterminada.*
+#### Imagen técnica 4 (página 4, sección 8)
 
-![imagen página 4](FDS 11 - Ecosphere Premium/img/page4_xref41.png)
+![imagen técnica página 4](<FDS 11 - Ecosphere Premium/img/page4_xref39.png>)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 4, sección: indeterminada.*
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 11 - Ecosphere Premium/img/page4_xref42.png)
+#### Imagen técnica 5 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 4, sección: indeterminada.*
+![imagen técnica página 4](<FDS 11 - Ecosphere Premium/img/page4_xref40.jpeg>)
+
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 4, sección: 8.*
+
+#### Imagen técnica 6 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 11 - Ecosphere Premium/img/page4_xref41.png>)
+
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 4, sección: 8.*
+
+#### Imagen técnica 7 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 11 - Ecosphere Premium/img/page4_xref42.png>)
+
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -727,13 +753,17 @@ Evitar incidencia directa
 |---|---|---|---|---|
 | No aplicable | Evitar incidencia directa | Evitar incidencia directa | Evitar incidencia directa | Evitar incidencia directa|
 
-![imagen página 5](FDS 11 - Ecosphere Premium/img/page5_xref47.jpeg)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 5, sección: 10.*
+![imagen técnica página 5](<FDS 11 - Ecosphere Premium/img/page5_xref47.jpeg>)
 
-![imagen página 5](FDS 11 - Ecosphere Premium/img/page5_xref48.jpeg)
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 5, sección: 10.*
+#### Imagen técnica 2 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 11 - Ecosphere Premium/img/page5_xref48.jpeg>)
+
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -968,13 +998,17 @@ Cantidades limitadas:
 |---|---|---|
 | 14.1. Transporte terrestre de mercancías peligrosas:<br>En aplicación al ADR 2015 y al RID 2015:<br>14.1 Número ONU: UN3066<br>14.2 Designación oficial de transporte de las Naciones Unidas: PINTURA<br>14.3 Clase(s) de peligro para el transporte: 8<br>Etiquetas: 8<br>14.4 Grupo de embalaje: II<br>14.5 Peligros para el medio ambiente: No<br>14.6 Precauciones particulares para los usuarios<br>Disposiciones especiales: 163.367<br>Código de restricción en túneles: E<br>Propiedades físico-químicas: Ver epígrafe 9<br>Cantidades limitadas: 1 L |  | |
 
-![imagen página 7](FDS 11 - Ecosphere Premium/img/page7_xref53.png)
+#### Imagen técnica 1 (página 7, sección 11)
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 7, sección: 14.*
+![imagen técnica página 7](<FDS 11 - Ecosphere Premium/img/page7_xref53.png>)
 
-![imagen página 7](FDS 11 - Ecosphere Premium/img/page7_xref58.png)
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 7, sección: 11.*
 
-*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf.pdf, página 7, sección: 14.*
+#### Imagen técnica 2 (página 7, sección 14)
+
+![imagen técnica página 7](<FDS 11 - Ecosphere Premium/img/page7_xref58.png>)
+
+*Imagen técnica — documento: FDS 11  - Ecosphere Premium.pdf, página 7, sección: 14.*
 
 ### Página 8
 

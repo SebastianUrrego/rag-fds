@@ -112,53 +112,77 @@ ocurra combustión incompleta.
 | PROTECCIÓN PERSONAL |  |  |  |  |  | |
 | . |  |  |  |  |  | |
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref14.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref14.png>)
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref28.png)
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+#### Imagen técnica 2 (página 1, sección 3)
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref29.png)
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref28.png>)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref30.png)
+#### Imagen técnica 3 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref29.png>)
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref31.png)
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+#### Imagen técnica 4 (página 1, sección 3)
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref33.png)
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref30.png>)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref35.png)
+#### Imagen técnica 5 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref31.png>)
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref36.jpeg)
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+#### Imagen técnica 6 (página 1, sección 3)
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref37.png)
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref33.png>)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref38.png)
+#### Imagen técnica 7 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref35.png>)
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref39.png)
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+#### Imagen técnica 8 (página 1, sección 1)
 
-![imagen página 1](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref40.png)
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref36.jpeg>)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 1, sección: 6.*
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 9 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref37.png>)
+
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 10 (página 1, sección 3)
+
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref38.png>)
+
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 3.*
+
+#### Imagen técnica 11 (página 1, sección 3)
+
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref39.png>)
+
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 3.*
+
+#### Imagen técnica 12 (página 1, sección 5)
+
+![imagen técnica página 1](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page1_xref40.png>)
+
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 1, sección: 5.*
 
 ### Página 2
 
@@ -227,25 +251,35 @@ Piel: moderado. Ojos:  moderado
 Sensibilidad: sensibilizador en la piel humana.
 Otros efectos toxicológicos: mutágeno in vitro, pero no se observa potencial mutágenico in vivo.
 
-![imagen página 2](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page2_xref43.png)
+#### Imagen técnica 1 (página 2, sección 6)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 2, sección: 11.*
+![imagen técnica página 2](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page2_xref43.png>)
 
-![imagen página 2](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page2_xref44.png)
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 2, sección: 6.*
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 2, sección: 11.*
+#### Imagen técnica 2 (página 2, sección 7)
 
-![imagen página 2](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page2_xref45.jpeg)
+![imagen técnica página 2](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page2_xref44.png>)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 2, sección: 11.*
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 2, sección: 7.*
 
-![imagen página 2](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page2_xref46.png)
+#### Imagen técnica 3 (página 2, sección 8)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 2, sección: 11.*
+![imagen técnica página 2](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page2_xref45.jpeg>)
 
-![imagen página 2](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page2_xref47.png)
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 2, sección: 8.*
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 2, sección: 11.*
+#### Imagen técnica 4 (página 2, sección 9)
+
+![imagen técnica página 2](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page2_xref46.png>)
+
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 2, sección: 9.*
+
+#### Imagen técnica 5 (página 2, sección 10)
+
+![imagen técnica página 2](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page2_xref47.png>)
+
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 2, sección: 10.*
 
 ### Página 3
 
@@ -285,22 +319,32 @@ conveniencia del uso de este producto para un fin específico. TECNIDECOR S.A.S 
 causado a propiedades o a personas por el uso inadecuado de nuestros productos, ya que no conocemos la manipulación ni
 las precauciones que cada cliente tiene en el almacenamiento.
 
-![imagen página 3](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page3_xref50.png)
+#### Imagen técnica 1 (página 3, sección 11)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 3, sección: 16.*
+![imagen técnica página 3](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page3_xref50.png>)
 
-![imagen página 3](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page3_xref51.png)
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 3, sección: 11.*
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 3, sección: 16.*
+#### Imagen técnica 2 (página 3, sección 12)
 
-![imagen página 3](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page3_xref52.jpeg)
+![imagen técnica página 3](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page3_xref51.png>)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 3, sección: 16.*
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 3, sección: 12.*
 
-![imagen página 3](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page3_xref53.png)
+#### Imagen técnica 3 (página 3, sección 13)
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 3, sección: 16.*
+![imagen técnica página 3](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page3_xref52.jpeg>)
 
-![imagen página 3](FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page3_xref54.png)
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 3, sección: 13.*
 
-*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf.pdf, página 3, sección: 16.*
+#### Imagen técnica 4 (página 3, sección 14)
+
+![imagen técnica página 3](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page3_xref53.png>)
+
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 3, sección: 14.*
+
+#### Imagen técnica 5 (página 3, sección 15)
+
+![imagen técnica página 3](<FDS 2-CATALIZADOR-EPOXIPOLIAMIDA/img/page3_xref54.png>)
+
+*Imagen técnica — documento: FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf, página 3, sección: 15.*

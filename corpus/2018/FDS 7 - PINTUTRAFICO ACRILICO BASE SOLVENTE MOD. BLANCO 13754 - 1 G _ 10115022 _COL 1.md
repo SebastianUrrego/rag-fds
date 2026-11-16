@@ -118,13 +118,17 @@ Página 1/11
 |---|---|
 | 3.1 Sustancias:<br>No aplicable<br>3.2 Mezclas: | |
 
-![imagen página 1](FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page1_xref6.png>)
 
-![imagen página 1](FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page1_xref11.jpeg)
+*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page1_xref11.jpeg>)
+
+*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -447,17 +451,23 @@ Página 4/11
 |---|---|---|
 | Proteccion<br>obligatoria de la cara | Gafas de seguridad | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del<br>fabricante. Se recomienda su uso en caso de riesgo de salpicaduras.|
 
-![imagen página 4](FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page4_xref36.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page4_xref36.png>)
 
-![imagen página 4](FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page4_xref38.png)
+*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page4_xref40.png)
+![imagen técnica página 4](<FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page4_xref38.png>)
 
-*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf, página 4, sección: 8.*
+
+#### Imagen técnica 3 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page4_xref40.png>)
+
+*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -576,13 +586,17 @@ Página 5/11
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Fluido<br>Color: Blanco<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: >110 ºC<br>Presión de vapor a 20 ºC: 2838 Pa<br>Presión de vapor a 50 ºC: 12263,81 Pa (12,26 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 1,3 - 1,5 kg/m³<br>Densidad relativa a 20 ºC: 1,417<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>Viscosidad cinemática a 40 ºC: <20,5 cSt<br>Concentración: No relevante *<br>pH: No relevante *<br>Densidad de vapor a 20 ºC: No relevante *<br>Coeficiente de reparto n-octanol/agua a 20 ºC: No relevante *<br>Solubilidad en agua a 20 ºC: No relevante *<br>Propiedad de solubilidad: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 | - CONTINÚA EN LA SIGUIENTE PÁGINA - | |
 
-![imagen página 5](FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page5_xref44.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page5_xref44.png>)
 
-![imagen página 5](FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page5_xref46.png)
+*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page5_xref46.png>)
+
+*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -1089,9 +1103,11 @@ Página 9/11
 | 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:<br>NTP (National Toxicology Program): No relevante<br>Disposiciones particulares en materia de protección de las personas o el medio ambiente:<br>Se recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una<br>evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para<br>el manejo, utilización, almacenamiento y eliminación de este producto. | |
 | - CONTINÚA EN LA SIGUIENTE PÁGINA - | |
 
-![imagen página 9](FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page9_xref60.jpeg)
+#### Imagen técnica 1 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf.pdf, página 9, sección: 15.*
+![imagen técnica página 9](<FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL 1/img/page9_xref60.jpeg>)
+
+*Imagen técnica — documento: FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf, página 9, sección: 14.*
 
 ### Página 10
 

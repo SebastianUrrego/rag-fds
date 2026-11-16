@@ -100,9 +100,11 @@ Fecha de emisión : 2/28/2020
 Versión : 2
 1/14
 
-![imagen página 1](FDS 23 - Tufcote 3.5 HH - Aluminum/img/page1_xref12.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 23 - Tufcote 3.5 HH - Aluminum.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 23 - Tufcote 3.5 HH - Aluminum/img/page1_xref12.jpeg>)
+
+*Imagen técnica — documento: FDS 23 - Tufcote 3.5 HH - Aluminum.pdf, página 1, sección: 1.*
 
 ### Página 2
 

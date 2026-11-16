@@ -100,21 +100,29 @@ Página 1/9
 |  | SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>NFPA:<br>Salud: 1<br>Inflamabilidad: 0<br>Inestabilidad: 0<br>Especiales: No relevante<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente<br>Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.<br>Carc. 2: Carcinogenicidad, Categoría 2, H351<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>NFPA:<br>SGA:<br>Atención<br>Indicaciones de peligro:<br>Carc. 2: H351 - Susceptible de provocar cáncer (Inhalación).<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P201: Procurarse las instrucciones antes del uso.<br>P202: No manipular antes de haber leído y comprendido todas las precauciones de seguridad.<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico.<br>P405: Guardar bajo llave.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.<br>Sustancias que contribuyen a la clasificación<br>Dioxido de titanio (diámetro aerodinámico ≤ 10 μm)<br>2.3 Otros peligros que no conducen a una clasificación:<br>No relevante | |
 
-![imagen página 1](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref6.png>)
 
-![imagen página 1](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref20.png)
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref22.png)
+![imagen técnica página 1](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref20.png>)
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref24.png)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref22.png>)
+
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 1, sección: 2.*
+
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref24.png>)
+
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -417,21 +425,29 @@ Página 4/9
 |---|---|---|
 | Protección obligat oria<br>del cuerpo | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo.<br>Limpiar periódicamente de acuerdo a las instrucciones del fabricante.|
 
-![imagen página 4](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref43.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref43.png>)
 
-![imagen página 4](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref45.png)
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref47.png)
+![imagen técnica página 4](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref45.png>)
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref49.png)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref47.png>)
+
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 4 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref49.png>)
+
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -542,21 +558,29 @@ Página 5/9
 |---|---|---|---|
 | Ducha de emergencia | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 5](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref53.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref53.png>)
 
-![imagen página 5](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref55.png)
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref57.png)
+![imagen técnica página 5](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref55.png>)
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref59.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref57.png>)
+
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 4 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref59.png>)
+
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -818,9 +842,11 @@ Página 8/9
 |  | SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN|
 | 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:<br>NTP (National Toxicology Program): No relevante<br>Disposiciones particulares en materia de protección de las personas o el medio ambiente:<br>Se recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una<br>evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para<br>el manejo, utilización, almacenamiento y eliminación de este producto.<br>Otras legislaciones: | |
 
-![imagen página 8](FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page8_xref67.png)
+#### Imagen técnica 1 (página 8, sección 3)
 
-*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 8, sección: 15.*
+![imagen técnica página 8](<FDS 43 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page8_xref67.png>)
+
+*Imagen técnica — documento: FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 8, sección: 3.*
 
 ### Página 9
 

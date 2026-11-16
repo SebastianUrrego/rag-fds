@@ -100,29 +100,41 @@ Página 1/9
 |  | SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>NFPA:<br>Salud: 1<br>Inflamabilidad: 0<br>Inestabilidad: 0<br>Especiales: No relevante<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente<br>Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.<br>Carc. 2: Carcinogenicidad, Categoría 2, H351<br>Sens. Cut. 1: Sensibilización cutánea, Categoría 1, H317<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>NFPA:<br>SGA:<br>Atención<br>Indicaciones de peligro:<br>Carc. 2: H351 - Susceptible de provocar cáncer<br>Sens. Cut. 1: H317 - Puede provocar una reacción cutánea alérgica<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto<br>P102: Mantener fuera del alcance de los niños<br>P201: Procurarse las instrucciones antes del uso<br>P261: Evitar respirar polvos/humos/gases/ nieblas/vapores/aerosoles<br>P280: Usar guantes/ropa de protección/equipo de protección para los ojos/la cara<br>P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio<br>Sustancias que contribuyen a la clasificación<br>Dioxido de titanio; Mezcla de: 5-cloro-2-metil-2H-isotiazol-3-ona [EC no. 247-500-7] y 2-metil-2H-isotiazol-3-ona [EC no. 220-239-<br>6] (3:1)<br>2.3 Otros peligros que no conducen a una clasificación: | |
 
-![imagen página 1](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref6.png>)
 
-![imagen página 1](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref15.png)
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref17.png)
+![imagen técnica página 1](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref15.png>)
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref19.png)
+#### Imagen técnica 3 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref17.png>)
 
-![imagen página 1](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref21.png)
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 4 (página 1, sección 2)
 
-![imagen página 1](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref23.png)
+![imagen técnica página 1](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref19.png>)
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 1, sección: 2.*
+
+#### Imagen técnica 5 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref21.png>)
+
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 1, sección: 2.*
+
+#### Imagen técnica 6 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page1_xref23.png>)
+
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -223,13 +235,17 @@ Página 2/9
 |  | SECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS|
 | 5.1 Medios de extinción apropiados:<br>Producto no inflamable bajo condiciones normales de almacenamiento, manipulación y uso. En caso de inflamación como<br>consecuencia de manipulación, almacenamiento o uso indebido emplear preferentemente extintores de polvo polivalente (polvo ABC).<br>NO SE RECOMIENDA emplear agua a chorro como agente de extinción.<br>5.2 Peligros específicos del producto químico:<br>Como consecuencia de la combustión o descomposición térmica se generan subproductos de reacción que pueden resultar altamente<br>tóxicos y, consecuentemente, pueden presentar un riesgo elevado para la salud. | |
 
-![imagen página 2](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page2_xref29.png)
+#### Imagen técnica 1 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 2, sección: 5.*
+![imagen técnica página 2](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page2_xref29.png>)
 
-![imagen página 2](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page2_xref31.png)
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 2, sección: 2.*
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 2, sección: 5.*
+#### Imagen técnica 2 (página 2, sección 2)
+
+![imagen técnica página 2](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page2_xref31.png>)
+
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 2, sección: 2.*
 
 ### Página 3
 
@@ -441,25 +457,35 @@ Página 4/9
 | Protección obligat oria<br>del cuerpo | Prenda de protección frente a riesgos químicos | Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del<br>fabricante.|
 | Prote ccion obligat oria<br>de los pies | Calzado de seguridad contra riesgo químico | Reemplazar las botas ante cualquier indicio de deterioro.|
 
-![imagen página 4](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref44.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref44.png>)
 
-![imagen página 4](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref46.png)
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref48.png)
+![imagen técnica página 4](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref46.png>)
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref50.png)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref48.png>)
 
-![imagen página 4](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref52.png)
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 4 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref50.png>)
+
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 5 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page4_xref52.png>)
+
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -568,13 +594,17 @@ Página 5/9
 |---|---|---|---|
 | Ducha de emergencia | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 5](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref56.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref56.png>)
 
-![imagen página 5](FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref58.png)
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 29 - PINTURA PRIMERA MANO ACABADO - CORONA/img/page5_xref58.png>)
+
+*Imagen técnica — documento: FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf, página 5, sección: 8.*
 
 ### Página 6
 

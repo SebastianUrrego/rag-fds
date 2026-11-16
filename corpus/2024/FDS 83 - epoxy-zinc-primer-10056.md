@@ -93,13 +93,17 @@ Versión
 : 1
 1/12
 
-![imagen página 1](FDS 83 - epoxy-zinc-primer-10056/img/page1_xref26.jpeg)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 83 - epoxy-zinc-primer-10056.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 83 - epoxy-zinc-primer-10056/img/page1_xref26.jpeg>)
 
-![imagen página 1](FDS 83 - epoxy-zinc-primer-10056/img/page1_xref27.jpeg)
+*Imagen técnica — documento: FDS 83 - epoxy-zinc-primer-10056.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 83 - epoxy-zinc-primer-10056.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 83 - epoxy-zinc-primer-10056/img/page1_xref27.jpeg>)
+
+*Imagen técnica — documento: FDS 83 - epoxy-zinc-primer-10056.pdf, página 1, sección: 1.*
 
 ### Página 2
 

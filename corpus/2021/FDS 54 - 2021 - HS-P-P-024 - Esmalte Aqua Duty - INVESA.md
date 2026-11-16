@@ -137,9 +137,11 @@ Emisión: 6/08/2020            Revisión: 4/08/2021            Versión: 2 (sust
 | CAS: 111-76-2 | 2-butoxietanol<br>Irrit. Cut. 2: H315; Irrit. oc. 2: H319; Liq. Infl. 4: H227; Tox. Agud. 4: H302+H332; Tox. Agud. 5: H313 - Atención | 2 - <10 %|
 | CAS: 1333-86-4 | Negro de carbon<br>Carc. 2: H351 - Atención | <2 %|
 
-![imagen página 1](FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page1_xref4.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page1_xref4.png>)
+
+*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -468,13 +470,17 @@ Emisión: 6/08/2020            Revisión: 4/08/2021            Versión: 2 (sust
 |---|---|---|
 | Protección<br>obligatoria de la<br>manos | Guantes NO desechables de protección<br>química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso<br>(Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de<br>uso del producto. No emplear cremas protectoras después del contacto del<br>producto con la piel.|
 
-![imagen página 4](FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page4_xref10.jpeg)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page4_xref10.jpeg>)
 
-![imagen página 4](FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page4_xref12.jpeg)
+*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page4_xref12.jpeg>)
+
+*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -594,25 +600,35 @@ Emisión: 6/08/2020            Revisión: 4/08/2021            Versión: 2 (sust
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Dispersión<br>Color: No determinado<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 103 ºC<br>Presión de vapor a 20 ºC: 2327 Pa<br>Presión de vapor a 50 ºC: 12260.12 Pa (12.26 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: No relevante *<br>Densidad relativa a 20 ºC: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 5](FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page5_xref15.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page5_xref15.png>)
 
-![imagen página 5](FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page5_xref17.jpeg)
+*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page5_xref19.png)
+![imagen técnica página 5](<FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page5_xref17.jpeg>)
 
-*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page5_xref21.jpeg)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page5_xref19.png>)
 
-![imagen página 5](FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page5_xref23.jpeg)
+*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 4 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page5_xref21.jpeg>)
+
+*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 5 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA/img/page5_xref23.jpeg>)
+
+*Imagen técnica — documento: FDS 54 - 2021 - HS-P-P-024 - Esmalte Aqua Duty - INVESA.pdf, página 5, sección: 8.*
 
 ### Página 6
 

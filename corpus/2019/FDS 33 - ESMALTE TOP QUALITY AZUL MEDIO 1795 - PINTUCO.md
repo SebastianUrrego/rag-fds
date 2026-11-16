@@ -111,25 +111,35 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente<br>Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.<br>Acuático agudo. 3: Peligrosidad aguda para el medio ambiente acuático, Categoría 3, H402<br>Acuático crónico. 3: Peligrosidad crónica para el medio ambiente acuático, Categoría 3, H412<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Liq. Infl. 3: Líquidos inflamables, Categoría 3, H226<br>Sens. Cut. 1A: Sensibilización cutánea, Categoría 1A, H317<br>STOT única 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336<br>Tox. Asp. 1: Peligro por aspiración, Categoría 1, H304<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Acuático crónico. 3: H412 - Nocivo para los organismos acuáticos, con efectos nocivos duraderos<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea<br>Liq. Infl. 3: H226 - Líquido y vapores inflamables<br>Sens. Cut. 1A: H317 - Puede provocar una reacción cutánea alérgica<br>STOT única 3: H336 - Puede provocar somnolencia o vértigo<br>Tox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto<br>P102: Mantener fuera del alcance de los niños<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar<br>P264: Lavarse cuidadosamente después de la manipulación<br>P280: Usar guantes/ropa de protección/equipo de protección para los ojos/la cara<br>P304+P340: EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la<br>respiración<br>P370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio<br>Sustancias que contribuyen a la clasificación<br>Destilados (petróleo), fracción ligera tratada con hidrógeno; Bis(2-etilhexanoato) de cobalto<br>2.3 Otros peligros que no conducen a una clasificación:<br>No relevante | |
 
-![imagen página 1](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page1_xref6.png>)
 
-![imagen página 1](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page1_xref11.jpeg)
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page1_xref19.png)
+![imagen técnica página 1](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page1_xref11.jpeg>)
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page1_xref21.png)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page1_xref19.png>)
 
-![imagen página 1](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page1_xref23.png)
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page1_xref21.png>)
+
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 1, sección: 2.*
+
+#### Imagen técnica 5 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page1_xref23.png>)
+
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -429,17 +439,23 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|---|
 | Protección<br>obligatoria de la cara | Gafas de seguridad contra salpicaduras y/o<br>proyecciones | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del<br>fabricante. Se recomienda su uso en caso de riesgo de salpicaduras.|
 
-![imagen página 4](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page4_xref36.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page4_xref36.png>)
 
-![imagen página 4](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page4_xref38.png)
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page4_xref40.png)
+![imagen técnica página 4](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page4_xref38.png>)
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 3 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page4_xref40.png>)
+
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -555,21 +571,29 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Característico<br>Color: Característico<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 232 ºC<br>Presión de vapor a 20 ºC: 15 Pa<br>Presión de vapor a 50 ºC: 0,81 (0,11 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 950,1 kg/m³<br>Densidad relativa a 20 ºC: 0,938 - 0,964<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>Viscosidad cinemática a 40 ºC: <20,5 cSt<br>Concentración: No relevante *<br>pH: No relevante *<br>Densidad de vapor a 20 ºC: No relevante *<br>Coeficiente de reparto n-octanol/agua a 20 ºC: No relevante *<br>Solubilidad en agua a 20 ºC: No relevante *<br>Propiedad de solubilidad: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 5](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page5_xref44.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page5_xref44.png>)
 
-![imagen página 5](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page5_xref46.png)
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page5_xref48.png)
+![imagen técnica página 5](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page5_xref46.png>)
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page5_xref50.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page5_xref48.png>)
+
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 4 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page5_xref50.png>)
+
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -911,13 +935,17 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|
 | Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1 Número ONU: UN1263<br>14.2 Designación oficial de PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3 Clase(s) relativas al transporte: 3<br>Etiquetas: 3<br>14.4 Grupo de embalaje/envasado si III<br>se aplica:<br>14.5 Riesgos ambientales: Sí<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: ver epígrafe 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas: | |
 
-![imagen página 8](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page8_xref58.png)
+#### Imagen técnica 1 (página 8, sección 14)
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 8, sección: 14.*
+![imagen técnica página 8](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page8_xref58.png>)
 
-![imagen página 8](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page8_xref60.png)
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 8, sección: 14.*
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 8, sección: 14.*
+#### Imagen técnica 2 (página 8, sección 14)
+
+![imagen técnica página 8](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page8_xref60.png>)
+
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 8, sección: 14.*
 
 ### Página 9
 
@@ -1014,9 +1042,11 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|
 | 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:<br>NTP (National Toxicology Program): No relevante<br>Disposiciones particulares en materia de protección de las personas o el medio ambiente:<br>Se recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una<br>evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para<br>el manejo, utilización, almacenamiento y eliminación de este producto.<br>Otras legislaciones: | |
 
-![imagen página 9](FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page9_xref64.png)
+#### Imagen técnica 1 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf.pdf, página 9, sección: 15.*
+![imagen técnica página 9](<FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO/img/page9_xref64.png>)
+
+*Imagen técnica — documento: FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf, página 9, sección: 14.*
 
 ### Página 10
 

@@ -72,9 +72,11 @@ funcionamiento)
 ## 1. IDENTIFICACION
 
 
-![imagen página 1](FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL/img/page1_xref14.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 1, sección: 1.*
+![imagen técnica página 1](<FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL/img/page1_xref14.png>)
+
+*Imagen técnica — documento: FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -146,9 +148,11 @@ clasificación
 ## 2. IDENTIFICACION DE LOS PELIGROS
 
 
-![imagen página 2](FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL/img/page2_xref22.png)
+#### Imagen técnica 1 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 2, sección: 2.*
+![imagen técnica página 2](<FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL/img/page2_xref22.png>)
+
+*Imagen técnica — documento: FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf, página 2, sección: 2.*
 
 ### Página 3
 
@@ -1333,9 +1337,11 @@ transportan el producto conocen qué hacer en caso de un accidente o derrame.
 | Grupo de embalaje | I | I | I|
 | Peligros para el<br>medio ambiente | No. | No. | No.|
 
-![imagen página 13](FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL/img/page13_xref69.png)
+#### Imagen técnica 1 (página 13, sección 14)
 
-*Imagen técnica — documento: FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf.pdf, página 13, sección: 13.*
+![imagen técnica página 13](<FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL/img/page13_xref69.png>)
+
+*Imagen técnica — documento: FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf, página 13, sección: 14.*
 
 ### Página 14
 

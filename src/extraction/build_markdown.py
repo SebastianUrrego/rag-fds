@@ -96,14 +96,17 @@ def build_markdown(pdf_path, extracted, tables, img_dir_rel):
             md.append("")
 
         # Imágenes con ruta relativa y trazabilidad
-        for img in pinfo["images"]:
+        for ii, img in enumerate(pinfo["images"], start=1):
             fname = f"page{pno}_xref{img['xref']}.{img['ext']}"
             rel = f"{img_dir_rel}/{fname}"
-            md.append(f"![imagen página {pno}]({rel})")
-            md.append(f"")
-            md.append(f"*Imagen técnica — documento: {pdf_path.name}.pdf, "
-                      f"página {pno}, sección: "
-                      f"{current_section or 'indeterminada'}.*")
+            img_sec = img.get("section") or current_section or "indeterminada"
+            sec_str = f"sección {img_sec}" if str(img_sec).isdigit() else str(img_sec)
+            md.append(f"#### Imagen técnica {ii} (página {pno}, {sec_str})")
+            md.append("")
+            md.append(f"![imagen técnica página {pno}](<{rel}>)")
+            md.append("")
+            md.append(f"*Imagen técnica — documento: {pdf_path.name}, "
+                      f"página {pno}, sección: {img_sec}.*")
             md.append("")
 
     return "\n".join(md)

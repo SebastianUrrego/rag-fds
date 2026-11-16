@@ -138,9 +138,11 @@ Emisión: 06/08/2020            Versión: 1
 | CAS: 1333-86-4 | Negro de carbon<br>Carc. 2: H351 - Atención | <2 %|
 | CAS: 144-19-4 | 2,2,4-trimetilpentano-1,3-diol<br>Irrit. oc. 2: H319 - Atención | <2 %|
 
-![imagen página 1](FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page1_xref4.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page1_xref4.png>)
+
+*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -473,25 +475,35 @@ Emisión: 06/08/2020            Versión: 1
 | Protección<br>obligatoria del<br>cuerpo | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el<br>trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante.|
 | Protección<br>obligatoria de los<br>pies | Calzado de seguridad contra riesgo químico | NORMATIVIDAD APLICABLE: NTC-ISO 20345 y NTC 2257. Reemplazar las<br>botas ante cualquier indicio de deterioro.|
 
-![imagen página 4](FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page4_xref10.jpeg)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page4_xref10.jpeg>)
 
-![imagen página 4](FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page4_xref12.jpeg)
+*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page4_xref14.png)
+![imagen técnica página 4](<FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page4_xref12.jpeg>)
 
-*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page4_xref16.jpeg)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page4_xref14.png>)
 
-![imagen página 4](FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page4_xref18.png)
+*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 4 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page4_xref16.jpeg>)
+
+*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf, página 4, sección: 8.*
+
+#### Imagen técnica 5 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page4_xref18.png>)
+
+*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -602,13 +614,17 @@ Emisión: 06/08/2020            Versión: 1
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Viscoso<br>Color: Varios<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 100 ºC<br>Presión de vapor a 20 ºC: 2350 Pa<br>Presión de vapor a 50 ºC: 12381.01 Pa (12.38 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 1751.2 kg/m³<br>Densidad relativa a 20 ºC: 1.751<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>Viscosidad cinemática a 40 ºC: >20.5 cSt<br>Concentración: No relevante *<br>pH: 9 - 10<br>Densidad de vapor a 20 ºC: No relevante *<br>Coeficiente de reparto n-octanol/agua a 20 ºC: No relevante *<br>Solubilidad en agua a 20 ºC:<br>Propiedad de solubilidad: No relevante *<br>Temperatura de descomposición: No relevante *<br>Punto de fusión/punto de congelación: No relevante *<br>Propiedades explosivas: No relevante *<br>Propiedades comburentes: No relevante *<br>Inflamabilidad:<br>Punto de inflamación: No inflamable (>93 ºC)<br>Calor de combustión: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 5](FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page5_xref21.jpeg)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page5_xref21.jpeg>)
 
-![imagen página 5](FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page5_xref23.jpeg)
+*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA/img/page5_xref23.jpeg>)
+
+*Imagen técnica — documento: FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf, página 5, sección: 8.*
 
 ### Página 6
 

@@ -117,13 +117,17 @@ Impresión: 14/01/2022            Emisión: 14/01/2022            Versión: 1
 |---|---|
 | 3.1 Sustancias:<br>No aplicable<br>3.2 Mezclas:<br>Descripción química: Mezcla a base de productos químicos<br>Componentes:<br>De acuerdo al Decreto 1496 de 2018 y la Resolución 773 de 2021, el producto presenta: | |
 
-![imagen página 1](FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page1_xref6.png>)
 
-![imagen página 1](FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page1_xref11.jpeg)
+*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page1_xref11.jpeg>)
+
+*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -447,13 +451,17 @@ Impresión: 14/01/2022            Emisión: 14/01/2022            Versión: 1
 |---|---|---|
 | Protección<br>obligatoria de la<br>manos | Guantes de protección contra riesgos menores | Reemplazar los guantes ante cualquier indicio de deterioro. Para periodos de<br>exposición prolongados al producto para usuarios profesionales/industriales se hace<br>recomendable la utilización de guantes de protección química|
 
-![imagen página 4](FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page4_xref32.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page4_xref32.png>)
 
-![imagen página 4](FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page4_xref34.png)
+*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page4_xref34.png>)
+
+*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -575,13 +583,17 @@ Impresión: 14/01/2022            Emisión: 14/01/2022            Versión: 1
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Lechoso<br>Color: Blanco<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 145 ºC<br>Presión de vapor a 20 ºC: 622 Pa<br>Presión de vapor a 50 ºC: 3297,17 Pa (3,3 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 1100 kg/m³<br>Densidad relativa a 20 ºC: 1,1<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 | - CONTINÚA EN LA SIGUIENTE PÁGINA - | |
 
-![imagen página 5](FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page5_xref38.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page5_xref38.png>)
 
-![imagen página 5](FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page5_xref40.png)
+*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 57 - ACROLATEX 50 3508 - PINTUCO/img/page5_xref40.png>)
+
+*Imagen técnica — documento: FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf, página 5, sección: 8.*
 
 ### Página 6
 

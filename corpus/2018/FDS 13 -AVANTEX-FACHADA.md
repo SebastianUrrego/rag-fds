@@ -121,37 +121,53 @@ químico. Si la irritación persiste repetir el lavado. Buscar atención médica
 | PROTECCIÓN PERSONAL |  |  |  | |
 | . |  |  |  | |
 
-![imagen página 1](FDS 13 -AVANTEX-FACHADA/img/page1_xref16.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 13 -AVANTEX-FACHADA/img/page1_xref16.png>)
 
-![imagen página 1](FDS 13 -AVANTEX-FACHADA/img/page1_xref18.jpeg)
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 2 (página 1, sección 3)
 
-![imagen página 1](FDS 13 -AVANTEX-FACHADA/img/page1_xref19.png)
+![imagen técnica página 1](<FDS 13 -AVANTEX-FACHADA/img/page1_xref18.jpeg>)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 13 -AVANTEX-FACHADA/img/page1_xref21.png)
+#### Imagen técnica 3 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 13 -AVANTEX-FACHADA/img/page1_xref19.png>)
 
-![imagen página 1](FDS 13 -AVANTEX-FACHADA/img/page1_xref23.jpeg)
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 4 (página 1, sección 3)
 
-![imagen página 1](FDS 13 -AVANTEX-FACHADA/img/page1_xref24.png)
+![imagen técnica página 1](<FDS 13 -AVANTEX-FACHADA/img/page1_xref21.png>)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 13 -AVANTEX-FACHADA/img/page1_xref25.png)
+#### Imagen técnica 5 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 13 -AVANTEX-FACHADA/img/page1_xref23.jpeg>)
 
-![imagen página 1](FDS 13 -AVANTEX-FACHADA/img/page1_xref26.png)
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 6 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 13 -AVANTEX-FACHADA/img/page1_xref24.png>)
+
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 7 (página 1, sección 3)
+
+![imagen técnica página 1](<FDS 13 -AVANTEX-FACHADA/img/page1_xref25.png>)
+
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 1, sección: 3.*
+
+#### Imagen técnica 8 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 13 -AVANTEX-FACHADA/img/page1_xref26.png>)
+
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -225,29 +241,41 @@ Soluble en agua
 ## 10. ESTABILIDAD Y REACTIVIDAD
 
 
-![imagen página 2](FDS 13 -AVANTEX-FACHADA/img/page2_xref29.png)
+#### Imagen técnica 1 (página 2, sección 4)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 2, sección: 10.*
+![imagen técnica página 2](<FDS 13 -AVANTEX-FACHADA/img/page2_xref29.png>)
 
-![imagen página 2](FDS 13 -AVANTEX-FACHADA/img/page2_xref30.png)
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 2, sección: 4.*
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 2, sección: 10.*
+#### Imagen técnica 2 (página 2, sección 5)
 
-![imagen página 2](FDS 13 -AVANTEX-FACHADA/img/page2_xref31.png)
+![imagen técnica página 2](<FDS 13 -AVANTEX-FACHADA/img/page2_xref30.png>)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 2, sección: 10.*
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 2, sección: 5.*
 
-![imagen página 2](FDS 13 -AVANTEX-FACHADA/img/page2_xref32.png)
+#### Imagen técnica 3 (página 2, sección 6)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 2, sección: 10.*
+![imagen técnica página 2](<FDS 13 -AVANTEX-FACHADA/img/page2_xref31.png>)
 
-![imagen página 2](FDS 13 -AVANTEX-FACHADA/img/page2_xref33.jpeg)
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 2, sección: 6.*
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 2, sección: 10.*
+#### Imagen técnica 4 (página 2, sección 7)
 
-![imagen página 2](FDS 13 -AVANTEX-FACHADA/img/page2_xref34.png)
+![imagen técnica página 2](<FDS 13 -AVANTEX-FACHADA/img/page2_xref32.png>)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 2, sección: 10.*
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 2, sección: 7.*
+
+#### Imagen técnica 5 (página 2, sección 8)
+
+![imagen técnica página 2](<FDS 13 -AVANTEX-FACHADA/img/page2_xref33.jpeg>)
+
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 2, sección: 8.*
+
+#### Imagen técnica 6 (página 2, sección 9)
+
+![imagen técnica página 2](<FDS 13 -AVANTEX-FACHADA/img/page2_xref34.png>)
+
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 2, sección: 9.*
 
 ### Página 3
 
@@ -300,26 +328,38 @@ conveniencia del uso de este producto para un fin específico. TECNIDECOR S.A.S 
 causado a propiedades o a personas por el uso inadecuado de nuestros productos, ya que no conocemos la manipulación ni
 las precauciones que cada cliente tiene en el almacenamiento.
 
-![imagen página 3](FDS 13 -AVANTEX-FACHADA/img/page3_xref37.png)
+#### Imagen técnica 1 (página 3, sección 10)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 3, sección: 16.*
+![imagen técnica página 3](<FDS 13 -AVANTEX-FACHADA/img/page3_xref37.png>)
 
-![imagen página 3](FDS 13 -AVANTEX-FACHADA/img/page3_xref38.png)
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 3, sección: 10.*
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 3, sección: 16.*
+#### Imagen técnica 2 (página 3, sección 11)
 
-![imagen página 3](FDS 13 -AVANTEX-FACHADA/img/page3_xref39.png)
+![imagen técnica página 3](<FDS 13 -AVANTEX-FACHADA/img/page3_xref38.png>)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 3, sección: 16.*
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 3, sección: 11.*
 
-![imagen página 3](FDS 13 -AVANTEX-FACHADA/img/page3_xref40.jpeg)
+#### Imagen técnica 3 (página 3, sección 12)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 3, sección: 16.*
+![imagen técnica página 3](<FDS 13 -AVANTEX-FACHADA/img/page3_xref39.png>)
 
-![imagen página 3](FDS 13 -AVANTEX-FACHADA/img/page3_xref41.png)
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 3, sección: 12.*
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 3, sección: 16.*
+#### Imagen técnica 4 (página 3, sección 13)
 
-![imagen página 3](FDS 13 -AVANTEX-FACHADA/img/page3_xref42.png)
+![imagen técnica página 3](<FDS 13 -AVANTEX-FACHADA/img/page3_xref40.jpeg>)
 
-*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf.pdf, página 3, sección: 16.*
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 3, sección: 13.*
+
+#### Imagen técnica 5 (página 3, sección 14)
+
+![imagen técnica página 3](<FDS 13 -AVANTEX-FACHADA/img/page3_xref41.png>)
+
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 3, sección: 14.*
+
+#### Imagen técnica 6 (página 3, sección 15)
+
+![imagen técnica página 3](<FDS 13 -AVANTEX-FACHADA/img/page3_xref42.png>)
+
+*Imagen técnica — documento: FDS 13 -AVANTEX-FACHADA.pdf, página 3, sección: 15.*

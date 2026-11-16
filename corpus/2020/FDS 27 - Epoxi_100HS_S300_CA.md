@@ -83,13 +83,17 @@ Indicaciones de peligro:
 H315 Provoca irritación cutánea.
 H317 Puede provocar una reacción alérgica.
 
-![imagen página 1](FDS 27 - Epoxi_100HS_S300_CA/img/page1_xref20.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 27 - Epoxi_100HS_S300_CA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 27 - Epoxi_100HS_S300_CA/img/page1_xref20.jpeg>)
 
-![imagen página 1](FDS 27 - Epoxi_100HS_S300_CA/img/page1_xref45.jpeg)
+*Imagen técnica — documento: FDS 27 - Epoxi_100HS_S300_CA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 27 - Epoxi_100HS_S300_CA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 27 - Epoxi_100HS_S300_CA/img/page1_xref45.jpeg>)
+
+*Imagen técnica — documento: FDS 27 - Epoxi_100HS_S300_CA.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -513,17 +517,23 @@ Norma técnica NTC-ISO 5500 gestión del transporte de carga terrestre.
 | 14.6 Información adicional |  | Emergency schedurles (EmS)<br>F–A, S--F | -|
 | Código de clasificación |  |  | |
 
-![imagen página 7](FDS 27 - Epoxi_100HS_S300_CA/img/page7_xref72.jpeg)
+#### Imagen técnica 1 (página 7, sección 14)
 
-*Imagen técnica — documento: FDS 27 - Epoxi_100HS_S300_CA.pdf.pdf, página 7, sección: 15.*
+![imagen técnica página 7](<FDS 27 - Epoxi_100HS_S300_CA/img/page7_xref72.jpeg>)
 
-![imagen página 7](FDS 27 - Epoxi_100HS_S300_CA/img/page7_xref73.jpeg)
+*Imagen técnica — documento: FDS 27 - Epoxi_100HS_S300_CA.pdf, página 7, sección: 14.*
 
-*Imagen técnica — documento: FDS 27 - Epoxi_100HS_S300_CA.pdf.pdf, página 7, sección: 15.*
+#### Imagen técnica 2 (página 7, sección 14)
 
-![imagen página 7](FDS 27 - Epoxi_100HS_S300_CA/img/page7_xref74.jpeg)
+![imagen técnica página 7](<FDS 27 - Epoxi_100HS_S300_CA/img/page7_xref73.jpeg>)
 
-*Imagen técnica — documento: FDS 27 - Epoxi_100HS_S300_CA.pdf.pdf, página 7, sección: 15.*
+*Imagen técnica — documento: FDS 27 - Epoxi_100HS_S300_CA.pdf, página 7, sección: 14.*
+
+#### Imagen técnica 3 (página 7, sección 14)
+
+![imagen técnica página 7](<FDS 27 - Epoxi_100HS_S300_CA/img/page7_xref74.jpeg>)
+
+*Imagen técnica — documento: FDS 27 - Epoxi_100HS_S300_CA.pdf, página 7, sección: 14.*
 
 ### Página 8
 

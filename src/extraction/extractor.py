@@ -134,6 +134,7 @@ def extract_pdf(pdf_path: Path):
     sections = {n: None for n in GHS_SECTIONS}
     full_text_lines = []
 
+    active_sec = None
     for pno, page in enumerate(doc, start=1):
         text = page.get_text()
         lines = [l.rstrip() for l in text.splitlines()]
@@ -141,6 +142,31 @@ def extract_pdf(pdf_path: Path):
 
         ocr_required = (not text.strip()) and bool(page.get_images())
         images = extract_images(doc, page, pno, seen_images)
+
+        # Detectar secciones presentes en esta página con sus posiciones verticales
+        blocks = page.get_text("blocks")
+        sec_positions = []
+        for b in blocks:
+            for l in b[4].splitlines():
+                h = _is_section_header(l)
+                if h:
+                    sec_positions.append((b[1], h[0]))
+                    break
+        sec_positions.sort(key=lambda x: x[0])
+
+        for img in images:
+            img_sec = active_sec
+            for s_y0, s_num in sec_positions:
+                if img["y0"] >= s_y0:
+                    img_sec = s_num
+                else:
+                    break
+            if img_sec is None and sec_positions:
+                img_sec = sec_positions[0][1]
+            img["section"] = img_sec or 1
+
+        if sec_positions:
+            active_sec = sec_positions[-1][1]
 
         pages.append({
             "page": pno,
@@ -326,7 +352,10 @@ def extract_images(doc, page, pno: int, seen: set):
         # Descarta iconos/minidetalles sin contenido técnico
         if base["width"] < 40 or base["height"] < 40:
             continue
+        rects = page.get_image_rects(xref)
+        y0 = rects[0].y0 if rects else 0.0
         out.append({"xref": xref, "page": pno,
                     "ext": base["ext"], "data": base["image"],
-                    "width": base["width"], "height": base["height"]})
+                    "width": base["width"], "height": base["height"],
+                    "y0": y0})
     return out

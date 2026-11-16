@@ -95,9 +95,11 @@ Fecha de emisión : 4/1/2020
 Versión : 1
 1/14
 
-![imagen página 1](FDS 24 - 3615SM 19LT CONVERTIDOR UNIVERSAL/img/page1_xref12.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 24 - 3615SM 19LT CONVERTIDOR UNIVERSAL.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 24 - 3615SM 19LT CONVERTIDOR UNIVERSAL/img/page1_xref12.jpeg>)
+
+*Imagen técnica — documento: FDS 24 - 3615SM 19LT CONVERTIDOR UNIVERSAL.pdf, página 1, sección: 1.*
 
 ### Página 2
 

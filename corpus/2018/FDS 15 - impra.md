@@ -107,49 +107,71 @@ producto, presenta malestar, salga a una zona ventilada y retírese la ropa que 
 |  | PELIGRO FÍSICO |  | 0 |  | |
 | PROTECCIÓN PERSONAL |  |  |  |  | |
 
-![imagen página 1](FDS 15 - impra/img/page1_xref14.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref14.png>)
 
-![imagen página 1](FDS 15 - impra/img/page1_xref18.png)
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 2 (página 1, sección 3)
 
-![imagen página 1](FDS 15 - impra/img/page1_xref19.png)
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref18.png>)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 15 - impra/img/page1_xref20.png)
+#### Imagen técnica 3 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref19.png>)
 
-![imagen página 1](FDS 15 - impra/img/page1_xref22.png)
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 4 (página 1, sección 3)
 
-![imagen página 1](FDS 15 - impra/img/page1_xref24.png)
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref20.png>)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 15 - impra/img/page1_xref26.png)
+#### Imagen técnica 5 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref22.png>)
 
-![imagen página 1](FDS 15 - impra/img/page1_xref28.png)
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 6 (página 1, sección 3)
 
-![imagen página 1](FDS 15 - impra/img/page1_xref29.jpeg)
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref24.png>)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 3.*
 
-![imagen página 1](FDS 15 - impra/img/page1_xref30.png)
+#### Imagen técnica 7 (página 1, sección 3)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref26.png>)
 
-![imagen página 1](FDS 15 - impra/img/page1_xref31.png)
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 3.*
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 1, sección: 4.*
+#### Imagen técnica 8 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref28.png>)
+
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 9 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref29.jpeg>)
+
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 10 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref30.png>)
+
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 11 (página 1, sección 3)
+
+![imagen técnica página 1](<FDS 15 - impra/img/page1_xref31.png>)
+
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 1, sección: 3.*
 
 ### Página 2
 
@@ -214,21 +236,29 @@ Garantizar el control de las condiciones del proceso.
 Suministrar aire de reemplazo continuamente para suplir el aire removido.
 Disponer de duchas y estaciones lavaojos.
 
-![imagen página 2](FDS 15 - impra/img/page2_xref39.png)
+#### Imagen técnica 1 (página 2, sección 4)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 2, sección: 8.*
+![imagen técnica página 2](<FDS 15 - impra/img/page2_xref39.png>)
 
-![imagen página 2](FDS 15 - impra/img/page2_xref40.png)
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 2, sección: 4.*
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 2, sección: 8.*
+#### Imagen técnica 2 (página 2, sección 5)
 
-![imagen página 2](FDS 15 - impra/img/page2_xref41.png)
+![imagen técnica página 2](<FDS 15 - impra/img/page2_xref40.png>)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 2, sección: 8.*
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 2, sección: 5.*
 
-![imagen página 2](FDS 15 - impra/img/page2_xref42.png)
+#### Imagen técnica 3 (página 2, sección 6)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 2, sección: 8.*
+![imagen técnica página 2](<FDS 15 - impra/img/page2_xref41.png>)
+
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 2, sección: 6.*
+
+#### Imagen técnica 4 (página 2, sección 7)
+
+![imagen técnica página 2](<FDS 15 - impra/img/page2_xref42.png>)
+
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 2, sección: 7.*
 
 ### Página 3
 
@@ -295,29 +325,41 @@ Clase IMO: 3, Líquido Inflamable
 U.N.: 1268
 Grupo de embalaje: III
 
-![imagen página 3](FDS 15 - impra/img/page3_xref45.jpeg)
+#### Imagen técnica 1 (página 3, sección 8)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 3, sección: 14.*
+![imagen técnica página 3](<FDS 15 - impra/img/page3_xref45.jpeg>)
 
-![imagen página 3](FDS 15 - impra/img/page3_xref46.png)
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 3, sección: 8.*
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 3, sección: 14.*
+#### Imagen técnica 2 (página 3, sección 9)
 
-![imagen página 3](FDS 15 - impra/img/page3_xref47.png)
+![imagen técnica página 3](<FDS 15 - impra/img/page3_xref46.png>)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 3, sección: 14.*
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 3, sección: 9.*
 
-![imagen página 3](FDS 15 - impra/img/page3_xref48.png)
+#### Imagen técnica 3 (página 3, sección 10)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 3, sección: 14.*
+![imagen técnica página 3](<FDS 15 - impra/img/page3_xref47.png>)
 
-![imagen página 3](FDS 15 - impra/img/page3_xref49.png)
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 3, sección: 10.*
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 3, sección: 14.*
+#### Imagen técnica 4 (página 3, sección 11)
 
-![imagen página 3](FDS 15 - impra/img/page3_xref50.jpeg)
+![imagen técnica página 3](<FDS 15 - impra/img/page3_xref48.png>)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 3, sección: 14.*
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 3, sección: 11.*
+
+#### Imagen técnica 5 (página 3, sección 12)
+
+![imagen técnica página 3](<FDS 15 - impra/img/page3_xref49.png>)
+
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 3, sección: 12.*
+
+#### Imagen técnica 6 (página 3, sección 13)
+
+![imagen técnica página 3](<FDS 15 - impra/img/page3_xref50.jpeg>)
+
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 3, sección: 13.*
 
 ### Página 4
 
@@ -343,10 +385,14 @@ conveniencia del uso de este producto para un fin específico. TECNIDECOR S.A.S 
 causado a propiedades o a personas por el uso inadecuado de nuestros productos, ya que no conocemos la manipulación ni
 las precauciones que cada cliente tiene en el almacenamiento.
 
-![imagen página 4](FDS 15 - impra/img/page4_xref53.png)
+#### Imagen técnica 1 (página 4, sección 14)
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 4, sección: 16.*
+![imagen técnica página 4](<FDS 15 - impra/img/page4_xref53.png>)
 
-![imagen página 4](FDS 15 - impra/img/page4_xref54.png)
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 4, sección: 14.*
 
-*Imagen técnica — documento: FDS 15 - impra.pdf.pdf, página 4, sección: 16.*
+#### Imagen técnica 2 (página 4, sección 15)
+
+![imagen técnica página 4](<FDS 15 - impra/img/page4_xref54.png>)
+
+*Imagen técnica — documento: FDS 15 - impra.pdf, página 4, sección: 15.*

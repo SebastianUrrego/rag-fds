@@ -83,13 +83,17 @@ Indicaciones de peligro:
 H317 Puede provocar una reacción alérgica en la piel.
 H332 Nocivo en caso de inhalación.
 
-![imagen página 1](FDS 22 - Esmalte Uretano AR Comp. B/img/page1_xref20.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 22 - Esmalte Uretano AR Comp. B.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 22 - Esmalte Uretano AR Comp. B/img/page1_xref20.jpeg>)
 
-![imagen página 1](FDS 22 - Esmalte Uretano AR Comp. B/img/page1_xref29.jpeg)
+*Imagen técnica — documento: FDS 22 - Esmalte Uretano AR Comp. B.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 22 - Esmalte Uretano AR Comp. B.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 22 - Esmalte Uretano AR Comp. B/img/page1_xref29.jpeg>)
+
+*Imagen técnica — documento: FDS 22 - Esmalte Uretano AR Comp. B.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -521,17 +525,23 @@ Código de clasificación
 | 14.6 Información adicional |  | Emergency schedules (EmS)<br>F-A, S-F | -|
 | Código de clasificación |  |  | |
 
-![imagen página 7](FDS 22 - Esmalte Uretano AR Comp. B/img/page7_xref48.jpeg)
+#### Imagen técnica 1 (página 7, sección 14)
 
-*Imagen técnica — documento: FDS 22 - Esmalte Uretano AR Comp. B.pdf.pdf, página 7, sección: 14.*
+![imagen técnica página 7](<FDS 22 - Esmalte Uretano AR Comp. B/img/page7_xref48.jpeg>)
 
-![imagen página 7](FDS 22 - Esmalte Uretano AR Comp. B/img/page7_xref49.jpeg)
+*Imagen técnica — documento: FDS 22 - Esmalte Uretano AR Comp. B.pdf, página 7, sección: 14.*
 
-*Imagen técnica — documento: FDS 22 - Esmalte Uretano AR Comp. B.pdf.pdf, página 7, sección: 14.*
+#### Imagen técnica 2 (página 7, sección 14)
 
-![imagen página 7](FDS 22 - Esmalte Uretano AR Comp. B/img/page7_xref50.jpeg)
+![imagen técnica página 7](<FDS 22 - Esmalte Uretano AR Comp. B/img/page7_xref49.jpeg>)
 
-*Imagen técnica — documento: FDS 22 - Esmalte Uretano AR Comp. B.pdf.pdf, página 7, sección: 14.*
+*Imagen técnica — documento: FDS 22 - Esmalte Uretano AR Comp. B.pdf, página 7, sección: 14.*
+
+#### Imagen técnica 3 (página 7, sección 14)
+
+![imagen técnica página 7](<FDS 22 - Esmalte Uretano AR Comp. B/img/page7_xref50.jpeg>)
+
+*Imagen técnica — documento: FDS 22 - Esmalte Uretano AR Comp. B.pdf, página 7, sección: 14.*
 
 ### Página 8
 

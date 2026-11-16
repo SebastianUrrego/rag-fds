@@ -74,37 +74,53 @@ Emisión: 25/07/2019            Versión: 1
 |---|---|
 | 1.1 Identificador SGA del producto: 407141521 - RECUBRIMIENTO ANTIGRAFFITI<br>1.2 Uso recomendado del producto químico y restricciones:<br>Usos pertinentes: Recubrimiento, protección y decoración para sustratos al exterior.<br>Usos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3<br>1.3 Datos sobre el proveedor:<br>CORLANC S.A.S.<br>Carrera 48 N° 72 sur 01 Avenida Las Vegas<br>055450 Sabaneta - Antioquia - Colombia<br>Tfno.: +57-4-3787800<br>materialesypinturascorona@corona.com.co<br>https://www.corona.co<br>1.4 Número de teléfono para emergencias: CISTEMA - ARL SURA 018000511414 - 0314055911 | |
 
-![imagen página 1](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref16.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref16.png>)
 
-![imagen página 1](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref13.png)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref12.jpeg)
+![imagen técnica página 1](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref13.png>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref11.jpeg)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref12.jpeg>)
 
-![imagen página 1](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref10.png)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 4 (página 1, sección 2)
 
-![imagen página 1](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref9.jpeg)
+![imagen técnica página 1](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref11.jpeg>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 1, sección: 2.*
 
-![imagen página 1](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref8.jpeg)
+#### Imagen técnica 5 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref10.png>)
 
-![imagen página 1](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref7.png)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 6 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref9.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 1, sección: 2.*
+
+#### Imagen técnica 7 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref8.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 1, sección: 2.*
+
+#### Imagen técnica 8 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page1_xref7.png>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -176,21 +192,29 @@ Emisión: 25/07/2019            Versión: 1
 |---|---|
 | 4.1 Descripción de los primeros auxilios necesarios:<br>Los síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso<br>de duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este<br>producto.<br>Por inhalación:<br>Se trata de un producto que no contiene sustancias clasificadas como peligrosas por inhalación, sin embargo, en caso de<br>síntomas de intoxicación sacar al afectado de la zona de exposición y proporcionarle aire fresco. Solicitar atención médica si los<br>síntomas se agravan o persisten.<br>Por contacto con la piel:<br>Quitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón<br>neutro. En caso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la<br>ropa debido a que podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en<br>la piel, éstas nunca deben reventarse ya que aumentaría el riesgo de infección.<br>Por contacto con los ojos:<br>Enjuagar los ojos con abundante agua a temperatura ambiente al menos durante 15 minutos. Evitar que el afectado se frote o<br>cierre los ojos. En el caso de que el accidentado use lentes de contacto, éstas deben retirarse siempre que no estén pegadas a<br>los ojos, de otro modo podría producirse un daño adicional. En todos los casos, después del lavado, se debe acudir al médico lo<br>más rápidamente posible con la FDS del producto.<br>Por ingestión/aspiración: | |
 
-![imagen página 2](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page2_xref27.png)
+#### Imagen técnica 1 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 2, sección: 4.*
+![imagen técnica página 2](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page2_xref27.png>)
 
-![imagen página 2](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page2_xref26.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 2, sección: 2.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 2, sección: 4.*
+#### Imagen técnica 2 (página 2, sección 3)
 
-![imagen página 2](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page2_xref25.jpeg)
+![imagen técnica página 2](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page2_xref26.jpeg>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 2, sección: 4.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 2, sección: 3.*
 
-![imagen página 2](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page2_xref24.png)
+#### Imagen técnica 3 (página 2, sección 3)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 2, sección: 4.*
+![imagen técnica página 2](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page2_xref25.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 2, sección: 3.*
+
+#### Imagen técnica 4 (página 2, sección 3)
+
+![imagen técnica página 2](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page2_xref24.png>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 2, sección: 3.*
 
 ### Página 3
 
@@ -288,17 +312,23 @@ Emisión: 25/07/2019            Versión: 1
 |---|---|
 | 7.1 Precauciones que se deben tomar para garantizar una manipulación segura:<br>A.-Precauciones generales<br>Cumplir con la legislación vigente en materia de prevención de riesgos laborales. Mantener los recipientes herméticamente<br>cerrados. Controlar los derrames y residuos, eliminándolos con métodos seguros (sección 6). Evitar el vertido libre desde el<br>recipiente. Mantener orden y limpieza donde se manipulen productos peligrosos.<br>B.-Recomendaciones técnicas para la prevención de incendios y explosiones. | |
 
-![imagen página 3](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page3_xref39.png)
+#### Imagen técnica 1 (página 3, sección 4)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 3, sección: 7.*
+![imagen técnica página 3](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page3_xref39.png>)
 
-![imagen página 3](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page3_xref38.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 3, sección: 4.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 3, sección: 7.*
+#### Imagen técnica 2 (página 3, sección 5)
 
-![imagen página 3](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page3_xref37.jpeg)
+![imagen técnica página 3](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page3_xref38.jpeg>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 3, sección: 7.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 3, sección: 5.*
+
+#### Imagen técnica 3 (página 3, sección 5)
+
+![imagen técnica página 3](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page3_xref37.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 3, sección: 5.*
 
 ### Página 4
 
@@ -357,29 +387,41 @@ Emisión: 25/07/2019            Versión: 1
 |---|---|
 | Trasvasar en lugares bien ventilados, preferentemente mediante extracción localizada. Controlar totalmente los focos de<br>ignición (teléfonos móviles, chispas,…) y ventilar en las operaciones de limpieza. Evitar la existencia de atmósferas peligrosas<br>en el interior de recipientes, aplicando en lo posible sistemas de inertización. Trasvasar a velocidades lentas para evitar la<br>generación de cargas electroestáticas. Ante la posibilidad de existencia de cargas electroestáticas: asegurar una perfecta<br>conexión equipotencial, utilizar siempre tomas de tierras, no emplear ropa de trabajo de fibras acrílicas, empleando<br>preferiblemente ropa de algodón y calzado conductor. Cumplir con los requisitos esenciales de seguridad para equipos y con<br>las disposiciones mínimas para la protección de la seguridad y salud de los trabajadores. Consultar la sección 10 sobre<br>condiciones y materias que deben evitarse.<br>C.-Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos.<br>Para control de exposición consultar la sección 8. No comer, beber ni fumar en las zonas de trabajo; lavarse las manos<br>después de cada utilización, y despojarse de prendas de vestir y equipos de protección contaminados antes de entrar en las<br>zonas para comer.<br>D.-Recomendaciones técnicas para prevenir riesgos medioambientales<br>Se recomienda disponer de material absorbente en las proximidades del producto (ver epígrafe 6.3)<br>7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:<br>A.-Medidas técnicas de almacenamiento<br>Tª mínima: 5 ºC<br>Tª máxima: 30 ºC<br>Tiempo máximo: 12 meses<br>B.-Condiciones generales de almacenamiento.<br>Evitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe<br>10.5<br>7.3 Usos específicos finales:<br>Salvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este<br>producto. | |
 
-![imagen página 4](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref54.png)
+#### Imagen técnica 1 (página 4, sección 7)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref54.png>)
 
-![imagen página 4](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref53.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 4, sección: 7.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref52.png)
+![imagen técnica página 4](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref53.jpeg>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref51.png)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref52.png>)
 
-![imagen página 4](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref50.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 4 (página 4, sección 8)
 
-![imagen página 4](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref49.jpeg)
+![imagen técnica página 4](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref51.png>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 5 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref50.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 6 (página 4, sección 7)
+
+![imagen técnica página 4](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page4_xref49.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 4, sección: 7.*
 
 ### Página 5
 
@@ -433,29 +475,41 @@ Emisión: 25/07/2019            Versión: 1
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Cristalino<br>Color: Incoloro<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 211 ºC<br>Presión de vapor a 20 ºC: 209 Pa<br>Presión de vapor a 50 ºC: 1158,31 Pa (1,16 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 5](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref67.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref67.png>)
 
-![imagen página 5](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref66.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref65.jpeg)
+![imagen técnica página 5](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref66.jpeg>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref64.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref65.jpeg>)
 
-![imagen página 5](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref63.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 4 (página 5, sección 8)
 
-![imagen página 5](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref62.jpeg)
+![imagen técnica página 5](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref64.png>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 5 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref63.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 6 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page5_xref62.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -586,17 +640,23 @@ Emisión: 25/07/2019            Versión: 1
 |---|---|---|---|---|
 | Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable | Evitar alcalis o bases fuertes|
 
-![imagen página 6](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page6_xref79.png)
+#### Imagen técnica 1 (página 6, sección 9)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 6, sección: 7.*
+![imagen técnica página 6](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page6_xref79.png>)
 
-![imagen página 6](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page6_xref78.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 6, sección: 9.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 6, sección: 7.*
+#### Imagen técnica 2 (página 6, sección 9)
 
-![imagen página 6](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page6_xref77.jpeg)
+![imagen técnica página 6](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page6_xref78.jpeg>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 6, sección: 7.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 6, sección: 9.*
+
+#### Imagen técnica 3 (página 6, sección 9)
+
+![imagen técnica página 6](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page6_xref77.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 6, sección: 9.*
 
 ### Página 7
 
@@ -672,17 +732,23 @@ Emisión: 25/07/2019            Versión: 1
 |---|---|
 | 11.1 Información sobre las posibles vías de exposición:<br>No se dispone de datos experimentales del producto en si mismos relativos a las propiedades toxicológicas<br>Efectos peligrosos para la salud:<br>En caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición<br>profesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición:<br>A- Ingestión (efecto agudo):<br>- Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, sin embargo, presenta<br>sustancias clasificadas como peligrosas por ingestión. Para más información ver sección 3.<br>- Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando<br>sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3.<br>B- Inhalación (efecto agudo):<br>- Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas por inhalación. Para más información ver sección 3.<br>- Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando<br>sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3.<br>C- Contacto con la piel y los ojos (efecto agudo):<br>- Contacto con la piel: Principalmente puede presentar efectos nocivos para la salud si el producto es absorbido vía cutánea.<br>Para más información sobre efectos secundarios por contacto con la piel ver sección 2.<br>- Contacto con los ojos: Produce lesiones oculares tras contacto.<br>D- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción):<br>- Carcinogenicidad: La exposición a este producto puede causar cáncer. Para más información sobre posibles efectos<br>específicos sobre la salud ver sección 2.<br>IARC: Nafta (petróleo), fracción pesada tratada con hidrógeno (1)<br>- Mutagenicidad: La exposición a este producto puede causar alteraciones genéticas. Para más información sobre posibles<br>efectos específicos sobre la salud ver sección 2.<br>- Toxicidad para la reproducción: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no<br>presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3.<br>E- Efectos de sensibilización:<br>- Respiratoria: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias<br>clasificadas como peligrosas con efectos sensibilizantes. Para más información ver secciónes 2, 3 y 15.<br>- Cutánea: El contacto prolongado con la piel puede derivar en EPPsodios de dermatitis alérgicas de contacto.<br>F- Toxicidad específica en determinados órganos (STOT)-exposición única:<br>A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como<br>peligrosas por este efecto. Para más información ver sección 3.<br>G- Toxicidad específica en determinados órganos (STOT)-exposición repetida:<br>- Toxicidad específica en determinados órganos (STOT)-exposición repetida: A la vista de los datos disponibles, no se<br>cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más<br>información ver sección 3.<br>- Piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas<br>como peligrosas por este efecto. Para más información ver sección 3.<br>H- Peligro por aspiración:<br>La ingesta de una dosis considerable puede producir daño pulmonar.<br>Información adicional:<br>No relevante<br>Información toxicológica específica de las sustancias: | |
 
-![imagen página 7](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page7_xref89.png)
+#### Imagen técnica 1 (página 7, sección 7)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 7, sección: 11.*
+![imagen técnica página 7](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page7_xref89.png>)
 
-![imagen página 7](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page7_xref88.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 7, sección: 7.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 7, sección: 11.*
+#### Imagen técnica 2 (página 7, sección 11)
 
-![imagen página 7](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page7_xref87.jpeg)
+![imagen técnica página 7](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page7_xref88.jpeg>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 7, sección: 11.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 7, sección: 11.*
+
+#### Imagen técnica 3 (página 7, sección 11)
+
+![imagen técnica página 7](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page7_xref87.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 7, sección: 11.*
 
 ### Página 8
 
@@ -899,17 +965,23 @@ Emisión: 25/07/2019            Versión: 1
 |---|---|
 | 13.1 Métodos de eliminación:<br>Gestión del residuo (eliminación y valorización):<br>Consultar al gestor de residuos autorizado las operaciones de valorización y eliminación. En el caso de que el envase haya estado<br>en contacto directo con el producto se gestionará del mismo modo que el propio producto, en caso contrario se gestionará como<br>residuo no peligroso. Se desaconseja su vertido a cursos de agua. Ver epígrafe 6.2.<br>Disposiciones legislativas relacionadas con la gestión de residuos:<br>Legislación relacionada con la gestión de residuos: | |
 
-![imagen página 8](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page8_xref97.png)
+#### Imagen técnica 1 (página 8, sección 11)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 8, sección: 13.*
+![imagen técnica página 8](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page8_xref97.png>)
 
-![imagen página 8](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page8_xref96.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 8, sección: 11.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 8, sección: 13.*
+#### Imagen técnica 2 (página 8, sección 12)
 
-![imagen página 8](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page8_xref95.jpeg)
+![imagen técnica página 8](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page8_xref96.jpeg>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 8, sección: 13.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 8, sección: 12.*
+
+#### Imagen técnica 3 (página 8, sección 12)
+
+![imagen técnica página 8](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page8_xref95.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 8, sección: 12.*
 
 ### Página 9
 
@@ -966,37 +1038,53 @@ Emisión: 25/07/2019            Versión: 1
 |---|---|
 | Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral | |
 
-![imagen página 9](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref114.png)
+#### Imagen técnica 1 (página 9, sección 13)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 9, sección: 14.*
+![imagen técnica página 9](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref114.png>)
 
-![imagen página 9](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref113.png)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 9, sección: 13.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 9, sección: 14.*
+#### Imagen técnica 2 (página 9, sección 14)
 
-![imagen página 9](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref112.png)
+![imagen técnica página 9](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref113.png>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 9, sección: 14.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 9, sección: 14.*
 
-![imagen página 9](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref111.jpeg)
+#### Imagen técnica 3 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 9, sección: 14.*
+![imagen técnica página 9](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref112.png>)
 
-![imagen página 9](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref110.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 9, sección: 14.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 9, sección: 14.*
+#### Imagen técnica 4 (página 9, sección 14)
 
-![imagen página 9](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref109.jpeg)
+![imagen técnica página 9](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref111.jpeg>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 9, sección: 14.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 9, sección: 14.*
 
-![imagen página 9](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref108.png)
+#### Imagen técnica 5 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 9, sección: 14.*
+![imagen técnica página 9](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref110.jpeg>)
 
-![imagen página 9](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref107.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 9, sección: 14.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 9, sección: 14.*
+#### Imagen técnica 6 (página 9, sección 14)
+
+![imagen técnica página 9](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref109.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 9, sección: 14.*
+
+#### Imagen técnica 7 (página 9, sección 14)
+
+![imagen técnica página 9](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref108.png>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 9, sección: 14.*
+
+#### Imagen técnica 8 (página 9, sección 14)
+
+![imagen técnica página 9](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page9_xref107.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 9, sección: 14.*
 
 ### Página 10
 
@@ -1100,17 +1188,23 @@ Emisión: 25/07/2019            Versión: 1
 |---|---|
 | Legislación aplicable a fichas de datos de seguridad:<br>Esta hoja de datos de seguridad de materiales se ha desarrollado de acuerdo a la norma técnica colombiana NTC 4435:2010<br>Textos de las frases legislativas contempladas en la sección 2:<br>H340: Puede provocar defectos genéticos<br>H350: Puede provocar cáncer<br>H317: Puede provocar una reacción cutánea alérgica<br>H313: Puede ser nocivo en contacto con la piel<br>H304: Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias<br>H226: Líquido y vapores inflamables<br>H319: Provoca irritación ocular grave | |
 
-![imagen página 10](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page10_xref126.jpeg)
+#### Imagen técnica 1 (página 10, sección 14)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 10, sección: 16.*
+![imagen técnica página 10](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page10_xref126.jpeg>)
 
-![imagen página 10](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page10_xref123.jpeg)
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 10, sección: 14.*
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 10, sección: 16.*
+#### Imagen técnica 2 (página 10, sección 15)
 
-![imagen página 10](FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page10_xref122.jpeg)
+![imagen técnica página 10](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page10_xref123.jpeg>)
 
-*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf.pdf, página 10, sección: 16.*
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 10, sección: 15.*
+
+#### Imagen técnica 3 (página 10, sección 15)
+
+![imagen técnica página 10](<FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA/img/page10_xref122.jpeg>)
+
+*Imagen técnica — documento: FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf, página 10, sección: 15.*
 
 ### Página 11
 

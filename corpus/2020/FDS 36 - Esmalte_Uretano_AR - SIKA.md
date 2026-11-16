@@ -85,9 +85,11 @@ Peligro a largo plazo (crónico) para el medio
 ambiente acuático:
 Categoría 3
 
-![imagen página 1](FDS 36 - Esmalte_Uretano_AR - SIKA/img/page1_xref20.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 36 - Esmalte_Uretano_AR - SIKA/img/page1_xref20.jpeg>)
+
+*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -146,17 +148,23 @@ P501 Eliminar el contenido/ el recipiente en una planta de eliminación de resid
 2.3 Ingredientes peligrosos
 Acetato de butilo
 
-![imagen página 2](FDS 36 - Esmalte_Uretano_AR - SIKA/img/page2_xref48.jpeg)
+#### Imagen técnica 1 (página 2, sección 2)
 
-*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+![imagen técnica página 2](<FDS 36 - Esmalte_Uretano_AR - SIKA/img/page2_xref48.jpeg>)
 
-![imagen página 2](FDS 36 - Esmalte_Uretano_AR - SIKA/img/page2_xref49.jpeg)
+*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf, página 2, sección: 2.*
 
-*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+#### Imagen técnica 2 (página 2, sección 2)
 
-![imagen página 2](FDS 36 - Esmalte_Uretano_AR - SIKA/img/page2_xref50.jpeg)
+![imagen técnica página 2](<FDS 36 - Esmalte_Uretano_AR - SIKA/img/page2_xref49.jpeg>)
 
-*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf.pdf, página 2, sección: indeterminada.*
+*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf, página 2, sección: 2.*
+
+#### Imagen técnica 3 (página 2, sección 2)
+
+![imagen técnica página 2](<FDS 36 - Esmalte_Uretano_AR - SIKA/img/page2_xref50.jpeg>)
+
+*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf, página 2, sección: 2.*
 
 ### Página 3
 
@@ -727,17 +735,23 @@ No hay datos disponibles
 | 14.6 Información adicional | Previsiones especiales<br>640(E)<br>Código para túneles<br>(E) | Emergency schedules (EmS)<br>F-E, S-E | -|
 | Código de clasificación | F1 |  | |
 
-![imagen página 10](FDS 36 - Esmalte_Uretano_AR - SIKA/img/page10_xref83.jpeg)
+#### Imagen técnica 1 (página 10, sección 14)
 
-*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf.pdf, página 10, sección: 15.*
+![imagen técnica página 10](<FDS 36 - Esmalte_Uretano_AR - SIKA/img/page10_xref83.jpeg>)
 
-![imagen página 10](FDS 36 - Esmalte_Uretano_AR - SIKA/img/page10_xref84.jpeg)
+*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf, página 10, sección: 14.*
 
-*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf.pdf, página 10, sección: 15.*
+#### Imagen técnica 2 (página 10, sección 14)
 
-![imagen página 10](FDS 36 - Esmalte_Uretano_AR - SIKA/img/page10_xref85.jpeg)
+![imagen técnica página 10](<FDS 36 - Esmalte_Uretano_AR - SIKA/img/page10_xref84.jpeg>)
 
-*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf.pdf, página 10, sección: 15.*
+*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf, página 10, sección: 14.*
+
+#### Imagen técnica 3 (página 10, sección 14)
+
+![imagen técnica página 10](<FDS 36 - Esmalte_Uretano_AR - SIKA/img/page10_xref85.jpeg>)
+
+*Imagen técnica — documento: FDS 36 - Esmalte_Uretano_AR - SIKA.pdf, página 10, sección: 14.*
 
 ### Página 11
 

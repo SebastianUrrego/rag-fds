@@ -107,9 +107,11 @@ Página 1/16
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones<br>en materia de seguridad química.<br>Carc. 1B: Carcinogenicidad, Categoría 1B, H350<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Irrit. oc. 2: Irritación ocular, categoría 2, H319<br>Liq. Infl. 3: Líquidos inflamables, Categoría 3, H226<br>Muta. 1B: Mutageneidad en células germinales, Categoría 1B, H340<br>Repr. 1B: Tóxico para la reproducción, Categoría 1B, H360<br>Sens. Cut. 1A: Sensibilización cutánea, Categoría 1A, H317<br>Tox. Agud. 4: Toxicidad aguda por contacto con la piel, Categoría 4, H312<br>Tox. Agud. 4: Toxicidad aguda por ingestión, Categoría 4, H302<br>Tox. Agud. 4: Toxicidad aguda por inhalación, Categoría 4, H332<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Carc. 1B: H350 - Puede provocar cáncer.<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea.<br>Irrit. oc. 2: H319 - Provoca irritación ocular grave.<br>Liq. Infl. 3: H226 - Líquido y vapores inflamables.<br>Muta. 1B: H340 - Puede provocar defectos genéticos.<br>Repr. 1B: H360 - Puede perjudicar la fertilidad o dañar al feto.<br>Sens. Cut. 1A: H317 - Puede provocar una reacción cutánea alérgica.<br>Tox. Agud. 4: H312 - Nocivo en contacto con la piel.<br>Tox. Agud. 4: H302 - Nocivo en caso de ingestión.<br>Tox. Agud. 4: H332 - Nocivo si se inhala.<br>Consejos de prudencia: | |
 
-![imagen página 1](FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO Componente A - PINTULAND/img/page1_xref110.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO Componente A - PINTULAND/img/page1_xref110.png>)
+
+*Imagen técnica — documento: FDS 60 - PRIMER EPOXICO POLIAMIDA ROJO, Componente A - PINTULAND.pdf, página 1, sección: 1.*
 
 ### Página 2
 

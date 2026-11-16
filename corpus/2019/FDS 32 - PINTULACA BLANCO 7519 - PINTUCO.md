@@ -107,21 +107,29 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente<br>Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Irrit. oc. 2: Irritación ocular, categoría 2, H319<br>Liq. Infl. 2: Líquidos inflamables, Categoría 2, H225<br>Tox. Agud. 5: Toxicidad aguda por contacto con la piel, Categoría 5, H313<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea<br>Irrit. oc. 2: H319 - Provoca irritación ocular grave<br>Liq. Infl. 2: H225 - Líquido y vapores muy inflamables<br>Tox. Agud. 5: H313 - Puede ser nocivo en contacto con la piel<br>Consejos de prudencia:<br>P201: Procurarse las instrucciones antes del uso<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar<br>P280: Usar guantes/ropa de protección/equipo de protección para los ojos/la cara<br>P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua<br>P305+P351+P338: EN CASO DE CONTACTO CON LOS OJOS: Enjuagar con agua cuidadosamente durante varios minutos. Quitar<br>las lentes de contacto cuando estén presentes y pueda hacerse con facilidad. Proseguir con el lavado<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico<br>P370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción<br>P501: Eliminar el contenido/recipiente de acuerdo con la normativa sobre residuos peligrosos o envases y residuos de envases<br>respectivamente<br>Sustancias que contribuyen a la clasificación<br>Xileno; 2-butoxietanol; Ftalato de bis(2-etilhexilo)<br>2.3 Otros peligros que no conducen a una clasificación:<br>No relevante | |
 
-![imagen página 1](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page1_xref6.png>)
 
-![imagen página 1](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page1_xref10.jpeg)
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page1_xref18.png)
+![imagen técnica página 1](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page1_xref10.jpeg>)
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page1_xref20.png)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page1_xref18.png>)
+
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page1_xref20.png>)
+
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -608,33 +616,47 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|---|---|
 | Ducha de emerg encia | ANSI Z358-1<br>ISO 3864-1:2002 | Lavaojos | DIN 12 899<br>ISO 3864-1:2002|
 
-![imagen página 5](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref35.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref35.png>)
 
-![imagen página 5](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref37.png)
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 5, sección: 8.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref39.png)
+![imagen técnica página 5](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref37.png>)
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 5, sección: 8.*
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref41.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref39.png>)
 
-![imagen página 5](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref43.png)
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 5, sección: 8.*
+#### Imagen técnica 4 (página 5, sección 8)
 
-![imagen página 5](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref45.png)
+![imagen técnica página 5](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref41.png>)
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 5, sección: 8.*
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref47.png)
+#### Imagen técnica 5 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 5, sección: 8.*
+![imagen técnica página 5](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref43.png>)
+
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 6 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref45.png>)
+
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 7 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page5_xref47.png>)
+
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -1937,9 +1959,11 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|
 | 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:<br>NTP (National Toxicology Program): Ftalato de bis(2-etilhexilo)<br>Disposiciones particulares en materia de protección de las personas o el medio ambiente: | |
 
-![imagen página 12](FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page12_xref63.png)
+#### Imagen técnica 1 (página 12, sección 14)
 
-*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf.pdf, página 12, sección: 15.*
+![imagen técnica página 12](<FDS 32 - PINTULACA BLANCO 7519 - PINTUCO/img/page12_xref63.png>)
+
+*Imagen técnica — documento: FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf, página 12, sección: 14.*
 
 ### Página 13
 

@@ -135,13 +135,17 @@ Impresión: 2/03/2022            Emisión: 15/12/2021            Revisión: 2/03
 | CAS: 111-77-3 | 2-(2-Metoxietoxi)etanol | 0.1 - <2.5 %|
 | CAS: 13463-41-7 | Piritionato cincico | 0.1 - <2.5 %|
 
-![imagen página 1](FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page1_xref6.png>)
 
-![imagen página 1](FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page1_xref10.jpeg)
+*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page1_xref10.jpeg>)
+
+*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -462,25 +466,35 @@ Impresión: 2/03/2022            Emisión: 15/12/2021            Revisión: 2/03
 | Protección<br>obligatoria del<br>cuerpo | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el<br>trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante.|
 | Protección<br>obligatoria de los<br>pies | Calzado de seguridad contra riesgo químico | NORMATIVIDAD APLICABLE: NTC-ISO 20345 y NTC 2257. Reemplazar las botas<br>ante cualquier indicio de deterioro.|
 
-![imagen página 4](FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page4_xref27.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page4_xref27.png>)
 
-![imagen página 4](FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page4_xref29.png)
+*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page4_xref31.png)
+![imagen técnica página 4](<FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page4_xref29.png>)
 
-*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf, página 4, sección: 8.*
 
-![imagen página 4](FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page4_xref33.png)
+#### Imagen técnica 3 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page4_xref31.png>)
 
-![imagen página 4](FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page4_xref35.png)
+*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 4 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page4_xref33.png>)
+
+*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf, página 4, sección: 8.*
+
+#### Imagen técnica 5 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page4_xref35.png>)
+
+*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -592,13 +606,17 @@ Impresión: 2/03/2022            Emisión: 15/12/2021            Revisión: 2/03
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Viscoso<br>Color: Blanco<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 100 - 2230 ºC<br>Presión de vapor a 20 ºC: 2343 Pa<br>Presión de vapor a 50 ºC: 12342,61 Pa (12,34 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 1203,4 kg/m³<br>Densidad relativa a 20 ºC: 1,31 - 1,337<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>Viscosidad cinemática a 40 ºC: >20,5 mm²/s<br>Concentración: No relevante *<br>pH: 8,5 - 9,5<br>Densidad de vapor a 20 ºC: No relevante *<br>Coeficiente de reparto n-octanol/agua a 20 ºC: No relevante *<br>Solubilidad en agua a 20 ºC: No relevante *<br>Propiedad de solubilidad: No relevante *<br>Temperatura de descomposición: No relevante *<br>Punto de fusión/punto de congelación: No relevante *<br>Inflamabilidad:<br>Punto de inflamación: No inflamable (>93 ºC)<br>Inflamabilidad (sólido, gas): No relevante *<br>Temperatura de auto-inflamación: 215 ºC<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 5](FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page5_xref39.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page5_xref39.png>)
 
-![imagen página 5](FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page5_xref41.png)
+*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO/img/page5_xref41.png>)
+
+*Imagen técnica — documento: FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf, página 5, sección: 8.*
 
 ### Página 6
 

@@ -99,9 +99,11 @@ Colombia
 |---|---|
 | No aplicable. | |
 
-![imagen página 1](FDS 64 - DIMETCOTE 9 SERIES POWDER PINTURA DE SILICATO DE ZINC - PPG/img/page1_xref17.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 64 - DIMETCOTE 9 SERIES POWDER (PINTURA DE SILICATO DE ZINC) - PPG.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 64 - DIMETCOTE 9 SERIES POWDER PINTURA DE SILICATO DE ZINC - PPG/img/page1_xref17.jpeg>)
+
+*Imagen técnica — documento: FDS 64 - DIMETCOTE 9 SERIES POWDER (PINTURA DE SILICATO DE ZINC) - PPG.pdf, página 1, sección: 1.*
 
 ### Página 2
 

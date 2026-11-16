@@ -102,25 +102,35 @@ Página 1/12
 |  | SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>NFPA:<br>Salud: 1<br>Inflamabilidad: 0<br>Inestabilidad: 0<br>Especiales: No relevante<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en<br>materia de seguridad química.<br>Acuático agudo. 1: Peligrosidad aguda para el medio ambiente acuático, Categoría 1, H400<br>Acuático crónico. 3: Peligrosidad crónica para el medio ambiente acuático, Categoría 3, H412<br>Carc. 2: Carcinogenicidad, Categoría 2, H351<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>NFPA:<br>SGA:<br>Atención<br>Indicaciones de peligro:<br>Acuático agudo. 1: H400 - Muy tóxico para los organismos acuáticos.<br>Acuático crónico. 3: H412 - Nocivo para los organismos acuáticos, con efectos nocivos duraderos.<br>Carc. 2: H351 - Susceptible de provocar cáncer (Inhalación).<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P201: Procurarse las instrucciones antes del uso.<br>P202: No manipular antes de haber leído y comprendido todas las precauciones de seguridad.<br>P273: No dispersar en el medio ambiente.<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico.<br>P391: Recoger los vertidos.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.<br>Sustancias que contribuyen a la clasificación | |
 
-![imagen página 1](FDS 88 - PINTURA LAVABLE - CORONA/img/page1_xref9.png)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 88 - PINTURA LAVABLE - CORONA/img/page1_xref9.png>)
 
-![imagen página 1](FDS 88 - PINTURA LAVABLE - CORONA/img/page1_xref15.png)
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 88 - PINTURA LAVABLE - CORONA/img/page1_xref17.png)
+![imagen técnica página 1](<FDS 88 - PINTURA LAVABLE - CORONA/img/page1_xref15.png>)
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 88 - PINTURA LAVABLE - CORONA/img/page1_xref19.png)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 88 - PINTURA LAVABLE - CORONA/img/page1_xref17.png>)
 
-![imagen página 1](FDS 88 - PINTURA LAVABLE - CORONA/img/page1_xref21.png)
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 88 - PINTURA LAVABLE - CORONA/img/page1_xref19.png>)
+
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 1, sección: 2.*
+
+#### Imagen técnica 5 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 88 - PINTURA LAVABLE - CORONA/img/page1_xref21.png>)
+
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -523,33 +533,47 @@ Página 5/12
 |---|---|---|---|
 | Ducha de emergencia | ANSI Z358-1<br>ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899<br>ISO 3864-1:2011, ISO 3864-4:2011|
 
-![imagen página 5](FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref51.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref51.png>)
 
-![imagen página 5](FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref53.png)
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref55.png)
+![imagen técnica página 5](<FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref53.png>)
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref57.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref55.png>)
 
-![imagen página 5](FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref59.png)
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 4 (página 5, sección 8)
 
-![imagen página 5](FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref61.png)
+![imagen técnica página 5](<FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref57.png>)
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref62.png)
+#### Imagen técnica 5 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref59.png>)
+
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 6 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref61.png>)
+
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 7 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 88 - PINTURA LAVABLE - CORONA/img/page5_xref62.png>)
+
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -947,17 +971,23 @@ Página 9/12
 |  | SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE|
 | Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1 Número ONU: UN3082<br>14.2 Designación oficial de SUSTANCIA LÍQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P.<br>transporte de las Naciones (1,2-bencisotiazol-3(2H)-ona; Piritionato cincico)<br>Unidas:<br>14.3 Clase(s) relativas al 9<br>transporte:<br>Etiquetas: 9<br>14.4 Grupo de embalaje/envasado III<br>si se aplica:<br>14.5 Riesgos ambientales: Sí<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: Ver sección 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de<br>MARPOL 73/78 y al Código<br>IBC:<br>Transporte marí t imo d e mercancías peligrosas:<br>En aplicación al IMDG 41-22: | |
 
-![imagen página 9](FDS 88 - PINTURA LAVABLE - CORONA/img/page9_xref71.png)
+#### Imagen técnica 1 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 9, sección: 14.*
+![imagen técnica página 9](<FDS 88 - PINTURA LAVABLE - CORONA/img/page9_xref71.png>)
 
-![imagen página 9](FDS 88 - PINTURA LAVABLE - CORONA/img/page9_xref73.png)
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 9, sección: 14.*
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 9, sección: 14.*
+#### Imagen técnica 2 (página 9, sección 14)
 
-![imagen página 9](FDS 88 - PINTURA LAVABLE - CORONA/img/page9_xref75.png)
+![imagen técnica página 9](<FDS 88 - PINTURA LAVABLE - CORONA/img/page9_xref73.png>)
 
-*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf.pdf, página 9, sección: 14.*
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 9, sección: 14.*
+
+#### Imagen técnica 3 (página 9, sección 14)
+
+![imagen técnica página 9](<FDS 88 - PINTURA LAVABLE - CORONA/img/page9_xref75.png>)
+
+*Imagen técnica — documento: FDS 88 - PINTURA LAVABLE - CORONA.pdf, página 9, sección: 14.*
 
 ### Página 10
 

@@ -99,9 +99,11 @@ Colombia
 |---|---|
 | No aplicable. | |
 
-![imagen página 1](FDS 63 AMERCOAT 68HS POWDER PINTURA EPÓXICA - PPG/img/page1_xref17.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 63 AMERCOAT 68HS POWDER (PINTURA EPÓXICA) - PPG.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 63 AMERCOAT 68HS POWDER PINTURA EPÓXICA - PPG/img/page1_xref17.jpeg>)
+
+*Imagen técnica — documento: FDS 63 AMERCOAT 68HS POWDER (PINTURA EPÓXICA) - PPG.pdf, página 1, sección: 1.*
 
 ### Página 2
 

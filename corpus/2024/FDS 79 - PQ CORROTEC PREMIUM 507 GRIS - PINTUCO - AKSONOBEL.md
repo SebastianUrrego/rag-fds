@@ -75,13 +75,17 @@ Versión
 : 1
 1/17
 
-![imagen página 1](FDS 79 - PQ CORROTEC PREMIUM 507 GRIS - PINTUCO - AKSONOBEL/img/page1_xref26.jpeg)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 79 - PQ CORROTEC PREMIUM 507 GRIS - PINTUCO - AKSONOBEL.pdf.pdf, página 1, sección: 1.*
+![imagen técnica página 1](<FDS 79 - PQ CORROTEC PREMIUM 507 GRIS - PINTUCO - AKSONOBEL/img/page1_xref26.jpeg>)
 
-![imagen página 1](FDS 79 - PQ CORROTEC PREMIUM 507 GRIS - PINTUCO - AKSONOBEL/img/page1_xref27.jpeg)
+*Imagen técnica — documento: FDS 79 - PQ CORROTEC PREMIUM 507 GRIS - PINTUCO - AKSONOBEL.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 79 - PQ CORROTEC PREMIUM 507 GRIS - PINTUCO - AKSONOBEL.pdf.pdf, página 1, sección: 1.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 79 - PQ CORROTEC PREMIUM 507 GRIS - PINTUCO - AKSONOBEL/img/page1_xref27.jpeg>)
+
+*Imagen técnica — documento: FDS 79 - PQ CORROTEC PREMIUM 507 GRIS - PINTUCO - AKSONOBEL.pdf, página 1, sección: 1.*
 
 ### Página 2
 

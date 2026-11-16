@@ -111,21 +111,29 @@ Emisión: 4/08/2021            Versión: 1
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema<br>Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de<br>seguridad química.<br>Carc. 2: Carcinogenicidad, Categoría 2, H351<br>Carc. 2: Carcinogenicidad, Categoría 2, H351<br>Liq. Infl. 3: Líquidos inflamables, Categoría 3, H226<br>STOT única 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Atención<br>Indicaciones de peligro:<br>Carc. 2: H351 - Susceptible de provocar cáncer.<br>Carc. 2: H351 - Susceptible de provocar cáncer (Inhalación).<br>Liq. Infl. 3: H226 - Líquido y vapores inflamables.<br>STOT única 3: H336 - Puede provocar somnolencia o vértigo.<br>Consejos de prudencia:<br>P101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.<br>P102: Mantener fuera del alcance de los niños.<br>P201: Procurarse las instrucciones antes del uso.<br>P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar.<br>P280: Usar guantes de protección/equipo de protección para la cara/ropa de protección.<br>P304+P340: EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la<br>respiración.<br>P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico.<br>P370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción.<br>P403+P233: Almacenar en un lugar bien ventilado. Mantener el recipiente herméticamente cerrado.<br>P501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.<br>Sustancias que contribuyen a la clasificación<br>Hidrocarburos, C9-C11, n-alcanos, isoalcanos, ciclicos, <2% aromaticos; Dioxido de titanio (diámetro aerodinámico ≤ 10 μm);<br>Negro de carbon<br>2.3 Otros peligros que no conducen a una clasificación:<br>No relevante | |
 
-![imagen página 1](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page1_xref3.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page1_xref3.png>)
 
-![imagen página 1](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page1_xref6.png)
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page1_xref9.png)
+![imagen técnica página 1](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page1_xref6.png>)
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 1, sección: 2.*
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page1_xref11.png)
+#### Imagen técnica 3 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page1_xref9.png>)
+
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 1, sección: 1.*
+
+#### Imagen técnica 4 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page1_xref11.png>)
+
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 1, sección: 1.*
 
 ### Página 2
 
@@ -462,13 +470,17 @@ Emisión: 4/08/2021            Versión: 1
 |---|---|---|
 | Protección<br>obligatoria de la<br>manos | Guantes NO desechables de protección<br>química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso<br>(Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de<br>uso del producto. No emplear cremas protectoras después del contacto del<br>producto con la piel.|
 
-![imagen página 4](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page4_xref16.jpeg)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page4_xref16.jpeg>)
 
-![imagen página 4](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page4_xref18.jpeg)
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page4_xref18.jpeg>)
+
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -590,25 +602,35 @@ Emisión: 4/08/2021            Versión: 1
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Viscoso<br>Color: No determinado<br>Olor: No determinado<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 170 ºC<br>Presión de vapor a 20 ºC: 199 Pa<br>Presión de vapor a 50 ºC: 1807.19 Pa (1.81 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 5](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page5_xref21.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page5_xref21.png>)
 
-![imagen página 5](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page5_xref23.png)
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page5_xref25.jpeg)
+![imagen técnica página 5](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page5_xref23.png>)
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page5_xref27.jpeg)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page5_xref25.jpeg>)
 
-![imagen página 5](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page5_xref29.jpeg)
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 4 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page5_xref27.jpeg>)
+
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 5, sección: 8.*
+
+#### Imagen técnica 5 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page5_xref29.jpeg>)
+
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -1041,9 +1063,11 @@ Emisión: 4/08/2021            Versión: 1
 |---|---|
 | Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1 Número ONU: UN1263<br>14.2 Designación oficial de PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3 Clase(s) relativas al 3<br>transporte:<br>Etiquetas: 3<br>14.4 Grupo de embalaje/envasado III<br>si se aplica:<br>14.5 Riesgos ambientales: No<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: Ver sección 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 39-18: | |
 
-![imagen página 9](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page9_xref35.jpeg)
+#### Imagen técnica 1 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 9, sección: 14.*
+![imagen técnica página 9](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page9_xref35.jpeg>)
+
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 9, sección: 14.*
 
 ### Página 10
 
@@ -1148,13 +1172,17 @@ Emisión: 4/08/2021            Versión: 1
 |---|---|
 | 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:<br>NTP (National Toxicology Program): No relevante<br>Disposiciones particulares en materia de protección de las personas o el medio ambiente:<br>Se recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en<br>una evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de<br>riesgos para el manejo, utilización, almacenamiento y eliminación de este producto.<br>Otras legislaciones: | |
 
-![imagen página 10](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page10_xref38.jpeg)
+#### Imagen técnica 1 (página 10, sección 14)
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 10, sección: 15.*
+![imagen técnica página 10](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page10_xref38.jpeg>)
 
-![imagen página 10](FDS 52 - HS-P-P-029 - Premier - INVESA/img/page10_xref40.jpeg)
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 10, sección: 14.*
 
-*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf.pdf, página 10, sección: 15.*
+#### Imagen técnica 2 (página 10, sección 14)
+
+![imagen técnica página 10](<FDS 52 - HS-P-P-029 - Premier - INVESA/img/page10_xref40.jpeg>)
+
+*Imagen técnica — documento: FDS 52 - HS-P-P-029 - Premier - INVESA.pdf, página 10, sección: 14.*
 
 ### Página 11
 

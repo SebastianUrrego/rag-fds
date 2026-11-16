@@ -89,13 +89,17 @@ Versión
 : 1
 1/16
 
-![imagen página 1](FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B/img/page1_xref26.jpeg)
+#### Imagen técnica 1 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B/img/page1_xref26.jpeg>)
 
-![imagen página 1](FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B/img/page1_xref27.jpeg)
+*Imagen técnica — documento: FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf.pdf, página 1, sección: 2.*
+#### Imagen técnica 2 (página 1, sección 1)
+
+![imagen técnica página 1](<FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B/img/page1_xref27.jpeg>)
+
+*Imagen técnica — documento: FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf, página 1, sección: 1.*
 
 ### Página 2
 

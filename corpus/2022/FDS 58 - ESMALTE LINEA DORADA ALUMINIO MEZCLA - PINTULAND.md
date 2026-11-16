@@ -110,9 +110,11 @@ Página 1/15
 |---|---|
 | 2.1 Clasificación de la sustancia o de la mezcla:<br>SGA:<br>La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018 y la Resolución 773 de 2021, por el cual se<br>adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones<br>en materia de seguridad química.<br>Acuático agudo. 3: Peligrosidad aguda para el medio ambiente acuático, Categoría 3, H402<br>Carc. 1B: Carcinogenicidad, Categoría 1B, H350<br>Irrit. Cut. 2: Irritación cutánea, categoría 2, H315<br>Irrit. oc. 2: Irritación ocular, categoría 2, H319<br>Liq. Infl. 3: Líquidos inflamables, Categoría 3, H226<br>Muta. 1B: Mutageneidad en células germinales, Categoría 1B, H340<br>Repr. 1B: Tóxico para la reproducción, Categoría 1B, H360<br>Sens. Cut. 1A: Sensibilización cutánea, Categoría 1A, H317<br>STOT repe. 2: Toxicidad específica en determinados órganos — Exposiciones repetidas, categoría 2 (Inhalación), H373<br>STOT única 3: Toxicidad para la vías respiratorias (exposición única), Categoría 3, H335<br>STOT única 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336<br>Tox. Agud. 4: Toxicidad aguda por ingestión, Categoría 4, H302<br>2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:<br>SGA:<br>Peligro<br>Indicaciones de peligro:<br>Acuático agudo. 3: H402 - Nocivo para los organismos acuáticos.<br>Carc. 1B: H350 - Puede provocar cáncer.<br>Irrit. Cut. 2: H315 - Provoca irritación cutánea.<br>Irrit. oc. 2: H319 - Provoca irritación ocular grave.<br>Liq. Infl. 3: H226 - Líquido y vapores inflamables.<br>Muta. 1B: H340 - Puede provocar defectos genéticos.<br>Repr. 1B: H360 - Puede perjudicar la fertilidad o dañar al feto.<br>Sens. Cut. 1A: H317 - Puede provocar una reacción cutánea alérgica.<br>STOT repe. 2: H373 - Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas (Inhalación).<br>STOT única 3: H335 - Puede irritar las vías respiratorias.<br>STOT única 3: H336 - Puede provocar somnolencia o vértigo.<br>Tox. Agud. 4: H302 - Nocivo en caso de ingestión.<br>Consejos de prudencia: | |
 
-![imagen página 1](FDS 58 - ESMALTE LINEA DORADA ALUMINIO MEZCLA - PINTULAND/img/page1_xref108.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 58 - ESMALTE LINEA DORADA, ALUMINIO MEZCLA - PINTULAND.pdf.pdf, página 1, sección: 2.*
+![imagen técnica página 1](<FDS 58 - ESMALTE LINEA DORADA ALUMINIO MEZCLA - PINTULAND/img/page1_xref108.png>)
+
+*Imagen técnica — documento: FDS 58 - ESMALTE LINEA DORADA, ALUMINIO MEZCLA - PINTULAND.pdf, página 1, sección: 1.*
 
 ### Página 2
 

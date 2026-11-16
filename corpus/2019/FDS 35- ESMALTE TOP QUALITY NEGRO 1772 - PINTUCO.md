@@ -119,25 +119,35 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|
 | 3.1 Sustancias: | |
 
-![imagen página 1](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page1_xref6.png)
+#### Imagen técnica 1 (página 1, sección 1)
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page1_xref6.png>)
 
-![imagen página 1](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page1_xref11.jpeg)
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 1, sección: 1.*
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 2 (página 1, sección 1)
 
-![imagen página 1](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page1_xref19.png)
+![imagen técnica página 1](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page1_xref11.jpeg>)
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 1, sección: 3.*
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 1, sección: 1.*
 
-![imagen página 1](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page1_xref21.png)
+#### Imagen técnica 3 (página 1, sección 2)
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 1, sección: 3.*
+![imagen técnica página 1](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page1_xref19.png>)
 
-![imagen página 1](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page1_xref23.png)
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 1, sección: 2.*
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 1, sección: 3.*
+#### Imagen técnica 4 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page1_xref21.png>)
+
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 1, sección: 2.*
+
+#### Imagen técnica 5 (página 1, sección 2)
+
+![imagen técnica página 1](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page1_xref23.png>)
+
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 1, sección: 2.*
 
 ### Página 2
 
@@ -449,17 +459,23 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|---|
 | Proteccion<br>obligatoria de la cara | Gafas de seguridad | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del<br>fabricante. Se recomienda su uso en caso de riesgo de salpicaduras.|
 
-![imagen página 4](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page4_xref36.png)
+#### Imagen técnica 1 (página 4, sección 8)
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 4, sección: 8.*
+![imagen técnica página 4](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page4_xref36.png>)
 
-![imagen página 4](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page4_xref38.png)
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 4, sección: 8.*
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 4, sección: 8.*
+#### Imagen técnica 2 (página 4, sección 8)
 
-![imagen página 4](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page4_xref40.png)
+![imagen técnica página 4](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page4_xref38.png>)
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 4, sección: 8.*
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 4, sección: 8.*
+
+#### Imagen técnica 3 (página 4, sección 8)
+
+![imagen técnica página 4](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page4_xref40.png>)
+
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 4, sección: 8.*
 
 ### Página 5
 
@@ -577,21 +593,29 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|
 | 9.1 Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC: Líquido<br>Aspecto: Característico<br>Color: Característico<br>Olor: Característico<br>Umbral olfativo: No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica: 231 ºC<br>Presión de vapor a 20 ºC: 19 Pa<br>Presión de vapor a 50 ºC: 128,16 Pa (0,13 kPa)<br>Tasa de evaporación a 20 ºC: No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC: 918,4 kg/m³<br>Densidad relativa a 20 ºC: 0,906 - 0,933<br>Viscosidad dinámica a 20 ºC: No relevante *<br>Viscosidad cinemática a 20 ºC: No relevante *<br>Viscosidad cinemática a 40 ºC: <20,5 cSt<br>Concentración: No relevante *<br>pH: No relevante *<br>Densidad de vapor a 20 ºC: No relevante *<br>Coeficiente de reparto n-octanol/agua a 20 ºC: No relevante *<br>Solubilidad en agua a 20 ºC: No relevante *<br>Propiedad de solubilidad: No relevante *<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | |
 
-![imagen página 5](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page5_xref44.png)
+#### Imagen técnica 1 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page5_xref44.png>)
 
-![imagen página 5](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page5_xref46.png)
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 5, sección: 8.*
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 5, sección: 9.*
+#### Imagen técnica 2 (página 5, sección 8)
 
-![imagen página 5](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page5_xref48.png)
+![imagen técnica página 5](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page5_xref46.png>)
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 5, sección: 9.*
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 5, sección: 8.*
 
-![imagen página 5](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page5_xref50.png)
+#### Imagen técnica 3 (página 5, sección 8)
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 5, sección: 9.*
+![imagen técnica página 5](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page5_xref48.png>)
+
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 5, sección: 8.*
+
+#### Imagen técnica 4 (página 5, sección 8)
+
+![imagen técnica página 5](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page5_xref50.png>)
+
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 5, sección: 8.*
 
 ### Página 6
 
@@ -965,13 +989,17 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|
 | Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1 Número ONU: UN1263<br>14.2 Designación oficial de PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3 Clase(s) relativas al transporte: 3<br>Etiquetas: 3<br>14.4 Grupo de embalaje/envasado si III<br>se aplica:<br>14.5 Riesgos ambientales: Sí<br>14.6 Precauciones especiales para el usuario<br>Propiedades físico-químicas: ver epígrafe 9<br>14.7 Transporte a granel con No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas: | |
 
-![imagen página 8](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page8_xref58.png)
+#### Imagen técnica 1 (página 8, sección 14)
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 8, sección: 14.*
+![imagen técnica página 8](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page8_xref58.png>)
 
-![imagen página 8](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page8_xref60.png)
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 8, sección: 14.*
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 8, sección: 14.*
+#### Imagen técnica 2 (página 8, sección 14)
+
+![imagen técnica página 8](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page8_xref60.png>)
+
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 8, sección: 14.*
 
 ### Página 9
 
@@ -1068,9 +1096,11 @@ Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (su
 |---|---|
 | 15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:<br>NTP (National Toxicology Program): No relevante<br>Disposiciones particulares en materia de protección de las personas o el medio ambiente:<br>Se recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una<br>evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para<br>el manejo, utilización, almacenamiento y eliminación de este producto.<br>Otras legislaciones: | |
 
-![imagen página 9](FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page9_xref64.png)
+#### Imagen técnica 1 (página 9, sección 14)
 
-*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf.pdf, página 9, sección: 15.*
+![imagen técnica página 9](<FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO/img/page9_xref64.png>)
+
+*Imagen técnica — documento: FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf, página 9, sección: 14.*
 
 ### Página 10
 
